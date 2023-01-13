@@ -1,3 +1,39 @@
 baseURL = 'https://sevens-legal.netlify.app'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = 'Free Consultation | San Diego Criminal Defense Lawyer'
+theme = 'netlify-basic'
+[markup.goldmark.parser.attribute]
+block = true
+title = true
+[taxonomies]
+    category = "categories"
+    tag = "tags"
+[permalinks]
+  posts = '/:slug/'
+[menu]
+[[menu.main]]
+    name = "Home"
+    identifier = "home"
+	weight = -150
+    url = "/"
+[[menu.main]]
+    name = "Attorneys"
+    identifier = "attorneys"
+	weight = -140
+    url = "/sevens-legal-attorneys/"
+[[menu.main]]
+    name = "Criminal Law"
+	weight = -130
+    url = "/criminal-lawyer/"
+[[menu.main]]
+weight = -120
+    name = "Testimonials"
+    url = "/testimonials/"
+[[menu.main]]
+    name = "Blog"
+	weight = -110
+    url = "/blog/"
+[[menu.main]]
+weight = -100
+    name = "Contact"
+    url = "/contact/"
