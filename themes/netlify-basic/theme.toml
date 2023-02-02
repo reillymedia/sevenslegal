@@ -4,7 +4,7 @@
 name = "Netlify Basic"
 license = "MIT"
 description = "A very basic theme for a quickstart template"
-homepage = "https://new-sevenslegal.netlify.app/"
+homepage = "https://sevenlegals.netlify.app/"
 tags = []
 features = []
 min_version = "0.41.0"
