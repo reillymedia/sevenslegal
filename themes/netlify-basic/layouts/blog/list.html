@@ -57,16 +57,7 @@
 {{ if isset .Site.Taxonomies "tags" }}
 {{ if not (eq (len .Site.Taxonomies.tags) 0) }}
 <div class="panel panel-default sidebar-menu">
-    <div class="panel-body">
-        <!--<ul class="nav nav-pills nav-stacked">
-            {{ $current := . }}
-            {{ range $name, $items := .Site.Taxonomies.categories }}
-            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/categories/%s/") }} class="active"{{ end }}>
-                <a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | upper }} ({{ len $items }})</a>
-            </li>
-            {{ end }}
-        </ul> -->
-    </div>
+    
 
 </div>
 {{ end }}
