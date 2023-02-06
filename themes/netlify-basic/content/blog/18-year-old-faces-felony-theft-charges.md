@@ -1,14 +1,13 @@
 +++
 categories = "Criminal Law"
-date = 2022-11-14T18:30:00Z
+date = 2022-11-14T18:30:00.000Z
 pfd_file = ""
 summary = "A man charged with 68 felony counts of theft is due in court. Felony Theft Charges Facing 18-Year Old According to the City of Manhattan Beach Police, 18-year-old Kevin Lucas, was arrested and booked into the Vista Detention Center in San Diego County this past June. Lucas was accused of targeting the vehicles of people,"
-tags = ["Blog", "Grand Theft", "Petty Theft", "Theft"]
+tags = [ "Blog", "Grand Theft", "Petty Theft", "Theft" ]
 title = "18-Year Old Faces Felony Theft Charges"
 url = "/criminal-law/18year-faces-felony-theft-charges/"
-
 +++
-A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court.
+A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court. test
 
 ## 18-Year Old Faces Felony Theft Charges
 
@@ -71,7 +70,7 @@ Penal Code Section 484 covers [general theft crime violations](http://sevenslega
 
 ### Penal Code Section 488 – Petty Theft Misdemeanor
 
-Under Penal Code 488 petty theft involves the[ theft of property](http://sevenslegal.com/) with a value of less than $950 and is charged as either an infraction or misdemeanor. An example of petty theft of this type is shoplifting. Even though it’s a misdemeanor, it’s still on the accused’s permanent record. The punishment of this type of petty theft includes a fine of up to $1,000, time in county jail of up to six months, or both.
+Under Penal Code 488 petty theft involves the[theft of property](http://sevenslegal.com/) with a value of less than $950 and is charged as either an infraction or misdemeanor. An example of petty theft of this type is shoplifting. Even though it’s a misdemeanor, it’s still on the accused’s permanent record. The punishment of this type of petty theft includes a fine of up to $1,000, time in county jail of up to six months, or both.
 
 ### Penal Code Section 487 – Grand Theft
 
