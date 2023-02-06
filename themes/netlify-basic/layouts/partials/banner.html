@@ -1,0 +1,12 @@
+<section>
+    <div {{ if .IsHome }} class="banner" {{ else }} class="banner innerbanner"  {{ end}}> 
+	{{if isset .Params "banner" }}
+	<img src="{{ .Params.banner }}" alt="{{ .Title }}">
+	{{ else }}
+        <img src="/img/Sevens-Legal-Criminal-Defense-lawyers.jpg.webp">
+		{{ end }}
+        <div class="container bannner-title">
+            <h2>{{ .Title }}</h2>
+        </div>
+    </div>
+</section>

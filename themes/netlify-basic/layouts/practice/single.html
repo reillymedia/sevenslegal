@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{ partial "head" . }}
+
+
+    <style>
+
+        .ti {
+            font-size: 22px;
+            padding: 10px;
+            background-color: #dcaa5c;
+            color: black;
+        }
+
+        .ti:hover {
+            color: white;
+            cursor: pointer;
+        }
+
+    </style>
+
+</head>
+
+<body>
+    {{ partial "header" . }}
+    {{ partial "banner" . }}
+
+    <div id="empresa" style="padding:20px;margin:1px;">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-6 col-md-6 col-lg-8">
+                    <h1>{{ .Title }}</h1>
+                    <p>{{ .Content }}</p>
+                </div>
+                <div class="col-sm-6 col-md-6 col-lg-4"><img src="/img/Samantha-Greene-2-200x300.jpg.webp"></div>
+            </div>
+        </div>
+    </div>
+    </div>
+    {{ partial "practice-areas" . }}
+    {{ partial "getin-touch" . }}
+    {{ partial "footer" . }}
+    {{ partial "scripts" . }}
+</body>
+
+</html>
