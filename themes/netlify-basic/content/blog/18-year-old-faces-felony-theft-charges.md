@@ -7,7 +7,7 @@ tags = [ "Blog", "Grand Theft", "Petty Theft", "Theft" ]
 title = "18-Year Old Faces Felony Theft Charges"
 url = "/criminal-law/18year-faces-felony-theft-charges/"
 +++
-A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court. test
+A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court.
 
 ## 18-Year Old Faces Felony Theft Charges
 
