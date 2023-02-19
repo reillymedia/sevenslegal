@@ -22,16 +22,16 @@
                                 <p style="color: rgb(0,0,0);">{{ if .Content }}{{ .Content }}{{ end }}</p>
                             </div>
                             <div class="col" style="margin-top: 50px;">
-							<h2>Catagories</h2>
-							{{ if isset .Site.Taxonomies "categories" }}
+							<div class="sidebox" id="categories-2"><h2>Categories</h2>
+                    
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
 <div class="panel panel-default sidebar-menu">
       <div class="panel-body">
         <ul class="nav nav-pills nav-stacked">
             {{ $current := . }}
             {{ range $name, $items := .Site.Taxonomies.categories }}
-            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/categories/%s/") }} class="active"{{ end }}>
-                <a href="{{ "categories/" | relLangURL }}{{ $name | urlize | lower }}">{{ $name | upper }} ({{ len $items }})</a>
+            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/categories/%s/") }} class="cat-item"{{ end }}>
+                <a href="{{ relLangURL }}{{ $name | urlize | lower }}">{{ $name | upper }} ({{ len $items }})</a>
             </li>
             {{ end }}
         </ul> 
@@ -40,6 +40,7 @@
 </div>
 {{ end }}
 {{ end }}
+</div>
                                 <h6 class="text-uppercase">COME SAY HELLO IN THE FORUMS!</h6>
                                 <h6 class="text-uppercase" style="margin-top: 50px;">CHECK OUT OUR YOUTUBE CHANNEL</h6>
                                 <div><i class="fa fa-google text-start" style="font-size: 111px;color: rgb(120,120,120);margin-top: 20px;"></i>
