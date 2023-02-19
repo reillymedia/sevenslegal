@@ -9,9 +9,8 @@ title = true
     category = "categories"
     tag = "tags"
 [permalinks]
-    categories =  "/:section/:slug"
-[permalinks]
   posts = '/:slug/'
+  categories =  "/:section/:slug"
 [menu]
 [[menu.main]]
     name = "Home"
