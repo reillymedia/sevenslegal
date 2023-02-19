@@ -52,23 +52,7 @@
                 </div>
                 <div class="col">
                     <div class="sidebox" id="categories-2"><h2>Categories</h2>
-{{ if isset .Site.Taxonomies "categories" }}
-{{ if not (eq (len .Site.Taxonomies.categories) 0) }}
-<div class="panel panel-default sidebar-menu">
-      <div class="panel-body">
-        <ul class="nav nav-pills nav-stacked">
-            {{ $current := . }}
-            {{ range $name, $items := .Site.Taxonomies.categories }}
-            <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/%s/") }} class="active"{{ end }}>
-                <a href="{{ $.Site.BaseURL }}{{ $name | urlize | lower }}">{{ $name | upper }}</a>
-            </li>
-            {{ end }}
-        </ul> 
-    </div>
 
-</div>
-{{ end }}
-{{ end }}
    </div>              
                     </div>
                 </div>
