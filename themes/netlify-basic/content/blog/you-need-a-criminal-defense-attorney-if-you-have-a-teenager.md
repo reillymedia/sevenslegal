@@ -1,12 +1,25 @@
 +++
-categories = ["Drug Crimes", "DUI", "Juvenile Crime", "Petty Theft ", "Theft", "Blog"]
-date = 2022-11-10T18:30:00Z
+categories = [
+  "Drug Crimes",
+  "DUI",
+  "Juvenile Crime",
+  "Petty Theft ",
+  "Theft",
+  "Blog"
+]
+date = 2022-11-10T18:30:00.000Z
 pfd_file = ""
 summary = "Needing a criminal defense attorney for your teen may sound crazy, but in a media-savvy world it can be a necessity. Raising a Teenager in 2015 In this new media-saturated world of Twitter, Instagram, and Tinder, sometimes your once loving child may seem like a monster that refuses to pay attention to anything you say "
-tags = ["Drug Crimes", "DUI", "Juvenile Crime", "Petty Theft ", "Theft", "Blog"]
+tags = [
+  "Drug Crimes",
+  "DUI",
+  "Juvenile Crime",
+  "Petty Theft ",
+  "Theft",
+  "Blog"
+]
 title = "You Need a Criminal Defense Attorney if You Have a Teenager"
 url = "/blog/criminal-attorney/criminal-defense-attorney-teenager/"
-
 +++
 Needing a [criminal defense attorney](https://www.sevenslegal.com/san-diego-juvenile-crime-lawyer/ "San Diego Juvenile Crime Lawyer") for your teen may sound crazy, but in a media-savvy world it can be a necessity.
 
@@ -98,7 +111,7 @@ Once you have a list of names, call and request to interview them. Make sure you
 
 “You may or may not end up being friends afterwards, but that’s not as important as feeling secure that your attorney is approaching the situation in a way that feels right for you.”
 
-If you’re in the market for a criminal defense attorney for your teenager, feel free to contact Sevens Legal, APC, to answers all your questions. Contact[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
+If you’re in the market for a criminal defense attorney for your teenager, feel free to contact Sevens Legal, APC, to answers all your questions. Contact&nbsp;[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC"), today for a free consultation.
 
 [Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal, APC")
 
