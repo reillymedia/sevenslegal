@@ -1,5 +1,5 @@
 +++
-categories = "Criminal Law"
+categories = ["Drug Crimes", "DUI", "Juvenile Crime", "Petty Theft ", "Theft", "Blog"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Needing a criminal defense attorney for your teen may sound crazy, but in a media-savvy world it can be a necessity. Raising a Teenager in 2015 In this new media-saturated world of Twitter, Instagram, and Tinder, sometimes your once loving child may seem like a monster that refuses to pay attention to anything you say "
