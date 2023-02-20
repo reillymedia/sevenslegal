@@ -30,7 +30,7 @@ paths:
   layouts: layouts
   static: static
   uploads: static/uploads
-  source: /themes/netlify-basic;
+  source: themes/netlify-basic;
   archetypes: archetypes
   assets: assets
   content: content
