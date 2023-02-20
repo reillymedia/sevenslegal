@@ -22,8 +22,7 @@ collections_config:
     disable_add: false
     icon: people
     description: All Attorneys.
-    data:
-     path: themes/netlify-basic/content/attorneys
+    path: themes/netlify-basic/content/attorneys
     secrets:
      path: themes/netlify-basic/content/attorneys
     add_options:
