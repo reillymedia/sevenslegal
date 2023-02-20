@@ -6,6 +6,8 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
    Attorney:
+    create:
+      path: '[relative_base_path]/{title|slugify}.md'
     sort:
       key: surname
     sort_options:
