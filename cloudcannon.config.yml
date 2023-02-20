@@ -6,9 +6,6 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
    Attorney:
-    schemas:
-      default:
-        path: content/attorneys/new.md
     create:
           path: 'content/attorneys/{slug}.md'    
     sort:
@@ -48,9 +45,6 @@ collections_config:
        type: image       
       
    Blogs:
-    schemas:
-      default:
-        path: content/blog/you-need-a-criminal-defense-attorney-if-you-have-a-teenager.md
     create:
           path: 'content/blog/{slug}.md'    
     sort:
@@ -73,7 +67,7 @@ collections_config:
     secrets:
      path: content/blog
     add_options:
-      - name: Add Attorney
+      - name: Add Post
         editor: content
         icon: person_add
     filter:
