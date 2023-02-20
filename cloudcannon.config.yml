@@ -5,7 +5,12 @@
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
 collections_config:
-  staff:
+  
+
+# Control which collections are displayed in the CloudCannon site navigation,
+# and how those collections are grouped.
+collection_groups:
+   Pages:
     sort:
       key: surname
     sort_options:
@@ -31,11 +36,6 @@ collections_config:
     filter:
       exclude:
         - secret.yml
-
-# Control which collections are displayed in the CloudCannon site navigation,
-# and how those collections are grouped.
-collection_groups:
-    Pages:
     
 
 # Set this to true to disable auto-detection of collections.
