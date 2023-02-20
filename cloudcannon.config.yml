@@ -34,9 +34,16 @@ collections_config:
       - name: Add Attorney
         editor: content
         icon: person_add
-    filter:
-      exclude:
-        - secret.yml
+    inputs:
+     title:
+      label: Name
+     src:
+      label: Banner Image     
+      type: image
+     frontimg:
+      label: Profile Image
+      type: image       
+      
    Blogs:
     schemas:
       default:
