@@ -22,6 +22,8 @@ collections_config:
     disable_add: false
     icon: people
     description: All Attorneys.
+    data:
+     path: themes/netlify-basic/content/attorneys
     secrets:
      path: themes/netlify-basic/content/attorneys
     add_options:
@@ -49,18 +51,6 @@ source: themes/netlify-basic
 # The locations of various types of files within your site.
 # Each path is relative to your site's source folder.
 paths:
-  collections: themes/netlify-basic/content
-  includes: layouts
-  layouts: layouts
-  static: static
-  uploads: themes/netlify-basic/static/img
-  source: themes/netlify-basic;
-  archetypes: archetypes
-  assets: assets
-  content: content
-  pages: content
-  publish: public
-  config: &#39;&#39;
 
 # Lets you control the look and behaviour of the Source Editor.
 source_editor:
