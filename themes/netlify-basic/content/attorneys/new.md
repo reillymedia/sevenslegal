@@ -1,5 +1,5 @@
 ---
-title: Attorney Samantha Ashley Greene
+title: New
 src: /img/samantha.png
 banner: /img/samantha-greene.jpg
 frontimg: /img/Samantha-Greene-2-200x300.jpg.webp
