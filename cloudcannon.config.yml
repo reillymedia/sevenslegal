@@ -34,15 +34,15 @@ collections_config:
       - name: Add Attorney
         editor: content
         icon: person_add
-    - inputs:
-     title:
-      label: Name
-     src:
-      label: Banner Image     
-      type: image
-     frontimg:
-      label: Profile Image
-      type: image       
+    _inputs:
+      title:
+       label: Name
+      src:
+       label: Banner Image     
+       type: image
+      frontimg:
+       label: Profile Image
+       type: image       
       
    Blogs:
     schemas:
