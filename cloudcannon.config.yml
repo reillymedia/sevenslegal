@@ -8,7 +8,7 @@ collections_config:
    Attorney:
     schemas:
       default:
-        path: themes/netlify-basic/content/attorneys/alexander-h-fuqua.md
+        path: themes/netlify-basic/content/attorneys/attorney.md
     create:
           path: 'themes/netlify-basic/content/attorneys/{slug}.md'    
     sort:
