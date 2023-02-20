@@ -44,17 +44,16 @@ collections_config_override: false
 data_config:
 
 # Base path to your source files, relative to the root folder of your repository.
-source:
+source: themes/netlify-basic
 
 # The locations of various types of files within your site.
 # Each path is relative to your site's source folder.
 paths:
-  data: data
   collections: themes/netlify-basic/content
   includes: layouts
   layouts: layouts
   static: static
-  uploads: static/uploads
+  uploads: themes/netlify-basic/static/img
   source: themes/netlify-basic;
   archetypes: archetypes
   assets: assets
