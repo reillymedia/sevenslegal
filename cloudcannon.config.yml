@@ -8,9 +8,9 @@ collections_config:
    Attorney:
     schemas:
       default:
-        path: themes/netlify-basic/content/attorneys/new.md
+        path: content/attorneys/new.md
     create:
-          path: 'themes/netlify-basic/content/attorneys/{slug}.md'    
+          path: 'content/attorneys/{slug}.md'    
     sort:
       key: surname
     sort_options:
@@ -27,9 +27,9 @@ collections_config:
     disable_add: false
     icon: people
     description: All Attorneys.
-    path: themes/netlify-basic/content/attorneys
+    path: content/attorneys
     secrets:
-     path: themes/netlify-basic/content/attorneys
+     path: content/attorneys
     add_options:
       - name: Add Attorney
         editor: content
@@ -50,9 +50,9 @@ collections_config:
    Blogs:
     schemas:
       default:
-        path: themes/netlify-basic/content/blog/you-need-a-criminal-defense-attorney-if-you-have-a-teenager.md
+        path: content/blog/you-need-a-criminal-defense-attorney-if-you-have-a-teenager.md
     create:
-          path: 'themes/netlify-basic/content/blos/{slug}.md'    
+          path: 'content/blog/{slug}.md'    
     sort:
       key: surname
     sort_options:
@@ -64,14 +64,14 @@ collections_config:
     subtext_key: role
     image_key: profile_image
     image_size: cover
-    singular_name: Attorney
-    singular_key: attorney
+    singular_name: Post
+    singular_key: post
     disable_add: false
     icon: people
-    description: All Attorneys.
-    path: themes/netlify-basic/content/attorneys
+    description: All blogs.
+    path: content/blog
     secrets:
-     path: themes/netlify-basic/content/attorneys
+     path: content/blog
     add_options:
       - name: Add Attorney
         editor: content
