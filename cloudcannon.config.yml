@@ -24,7 +24,7 @@ collections_config:
     description: All Attorneys.
     path: themes/netlify-basic/content/attorneys
     secrets:
-     path: themes/netlify-basic/content/attorneys
+     path: themes/netlify-basic/collections/attorneys
     add_options:
       - name: Add Attorney
         icon: person_add
