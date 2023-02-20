@@ -1,4 +1,4 @@
----
++++
 title = ""
 src = '/img/alex.png'
 frontimg = '/img/alexheadshots_043-205x300.jpeg.webp'
@@ -7,7 +7,7 @@ weight = 20
 width = 210
 url = "/alexander-h-fuqua/"
 draft = false
----
+
 +++
 Alexander H. Fuqua is a passionate and undeterred criminal defense attorney.  Alex started his career in criminal defense while still in law school when he interned for San Diego’s largest criminal defense firm.  The experience he gained during that internship propelled Alex to aggressively pursue justice for those who have been accused of a crime.
 
