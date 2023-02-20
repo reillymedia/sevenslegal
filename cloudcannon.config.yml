@@ -37,6 +37,38 @@ collections_config:
     filter:
       exclude:
         - secret.yml
+   Blogs:
+    schemas:
+      default:
+        path: themes/netlify-basic/content/blog/you-need-a-criminal-defense-attorney-if-you-have-a-teenager.md
+    create:
+          path: 'themes/netlify-basic/content/blos/{slug}.md'    
+    sort:
+      key: surname
+    sort_options:
+      - key: surname
+      - key: surname
+        order: desc
+      - key: start_date
+        label: Longest employed first
+    subtext_key: role
+    image_key: profile_image
+    image_size: cover
+    singular_name: Attorney
+    singular_key: attorney
+    disable_add: false
+    icon: people
+    description: All Attorneys.
+    path: themes/netlify-basic/content/attorneys
+    secrets:
+     path: themes/netlify-basic/content/attorneys
+    add_options:
+      - name: Add Attorney
+        editor: content
+        icon: person_add
+    filter:
+      exclude:
+        - secret.yml
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
