@@ -4,37 +4,21 @@
 # Collections are related sets of content files, typically grouped by folder.
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
-collections_config:
-  blogs:
-    sort:
-      key: surname
-    sort_options:
-      - key: surname
-      - key: surname
-        order: desc
-      - key: start_date
-        label: Longest employed first
-    subtext_key: role
-    image_key: profile_image
-    image_size: cover
-    singular_name: Staff Member
-    singular_key: staff_member
-    disable_add: false
-    icon: people
-    description: Collection of staff members.
-    documentation:
-      url: https://example.com/documentation
-      text: Read the documentation here.
-    add_options:
-      - name: Add Staff Member
-        icon: person_add
-    filter:
-      exclude:
-        - secret.yml
+collections_config:{}
+
 
 # Control which collections are displayed in the CloudCannon site navigation,
 # and how those collections are grouped.
 collection_groups:
+  - heading: Blogging
+    collections:
+      - posts
+      - drafts
+  - heading: Other
+    collections:
+      - pages
+      - attorneys
+      - features
     
 
 # Set this to true to disable auto-detection of collections.
