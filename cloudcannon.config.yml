@@ -47,21 +47,10 @@ collections_config:
    Blogs:
     create:
           path: 'content/blog/{slug}.md'    
-    sort:
-      key: surname
-    sort_options:
-      - key: surname
-      - key: surname
-        order: desc
-      - key: start_date
-        label: Longest employed first
-    subtext_key: role
-    image_key: profile_image
-    image_size: cover
     singular_name: Post
     singular_key: post
     disable_add: false
-    icon: people
+    icon: edit_document
     description: All blogs.
     path: content/blog
     secrets:
