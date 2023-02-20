@@ -6,6 +6,13 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
    Attorney:
+    add_options:
+      - name: Add Attorney
+        editor: content
+      - name: Add Draft
+        editor: content
+        collection: drafts
+        schema: default
     schemas:
       default:
         path: themes/netlify-basic/content/attorneys/new.md
