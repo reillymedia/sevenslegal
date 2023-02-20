@@ -1,7 +1,7 @@
 ---
 title= "Alexander H. Fuqua"
 src= '/img/alex.png'
-frontimg: '/img/alexheadshots_043-205x300.jpeg.webp'
+frontimg= '/img/alexheadshots_043-205x300.jpeg.webp'
 image_align= 'right'
 weight= 20
 width= 210
