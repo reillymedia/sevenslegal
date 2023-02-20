@@ -7,12 +7,8 @@
 collections_config:
    Attorney:
     add_options:
-      - name: Add Attorney
+        name: Add Attorney
         editor: content
-      - name: Add Draft
-        editor: content
-        collection: drafts
-        schema: default
     schemas:
       default:
         path: themes/netlify-basic/content/attorneys/new.md
