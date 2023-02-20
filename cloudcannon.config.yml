@@ -23,13 +23,13 @@ collections_config:
     image_key: profile_image
     image_size: cover
     singular_name: Attorney
-    singular_key: staff_attorney
+    singular_key: attorney
     disable_add: false
     icon: people
     description: All Attorneys.
     path: themes/netlify-basic/content/attorneys
     secrets:
-     path: themes/netlify-basic/collections/attorneys
+     path: themes/netlify-basic/content/attorneys
     add_options:
       - name: Add Attorney
         icon: person_add
