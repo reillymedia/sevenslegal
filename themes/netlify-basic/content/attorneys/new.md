@@ -1,4 +1,4 @@
----
++++
 title: New
 src: /img/samantha.png
 banner: /img/samantha-greene.jpg
@@ -8,7 +8,7 @@ image_align: right
 width: 210
 url: /samantha-greene/
 draft: false
----
++++
 With over a decade of experience in representing clients in criminal defense cases, attorney Samantha Ashley Greene of Sevens Legal, APC in San Diego is passionately committed to her client’s success. Samantha Greene is recognized in the state of California as a criminal law specialist. With great heart, Samantha brings to her clients an unsurpassed level of integrity and commitment that has won her countless successes in the courtroom. Having received her Juris Doctor from the University of San Diego School of Law, Mrs. Greene began her career as an attorney with a passion for criminal defense, representing a wide spectrum of clients and cases. Having honed her skills over the course of a decade, she was voted as a Top San Diego Criminal Defense Attorney in 2012.
 
 ## Experience Matters
