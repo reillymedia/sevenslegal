@@ -38,10 +38,13 @@ collections_config:
       title:
        label: Name
       src:
+       label: Featured Image     
+       type: image
+      banner:
        label: Banner Image     
        type: image
       frontimg:
-       label: Profile Image
+       label: Attorneys Page Image
        type: image       
       
    Blogs:
