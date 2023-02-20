@@ -5,7 +5,7 @@
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
 collections_config:
-   Pages:
+   Attorney:
     sort:
       key: surname
     sort_options:
@@ -17,16 +17,15 @@ collections_config:
     subtext_key: role
     image_key: profile_image
     image_size: cover
-    singular_name: Staff Member
-    singular_key: staff_member
+    singular_name: Attorney
+    singular_key: staff_attorney
     disable_add: false
     icon: people
-    description: Collection of staff members.
-    documentation:
-      url: https://example.com/documentation
-      text: Read the documentation here.
+    description: All Attorneys.
+    secrets:
+     path: themes/netlify-basic/content/attorneys
     add_options:
-      - name: Add Staff Member
+      - name: Add Attorney
         icon: person_add
     filter:
       exclude:
