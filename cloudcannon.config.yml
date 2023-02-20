@@ -6,8 +6,11 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
    Attorney:
+    schemas:
+      default:
+        path: themes/netlify-basic/content/attorneys/alexander-h-fuqua.md
     create:
-      path: '[relative_base_path]/{title|slugify}.md'
+          path: 'themes/netlify-basic/content/attorneys/{slug}.md'    
     sort:
       key: surname
     sort_options:
