@@ -34,7 +34,7 @@ collections_config:
       - name: Add Attorney
         editor: content
         icon: person_add
-    inputs:
+    - inputs:
      title:
       label: Name
      src:
