@@ -5,7 +5,7 @@
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
 collections_config:
-  staff:
+  blogs:
     sort:
       key: surname
     sort_options:
@@ -58,7 +58,7 @@ paths:
   source: themes/netlify-basic;
   archetypes: archetypes
   assets: assets
-  content: content
+  content: themes/netlify-basic/content
   pages: content
   publish: public
   config: &#39;&#39;
