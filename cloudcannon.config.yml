@@ -6,9 +6,6 @@
 # CloudCannon configuration specific to those collections.
 collections_config:
    Attorney:
-    add_options:
-      - name: Add Attorney
-        editor: content
     schemas:
       default:
         path: themes/netlify-basic/content/attorneys/new.md
@@ -35,6 +32,7 @@ collections_config:
      path: themes/netlify-basic/content/attorneys
     add_options:
       - name: Add Attorney
+        editor: content
         icon: person_add
     filter:
       exclude:
