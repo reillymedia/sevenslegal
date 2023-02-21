@@ -1,16 +1,13 @@
 +++
-categories = "Criminal Law"
-date = 2022-11-14T18:30:00Z
+categories = [ "Criminal Law", "Blog", "Criminal Law", "Domestic Violence" ]
+date = 2022-11-14T18:30:00.000Z
 pfd_file = ""
 summary = "As witnessed by recent national news headlines, domestic violence can occur in families from the highest levels of the economic spectrum, irregardless of race, age, sexual orientation, religion, or gender. Education and social standing have no bearing on occurrences of domestic violence. Domestic violence occurs in both opposite-sex and same-sex relationships and can happen to"
-tags = ["Blog", " Domestic Violence"]
+tags = [ ]
 title = "Domestic Violence in California"
 url = "/criminal-attorney/domestic-violence-in-california/"
-
 +++
 As witnessed by recent national news headlines, domestic violence can occur in families from the highest levels of the economic spectrum, irregardless of race, age, sexual orientation, religion, or gender. Education and social standing have no bearing on occurrences of domestic violence. Domestic violence occurs in both opposite-sex and same-sex relationships and can happen to intimate partners who are married, living together, or just dating. Wherever there are people and family relationships, there exists the possibility of domestic violence.
-
-## Domestic Violence in California
 
 California identifies domestic violence when an individual commits a criminal act within one of the types of relationships specified by the Penal Code: spouse or former spouse; cohabitant or former cohabitant in a home; a parent with whom the individual has a child; or a partner in a dating relationship.
 
@@ -22,7 +19,7 @@ Section 242 defines battery as a “willful and unlawful use of force or violenc
 
 A person charged with domestic violence may face a variety of possible consequences. Conviction of a domestic violence charge may result in mandated marital counseling, anger management or alcohol classes, restraining orders and stay away orders. These consequences may be ongoing, even in cases where the parties involved have resolved their differences. They can affect personal and professional lives with negative consequences, when faced with incarceration. When charges are filed as felonies as opposed to misdemeanors, it creates the possibility of the defendant being sent to either county jail or state prison.
 
-[Sevens Legal, APC](https://www.sevenslegal.com/ "Sevens Legal ")
+[Sevens Legal, APC](https://sevenslegalstg.wpengine.com/)
 
 Criminal Defense Attorneys
 
@@ -30,4 +27,4 @@ Criminal Defense Attorneys
 
 San Diego, CA 92103
 
-Phone: (619) 430-2355
+Phone: (619)&nbsp; 430-2355
