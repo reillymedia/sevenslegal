@@ -1,10 +1,10 @@
 +++
-categories = "Criminal Law"
+title = "The Potential Criminal Charges That Could Come Out From Johnny Depp And Amber Heard’s Legal Battle"
+categories = ["Criminal Law"]
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "The current defamation case in Virginia between previously married actors Johnny Depp and Amber Heard has gained worldwide attention. The case is live-streamed daily through several outlets for the public to watch in real-time. Their divorce was finalized in January 2017, but they continue to litigate marriage-related conflicts. By all accounts, their marriage was tumultuous"
-tags = ["Blog"]
-title = "The Potential Criminal Charges That Could Come Out From Johnny Depp And Amber Heard’s Legal Battle"
+tags = []
 url = "/criminal-attorney/the-potential-criminal-charges-that-could-come-out-from-johnny-depp-and-amber-heards-legal-battle/"
 
 +++
