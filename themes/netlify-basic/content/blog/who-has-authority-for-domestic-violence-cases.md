@@ -1,10 +1,10 @@
 +++
-categories = "Criminal Law"
+title = "Who Has Authority for Domestic Violence Cases"
+categories = ["Blog", "Criminal Law", "Domestic Violence"]
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "Many things can be referred to as “domestic violence.” Small arguments between family members or significant others can escalate and get out of control resulting in injuries or even death. A call to local police may resolve the immediate situation, but it also initiates a mandated course of action which they must then follow. When"
-tags = [" Domestic Violence", "Blog"]
-title = "Who Has Authority for Domestic Violence Cases"
+tags = ["Domestic Violence", "domestic violence law", "local laws", "state laws"]
 url = "/criminal-attorney/authority-domestic-violence-cases"
 
 +++
