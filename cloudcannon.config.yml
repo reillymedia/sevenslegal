@@ -46,7 +46,7 @@ collections_config:
       
    Blogs:
     create:
-          path: 'content/blog/{slug}.md'    
+          path: '{slug}.md'    
     singular_name: Post
     singular_key: post
     disable_add: false
