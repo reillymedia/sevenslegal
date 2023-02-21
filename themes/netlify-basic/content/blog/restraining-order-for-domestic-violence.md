@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Restraining Order for Domestic Violence"
+categories = ["Blog", "Criminal Law", "Domestic Violence", "Restraining Order"]
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "Issuance of Domestic Violence Restraining Order In order to help prevent domestic violence, judges can issue a Domestic Violence Restraining Order (“DVRO”). If you have been served with a DVRO, formal copies of the restraining order must be delivered to you personally. As part of the copies you’ll receive a form to fill out to "
-tags = ["Blog", "Domestic Violence", "Restrainig Order"]
-title = "Restraining Order for Domestic Violence"
-url = "/criminal law/restraining-order-domestic-violence/"
+tags = ["Domestic Violence", "Restrainig Order"]
+url = "/criminal-attorney/restraining-order-domestic-violence/"
 
 +++
 Issuance of Domestic Violence Restraining Order
