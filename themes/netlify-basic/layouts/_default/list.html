@@ -50,8 +50,8 @@
                     {{ end }}
                     {{ template "_internal/pagination.html" . }}
                 </div>
-                <div class="col">
-                    <h2>Catagories</h2>
+                <div class="col" style="margin-top: 20px;">
+							<div class="sidebox" id="categories-2"><h2>Categories</h2>
                             {{ if isset .Site.Taxonomies "categories" }}
 {{ if not (eq (len .Site.Taxonomies.categories) 0) }}
 <div class="panel panel-default sidebar-menu">
