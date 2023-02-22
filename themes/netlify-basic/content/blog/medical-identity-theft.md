@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Medical Identity Theft"
+categories = ["Blog", "Criminal Law", "Grand Theft", "Identity Theft", "Theft"]
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "Definition of Medical Identity Theft Identity theft is the fraudulent stealing of somebody’s personal information, such as name and social security number, in order to acquire personal gain, such as money, personal gratification, or prestige. Medical identity theft also includes the fraudulent stealing of a person’s health insurance number to illegally obtain medical services or "
-tags = ["Blog", "Grand Theft", "Identify Theft", "Theft"]
-title = "Medical Identity Theft"
-url = "/criminal law/medical-identity-theft/"
+tags = ["Grand Theft", "identity theft", "medical identity theft", "Penal Code 530.5", "theft"]
+url = "/criminal-attorney/medical-identity-theft/"
 
 +++
 Definition of Medical Identity Theft
