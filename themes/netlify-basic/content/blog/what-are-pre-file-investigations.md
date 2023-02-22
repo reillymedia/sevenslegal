@@ -1,12 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "What Are Pre-File Investigations?"
+categories = ["Blog", "Criminal Law", "White Collar Crime"]
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "When the police are actively investigating an individual because they suspect them of a crime, but formal charges have not been filed, it is referred to as pre-file investigations. A strong indication that charges may be coming, and you are under investigation, may include law enforcement agencies trying to contact you, your friends, family, or ["
-tags = [" White Collar Crime", "Blog"]
-title = "What Are Pre-File Investigations?"
+tags = ["Criminal Defense", "Pre-File Investigations", "White Collar Crimes"]
 url = "/criminal-attorney/pre-file-investigations/"
-
 +++
 When the police are actively investigating an individual because they suspect them of a crime, but formal charges have not been filed, it is referred to as [pre-file investigations](https://www.sevenslegal.com/ "Sevens Legal, APC"). A strong indication that charges may be coming, and [you are under investigation](https://www.sevenslegal.com/ "Sevens Legal, APC"), may include law enforcement agencies trying to contact you, your friends, family, or employer to ask them questions. In many cases a search warrant could already be issued.
 
