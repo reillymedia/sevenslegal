@@ -7,7 +7,7 @@
 collections_config:
    Attorney:
     create:
-          path: 'content/attorneys/{slug}.md'    
+          path: '{slug}.md'    
     sort:
       key: surname
     sort_options:
@@ -46,8 +46,7 @@ collections_config:
        
    Testimonials:
     create:
-          path: 'content/testimonials/{slug}.md'    
-    
+          path: '{slug}.md'    
     singular_name: Testimonial
     singular_key: testimonial
     disable_add: false
@@ -62,16 +61,7 @@ collections_config:
     _inputs:
       title:
        label: Name
-      src:
-       label: Featured Image     
-       type: image
-      banner:
-       label: Banner Image     
-       type: image
-      frontimg:
-       label: Attorneys Page Image
-       type: image
-       
+         
    Blogs:
     create:
           path: '{slug}.md'    
