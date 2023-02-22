@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Data Breach and Identity Theft"
+categories = ["Blog", "Criminal Law", "Identity Theft"]
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "A data breach is when the records of a company are either lost or stolen. When this happens, any sensitive information the company may have of yours, such as social security number, bank information, or credit card information, can end up in identity thief hands. They can then use your information to steal your money, "
 tags = ["Blog"]
-title = "Data Breach and Identity Theft"
-url = "/criminal law/data-breach-identity-theft/"
+url = "/criminal-attorney/data-breach-identity-theft/"
 
 +++
 A [data breach](https://www.sevenslegal.com/san-diego-theft-lawyer/ "San Diego Theft Lawyer") is when the records of a company are either lost or stolen. When this happens, any sensitive information the company may have of yours, such as social security number, bank information, or credit card information, can end up in [identity thief](https://www.sevenslegal.com/san-diego-theft-lawyer/ "San Diego Theft Lawyer") hands. They can then use your information to steal your money, access your cards, or create new accounts using your name.
