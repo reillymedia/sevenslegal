@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Human Trafficking: The Modern Slave Trade"
+categories = ["Blog", "Criminal Law", "Domestic Violence", "Identity Theft", "State Crime"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Most people probably think the slave trade in the United States ended in 1807. That year the congress put legislation into place that prohibited new slaves to come into the country. When the Act Prohibiting Importation of Slaves was past, the practice of importing slaves into America should have become history. Most Americans today would "
-tags = ["Domestic Violence", " Identity Theft", "State Crime", "Blog"]
-title = "Human Trafficking: The Modern Slave Trade"
-url = "/blog//criminal-attorney/human-trafficking-modern-slave-trade/"
+tags = ["Human Trafficking", "Prop 35", "slave trade"]
+url = "/criminal-attorney/human-trafficking-modern-slave-trade/"
 
 +++
 Most people probably think the slave trade in the United States ended in 1807. That year the congress put legislation into place that prohibited new slaves to come into the country. When the Act Prohibiting Importation of Slaves was past, the practice of importing slaves into America should have become history. Most Americans today would be shocked to learn that slavery is alive and well and operating as the modern business of human trafficking. In California in particular, [human trafficking](https://www.sevenslegal.com/ "Sevens Legal, APC") is thriving.
