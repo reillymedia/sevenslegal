@@ -5,6 +5,7 @@
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
 collections_config:
+   pages:
    Attorney:
     create:
           path: 'content/attorneys/{slug}.md'    
