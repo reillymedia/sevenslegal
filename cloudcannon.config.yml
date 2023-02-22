@@ -5,6 +5,11 @@
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
 collections_config:
+   
+
+# Control which collections are displayed in the CloudCannon site navigation,
+# and how those collections are grouped.
+collection_groups:
    Attorney:
     create:
           path: '{slug}.md'    
@@ -80,11 +85,6 @@ collections_config:
     filter:
       exclude:
         - secret.yml
-
-# Control which collections are displayed in the CloudCannon site navigation,
-# and how those collections are grouped.
-collection_groups:
-   
     
 
 # Set this to true to disable auto-detection of collections.
