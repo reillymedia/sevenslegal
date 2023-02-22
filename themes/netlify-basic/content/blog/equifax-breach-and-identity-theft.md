@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Equifax Breach and Identity Theft"
+categories = ["Blog", "Criminal Law", "Identity Theft"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "In August Equifax, a consumer credit reporting agency, announced that over 140 million had their information compromised after a data breach took place between May and July. Identity Theft and the Equifax Breach It has now been reported that economic losses of $125 million spurred by the Equifax breach were among the largest on record "
 tags = ["Blog", " Identity Theft"]
-title = "Equifax Breach and Identity Theft"
-url = "/blog/equifax-breach-identity-theft/"
+url = "/criminal-attorney/equifax-breach-identity-theft/"
 
 +++
 In August Equifax, a consumer credit reporting agency, announced that over 140 million had their information compromised after a data breach took place between May and July.
