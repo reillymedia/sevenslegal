@@ -4,7 +4,6 @@ categories = ["Awards"]
 date = 2022-11-09T18:30:00Z
 summary = "PRESS RELEASE The Sevens Legal, APC Has Been Nominated and Accepted as a Three Years AIOCLA’S 10 Best Law Firm in California For Client Satisfaction The American Institute of Criminal Law Attorneys has recognized the exceptional performance of California’s Criminal Law Firm, Sevens Legal, APC as Three Years 10 Best Criminal Law Firm for Client"
 url = "/awards/american-institute-of-criminal-law-attorneys-award/"
-
 +++
 ![](/uploads/aiocla-300x300-jpg.webp)
 
