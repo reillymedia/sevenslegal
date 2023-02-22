@@ -68,7 +68,7 @@ collections_config:
     singular_name: Post
     singular_key: post
     disable_add: false
-    icon: edit_document
+    icon: post_add
     description: All blogs.
     path: content/blog
     secrets:
