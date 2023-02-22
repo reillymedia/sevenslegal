@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Doctors Arrested for $250 Million Money Laundering Scheme"
+categories = ["Blog", "Criminal Law", "Federal Crime", "White Collar Crime"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "julian Omidi, 49, and Mirali Zarrabi, 55, have been arrested following a 37-count federal indictment alleging mail and wire fraud, false statements, money laundering and aggravated identity theft. Money Laundering Scheme for $250 Million Nabs Doctors The two doctors, Omidi and Zarrabi allegedly constructed a $250 million bogus billing scheme built around 1-800-Get-Thin Lap-Band surgeries"
-tags = ["Federal Crime", "White Collar Crime", "Blog"]
-title = "Doctors Arrested for $250 Million Money Laundering Scheme"
-url = "/blog/doctors-arrested-250-million-money-laundering-scheme/"
+tags = ["identity theft", "Julian Omidi", "Mirali Zarrabi", "money launderer", "money laundering", "real estate", "US Treasury", "White Collar Crime"]
+url = "/criminal-attorney/doctors-arrested-250-million-money-laundering-scheme/"
 
 +++
 Julian Omidi, 49, and Mirali Zarrabi, 55, have been arrested following a 37-count federal indictment alleging mail and wire fraud, false statements, money laundering and aggravated identity theft.
