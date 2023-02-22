@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Melodie Gliniewicz Indicted for Connection to Late Husband’s Money Laundering"
+categories = ["Blog", "Criminal Law", "Federal Crime", "White Collar Crime"]
 date = 2022-11-13T18:30:00Z
 pfd_file = ""
 summary = "Melodie Gliniewicz has been indicted for her alleged involvement with her late husband’s money laundering and stealing of charitable funds. Melodie Gliniewicz Indicted in Connection with Late Husband’s Money Laundering Melodie Gliniewicz, 51, is the wife of late Fox Lake Police Lt. Joe Gliniewicz. He killed himself last year in fear that his misappropriation of "
-tags = ["Blog", "Federal Crime", "White Collar Crime"]
-title = "Melodie Gliniewicz Indicted for Connection to Late Husband’s Money Laundering"
-url = "/criminal law/melodie-gliniewicz-indicted-connection-late-husbands-money-laundering/"
+tags = ["federal crime", "Fox Lake Police Lt. Joe Gliniewicz", "Melodie Gliniewicz", "money laundering", "White Collar Crime"]
+url = "/criminal-attorney/melodie-gliniewicz-indicted-connection-late-husbands-money-laundering/"
 
 +++
 Melodie Gliniewicz has been indicted for her alleged involvement with her late husband’s [money laundering](https://www.sevenslegal.com/) and stealing of charitable funds.
