@@ -59,7 +59,6 @@ collections_config:
     add_options:
       - name: Add Testimonial
         editor: content
-        schema: default
     _inputs:
       title:
        label: Name
