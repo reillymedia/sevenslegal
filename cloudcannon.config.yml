@@ -50,7 +50,7 @@ collections_config:
     singular_name: Testimonial
     singular_key: testimonial
     disable_add: false
-    icon: people
+    icon: reviews
     description: All Testimonials.
     path: content/testimonials
     secrets:
