@@ -1,10 +1,10 @@
 +++
-categories = "Criminal Law"
+title = "Wrong-Way DUI Crash"
+categories = ["Blog", "Criminal Law", "DMV Law", "DUI"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "Two people were injured in a wrong-way crash and had to be transported to a local hospital Tuesday morning. According to San Diego police, alcohol might be to blame for the crash. DUI Crash by Wrong-Way Driver The driver of a Honda SUV was driving southbound on Fairmount Avenue when he noticed a sedan speeding "
-tags = ["DMV Law", "Blog", "DUI"]
-title = "Wrong-Way DUI Crash"
+tags = ["BAC", "Blood Alcohol Content", "Department of Motor Vehicles", "DUI", "Implied Consent Law", "John Chau", "National Highway Traffic Safety Administration", "PAS Test", "Preliminary Alcohol Screening Test", "San Diego County Sheriff", "Wrong-way driver"]
 url = "/blog/wrong-way-dui-crash/"
 
 +++
