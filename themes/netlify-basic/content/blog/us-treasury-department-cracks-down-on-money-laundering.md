@@ -1,10 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "US Treasury Department Cracks Down on Money Laundering"
+categories = ["Blog", "Criminal Law", "Federal Crime", "White Collar Crime"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "The US Treasury Department will begin a new initiative of tracking sales of high-end real estate transactions in an attempt to crack down on money laundering. US Treasury Department Cracks Down on Money Laundering Starting in March, the Treasure Department will be tracking sales of high-end real estate in Miami and Manhattan. According to the "
-tags = ["Federal Crime", "White Collar Crime", "Blog"]
-title = "US Treasury Department Cracks Down on Money Laundering"
+tags = ["money launderer", "money laundering", "real estate", "US Treasury", "White Collar Crime"]
+
 url = "/blog/criminal-attorney/treasury-department-cracks-money-laundering"
 
 +++
