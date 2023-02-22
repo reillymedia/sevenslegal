@@ -5,6 +5,12 @@
 # Here you can define your collections, as well as any
 # CloudCannon configuration specific to those collections.
 collections_config:
+   pages:
+    add_options:
+      - name: New page
+      - name: New contact page
+        default_content_file: layouts/contact/contact.html
+        
    Attorney:
     create:
           path: '{slug}.md'    
