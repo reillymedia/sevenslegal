@@ -8,8 +8,7 @@ collections_config:
    pages:
     add_options:
       - name: New page
-      - name: New contact page
-        default_content_file: layouts/contact/contact.html
+      
         
    Attorney:
     create:
@@ -91,7 +90,7 @@ collections_config:
 # and how those collections are grouped.
 collection_groups:
    Pages:
-    
+     Contact:
 
 # Set this to true to disable auto-detection of collections.
 collections_config_override: false
