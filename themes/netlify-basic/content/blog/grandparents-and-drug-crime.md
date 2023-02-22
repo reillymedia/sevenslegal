@@ -1,11 +1,11 @@
 +++
-categories = "Drug Crime"
+title = "Grandparents and Drug Crime"
+categories = ["Blog", "Drug Crimes"]
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "Recent studies indicate drug crime, as well as other criminal behaviors, are on the rise at an alarming rate. While this is not necessarily unusual, the study finds these types of crimes are rising among people over 50. Why Grandparents May Turn to Drug Crime With people living longer and healthier lives, they may need "
 tags = ["Blog"]
-title = "Grandparents and Drug Crime"
-url = "/drug crime/grandparents-drug-crime/"
+url = "/blog/grandparents-drug-crime/"
 
 +++
 Recent studies indicate [drug crime](https://www.sevenslegal.com/ "Sevens Legal, APC"), as well as other criminal behaviors, are on the rise at an alarming rate. While this is not necessarily unusual, the study finds these types of crimes are rising among people over 50.
