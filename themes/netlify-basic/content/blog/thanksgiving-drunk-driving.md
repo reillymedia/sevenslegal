@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Thanksgiving Drunk Driving"
+categories = ["Blog", "Criminal Law", "DMV Law", "DUI"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "As Thanksgiving approaches you’ll want to prepare for any celebrations – as well as the consequences of celebrating too much. Drunk Driving on Thanksgiving If you get pulled over for impaired driving, you’ll want to know what you are facing. Below we outline the steps of a DUI investigation in addition to what you can "
 tags = ["Blog", "DMV Law", "DUI"]
-title = "Thanksgiving Drunk Driving"
-url = "/blog/thanksgiving-drunk-driving/"
+url = "/criminal-attorney/thanksgiving-drunk-driving/"
 
 +++
 As Thanksgiving approaches you’ll want to prepare for any celebrations – as well as the consequences of celebrating too much

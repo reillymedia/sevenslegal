@@ -5,7 +5,7 @@ date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "A man attempting to evade Chula Vista police had to be rescued from his car after it crashed through a guardrail and over railroad tracks, plummeted down an embankment and burst into flames. Police Rescue Man Evading Police From His Burning Car Details of the chase were not immediately available, but video from the site "
 tags = ["DMV Law", "Blog", "DUI"]
-url = "/blog/man-evading-police-rescued-burning-car/"
+url = "/criminal-attorney/man-evading-police-rescued-burning-car/"
 
 +++
 A man attempting to evade Chula Vista [police](http://sevenslegal.com/) had to be rescued from his car after it crashed through a guardrail and over railroad tracks, plummeted down an embankment and [burst into flames](http://sevenslegal.com/).
