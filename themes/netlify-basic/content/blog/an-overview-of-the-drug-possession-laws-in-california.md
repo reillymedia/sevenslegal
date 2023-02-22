@@ -1,10 +1,10 @@
 +++
-categories = "Criminal Law"
+title = "An Overview of the Drug Possession Laws in California"
+categories = ["Blog", "Criminal Law", "Drug Crimes"]
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "When it comes to drug possession in the state of California they have defined two categories consisting of “simple possession” and “possession with intent to sell.” Drug Possession Type Classification The California Health and Safety Code also separates offenses relating to “restricted dangerous drugs” or “narcotics” from marijuana offenses, as well as offenses relating to "
-tags = ["Blog", "Drug Crime"]
-title = "An Overview of the Drug Possession Laws in California"
+tags = ["drug crime", "drug crime defense", "Drug Possession", "intent to sell", "marijuana", "marijuana possession"]
 url = "/criminal-attorney/overview-of-drug-possession-laws-in-california/"
 
 +++
