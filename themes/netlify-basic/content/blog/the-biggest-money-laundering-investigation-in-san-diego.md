@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "The Biggest Money Laundering Investigation in San Diego"
+categories = ["Blog", "Criminal Law", "Federal Crime", "White Collar Crime"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "San Diego federal prosecutors have announced they have indicted 75 people nationwide, including 40 in San Diego, in what is being called the biggest money-laundering investigation ever in San Diego. Biggest San Diego Investigation Into Money Laundering According to interim U.S. Attorney Adam Braverman, defendants in the case have laundered drug proceeds from the Sinaloa "
 tags = ["Federal Crime", "Blog", "White Collar Crime"]
-title = "The Biggest Money Laundering Investigation in San Diego"
-url = "/blog/biggest-money-laundering-investigation-san-diego/"
+url = "/criminal-attorney/biggest-money-laundering-investigation-san-diego/"
 
 +++
 San Diego federal prosecutors have announced they have indicted 75 people nationwide, including 40 in San Diego, in what is being called the biggest money-laundering investigation ever in San Diego
