@@ -1,10 +1,10 @@
 +++
-categories = "Criminal Law"
+title = "Hit and Run Misdemeanor or Felony"
+categories = ["Blog", "Criminal Law", "DMV Law", "DUI"]
 date = 2022-11-14T18:30:00Z
 pfd_file = ""
 summary = "A hit and run crime is when a person leaves the scene after a collision they are involved in without exchanging insurance or other identification with other persons involved. Difference Between Misdemeanor and Felony Hit and Run The difference between a misdemeanor charge or a felony charge for hit and run offenses depends on whether"
 tags = [" DMV Law", "DUI", "Blog"]
-title = "Hit and Run Misdemeanor or Felony"
 url = "/criminal law/hit-run-misdemeanor-felony/"
 
 +++
