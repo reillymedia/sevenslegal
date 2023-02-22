@@ -42,8 +42,37 @@ collections_config:
        type: image
       frontimg:
        label: Attorneys Page Image
-       type: image       
-      
+       type: image 
+       
+   Testimonials:
+    create:
+          path: 'content/testimonials/{slug}.md'    
+    
+    singular_name: Testimonial
+    singular_key: testimonial
+    disable_add: false
+    icon: people
+    description: All Testimonials.
+    path: content/testimonials
+    secrets:
+     path: content/testimonials
+    add_options:
+      - name: Add Testimonial
+        editor: content
+        schema: default
+    _inputs:
+      title:
+       label: Name
+      src:
+       label: Featured Image     
+       type: image
+      banner:
+       label: Banner Image     
+       type: image
+      frontimg:
+       label: Attorneys Page Image
+       type: image
+       
    Blogs:
     create:
           path: '{slug}.md'    
