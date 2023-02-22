@@ -1,11 +1,11 @@
 +++
-categories = "Criminal Law"
+title = "Man Arrested for DUI – While Riding a Horse"
+categories = ["Blog", "Criminal Law", "DMV Law", "DUI"]
 date = 2022-11-10T18:30:00Z
 pfd_file = ""
 summary = "This past weekend, authorities arrested a drunken man after riding his horse onto a California freeway for DUI. Man Riding Horse Arrested for DUI This past weekend, the California Highway Patrol stopped a man after he was found to be riding a horse while under the influence. According to officers, the man registered a blood-alcohol "
 tags = ["DMV Law", "Blog", "DUI"]
-title = "Man Arrested for DUI – While Riding a Horse"
-url = "/blog/man-arrested-dui-riding-horse/"
+url = "/criminal-attorney/man-arrested-dui-riding-horse/"
 
 +++
 This past weekend, authorities arrested a drunken man after riding his horse onto a California freeway for DUI.
