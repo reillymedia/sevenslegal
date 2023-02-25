@@ -23,7 +23,7 @@ tags = [
 ]
 url = "/blog/18year-faces-felony-theft-charges/639/"
 date = 2022-11-08T18:30:00.000Z
-featured_image = "https://sevenslegalstg.wpengine.com/wp-content/uploads/2017/08/theft.jpg"
+featured_image = "/uploads/theft.jpg"
 +++
 A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court.
 
