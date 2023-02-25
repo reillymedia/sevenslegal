@@ -8,7 +8,7 @@
 <meta itemprop="name" content="{{ .Title }}" />
 <meta name="application-name" content="{{ .Title }}" />
 <meta property="og:site_name" content="{{ .Site.Title }}" />{{else}}
-<title>{{ if .Params.Rank_math_title }}{{ .Params.Rank_math_title}}{{ else if .Params.Title}}{{ .Params.Title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}</title>
+<title>{{ if .Params.Rank_math_title }}{{ .Params.Rank_math_title}}{{ else if .Params.Title}}{{ .Params.Title }} | {{.Site.Title}}{{else}}{{.Title}}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}</title>
 <meta property="og:title" content="{{ if .Params.Title}}{{ .Params.title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
 <meta name="twitter:title" content="{{ if .Params.Title}}{{ .Params.title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
 <meta itemprop="name" content="{{ if .Params.Title}}{{ .Params.title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
