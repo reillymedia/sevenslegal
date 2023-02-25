@@ -22,7 +22,7 @@ title = true
     name = "Attorneys"
     identifier = "attorneys"
 	weight = -140
-    url = "/sevens-legal-attorneys/"
+    url = "/attorneys/"
 [[menu.main]]
     name = "Criminal Law"
 	weight = -130
