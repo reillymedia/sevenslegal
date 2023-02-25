@@ -14,12 +14,10 @@
 <meta itemprop="name" content="{{ if .Params.Title}}{{ .Params.title }}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
 <meta name="application-name" content="{{ if .Params.Title}}{{ .Params.title }}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }}{{ end }}{{end}}" />
 <meta property="og:site_name" content="{{ .Site.Params.name }}" />{{ end }}
-<meta name="description" content="{{ if .Params.description}}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
-<meta itemprop="description" content="{{ if .Params.description }}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
-<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
-<meta name="twitter:description" content="{{ if .Params.description }}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
-{{ if isset .Site.Taxonomies "tags" }}{{ if not (eq (len .Site.Taxonomies.tags) 0) }}{{ $current := . }}{{ range $name, $items := .Site.Taxonomies.tags }}
-<meta content="{{ $name | humanize }}" property="article:tag" />{{ end }}{{ end }}{{ end }}
+<meta name="description" content="{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
+<meta itemprop="description" content="{{ if .Params.description }}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
+<meta property="og:description" content="{{ if .Params.description }}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
+<meta name="twitter:description" content="{{ if .Params.description }}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />{{ if isset .Site.Taxonomies "tags" }}{{ if not (eq (len .Site.Taxonomies.tags) 0) }}{{ $current := . }}{{ range $name, $items := .Site.Taxonomies.tags }}<meta content="{{ $name | humanize }}" property="article:tag" />{{ end }}{{ end }}{{ end }}
 <base href="{{.Site.Params.hostName}}{{ .Params.url }}">
 <link rel="canonical" href="{{.Site.Params.hostName}}{{ .Permalink | absURL }}"  /> 
 <meta name="url" content="{{.Site.Params.hostName}}{{ .Permalink }}" />
