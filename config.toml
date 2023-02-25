@@ -4,7 +4,7 @@ DefaultContentLanguage = "en"
 title = 'Free Consultation | San Diego Criminal Defense Lawyer'
 theme = 'netlify-basic'
 [params]
-  hostName = 'https://fair-puddle.cloudvent.net/'
+  hostName = 'https://fair-puddle.cloudvent.net'
   name = 'Criminal Defense Attorney San Diego'
   description = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
 [markup.goldmark.parser.attribute]
