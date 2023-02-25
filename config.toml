@@ -2,6 +2,7 @@ baseURL = 'https://fair-puddle.cloudvent.net/'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = 'Free Consultation | San Diego Criminal Defense Lawyer'
+name = 'Criminal Defense Attorney San Diego'
 theme = 'netlify-basic'
 [markup.goldmark.parser.attribute]
 block = true
