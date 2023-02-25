@@ -13,7 +13,7 @@
 <meta name="twitter:title" content="{{ if .Params.Title}}{{ .Params.title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
 <meta itemprop="name" content="{{ if .Params.Title}}{{ .Params.title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
 <meta name="application-name" content="{{ if .Params.Title}}{{ .Params.title }} | {{.Site.Title}}{{else}}{{.Title}} Page{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}" />
-<meta property="og:site_name" content="{{ .Site.Params.site_name }}" />{{ end }}
+<meta property="og:site_name" content="{{ .Site.Params.name }}" />{{ end }}
 <meta name="description" content="{{ if .Params.description }}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. We Offer a Risk Free Criminal Defense Consultation.{{end}}{{end}}" />
 <meta itemprop="description" content="{{ if .Params.description }}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. We Offer a Risk Free Criminal Defense Consultation.{{end}}{{end}}" />
 <meta property="og:description" content="{{ if .Params.description }}{{ .Params.description}}{{ else}}Learn more about {{ if .Title }}{{ .Title}}. We Offer a Risk Free Criminal Defense Consultation.{{end}}{{end}}" />
