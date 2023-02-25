@@ -6,7 +6,7 @@ theme = 'netlify-basic'
 [params]
   hostName = 'https://fair-puddle.cloudvent.net'
   name = 'Criminal Defense Attorney San Diego'
-  description = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
+  site_description = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
 [markup.goldmark.parser.attribute]
 block = true
 title = true
