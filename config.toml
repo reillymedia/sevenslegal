@@ -3,6 +3,7 @@ languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = 'Free Consultation | San Diego Criminal Defense Lawyer'
 name = 'Criminal Defense Attorney San Diego'
+description = "A clean documentation and blog theme for your Hugo site based on Bootstrap 5."
 theme = 'netlify-basic'
 [markup.goldmark.parser.attribute]
 block = true
