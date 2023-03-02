@@ -6,8 +6,29 @@
 <!-- This site is optimized with the Yoast SEO plugin v19.13 - https://yoast.com/wordpress/plugins/seo/ -->
 	{{ if .IsHome}}
 <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
-{{ end }}
-
+{{else}}
+<title>{{ if .Params.Rank_math_title }}{{ if .Params.Title}}{{ .Params.Title }} | {{.Site.Title}}{{else}}{{.Title}}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}</title>
+{{ end }}{{ end }}{{ end }}
+	<meta name="description" content="{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
+	<link rel="canonical" href="{{.Site.Params.hostName}}{{ .Permalink | absURL }}" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ if .Params.Title}}{{ .Params.Title }}" />
+	<meta property="og:description" content="{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
+	<meta property="og:url" content="{{.Site.Params.hostName}}{{ .Permalink | absURL }}" />
+	<meta property="og:site_name" content="{{.Site.Params.name}}" />
+	<meta property="article:published_time" content="{{ .PublishDate.Format "2017-08-10T15:00:07+00:00" | safeHTML }}" />
+	<meta property="article:modified_time" content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" />
+	<meta property="og:image" content="{{.Site.Params.hostName}}{{ .Params.featured_image | absURL }}" />
+	<meta property="og:image:width" content="450" />
+	<meta property="og:image:height" content="367" />
+	<meta property="og:image:type" content="image/jpeg" />
+	<meta name="author" content="sevenslegal" />
+	<meta name="twitter:label1" content="Written by" />
+	<meta name="twitter:data1" content="sevenslegal" />
+	<meta name="twitter:label2" content="Est. reading time" />
+	<meta name="twitter:data2" content="6 minutes" />
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}","url":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}","name":"{{ if .Params.Title}}{{ .Params.Title }}","isPartOf":{"@id":"{{.Site.Params.hostName}}#website"},"primaryImageOfPage":{"@id":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}#primaryimage"},"image":{"@id":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}#primaryimage"},"thumbnailUrl":"{{.Site.Params.hostName}}{{ .Params.featured_image | absURL }}","datePublished":"{{ .PublishDate.Format "2017-08-10T15:00:07+00:00" | safeHTML }}","dateModified":"{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}","author":{"@id":"{{.Site.Params.hostName}}#/schema/person/fb9eb8c0d5e9817661435358b09a6bce"},"description":"{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}","breadcrumb":{"@id":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}#breadcrumb"},"inLanguage":"en-US","potentialAction":[{"@type":"ReadAction","target":["{{.Site.Params.hostName}}{{ .Permalink | absURL }}"]}]},{"@type":"ImageObject","inLanguage":"en-US","@id":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}#primaryimage","url":"h{{.Site.Params.hostName}}{{ .Params.featured_image | absURL }}","contentUrl":"{{.Site.Params.hostName}}{{ .Params.featured_image | absURL }}","width":450,"height":367,"caption":"51877416 - cartoon thief safecracker breaks into a safe vector illustration"},{"@type":"BreadcrumbList","@id":"{{.Site.Params.hostName}}{{ .Permalink | absURL }}#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Home","item":"{{.Site.Params.hostName}}"},{"@type":"ListItem","position":2,"name":"{{ if .Params.Title}}{{ .Params.Title }}"}]},{"@type":"WebSite","@id":"{{.Site.Params.hostName}}#website","url":"{{.Site.Params.hostName}}","name":"{{.Site.Params.name}}","description":"{{.Site.Params.site_description}}","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"{{.Site.Params.hostName}}?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"en-US"},{"@type":"Person","@id":"{{.Site.Params.hostName}}#/schema/person/fb9eb8c0d5e9817661435358b09a6bce","name":"sevenslegal","image":{"@type":"ImageObject","inLanguage":"en-US","@id":"{{.Site.Params.hostName}}#/schema/person/image/","url":"https://secure.gravatar.com/avatar/05b6c16e15bab417a93e6526f526e0af?s=96&d=mm&r=g","contentUrl":"https://secure.gravatar.com/avatar/05b6c16e15bab417a93e6526f526e0af?s=96&d=mm&r=g","caption":"sevenslegal"},"sameAs":["{{.Site.Params.hostName}}"]}]}</script>
 	<!-- / Yoast SEO plugin. -->
 
 <link rel="shortcut icon" href="/img/favicon.webp" type="image/x-icon" />
