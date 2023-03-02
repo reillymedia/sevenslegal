@@ -7,8 +7,8 @@
 	{{ if .IsHome}}
 <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 {{ else }}
-<title>{{ if .Params.Rank_math_title }}{{ if .Params.Title}}{{ .Params.Title }} | {{.Site.Title}}{{else}}{{.Title}}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}{{end}}</title>
-{{ end }}{{ end }}{{ end }}
+<title>{{ if .Params.Title}}{{ .Params.Title }} | {{.Site.Title}}{{else}}{{.Title}}{{ end }}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}</title>
+{{ end }}
 	
 	<!-- / Yoast SEO plugin. -->
 
