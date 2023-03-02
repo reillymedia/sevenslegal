@@ -15,7 +15,7 @@
 	<meta property="og:type" content="article" />
 	<meta property="og:title" content="{{ if .Params.Title}}{{ .Params.Title }}{ end }}" />
 	<meta property="og:description" content="{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
-	<meta property="og:url" content="{{.Site.Params.hostName}}{{ .Permalink | absURL }}" />
+	<meta property="og:url" content="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
 	<!-- / Yoast SEO plugin. -->
 
 <link rel="shortcut icon" href="/img/favicon.webp" type="image/x-icon" />
