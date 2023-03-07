@@ -15,7 +15,7 @@
 	<meta content="article" property="og:type" />
 	<meta content="{{ if .Params.Title}}{{ .Params.Title }}{{ end }}" property="og:title" />
 	<meta content="{{ if .Params.description}}{{ .Params.description}}{{ else }}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{ end }}{{ end }}" property="og:description" />
-	<meta content="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" property="og:url"/>
+	<meta property="og:url" content="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}"/>
 	<meta content="{{ .Site.Params.name }}" property="og:site_name" />
 	<meta content="{{ .PublishDate.Format "2017-08-10T15:00:07+00:00" | safeHTML }}" property="article:published_time" />
 	<meta content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" property="article:modified_time" />
