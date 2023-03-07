@@ -7,7 +7,7 @@
 	{{ if .IsHome}}
 <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>
 {{ else }}
-<title>{{ if .Params.Title}}{{ .Params.Title }}{{else}}{{.Title}}{{ end }}{{ if .IsNode }}{{ if gt .Paginator.PageNumber 1 }} {{ .Paginator.PageNumber }}{{ end }} | {{.Site.Title}}{{ end }}</title>
+<title>{{ if .Params.Title}}{{ .Params.Title }}{{ end }}</title>
 {{ end }}
 	<meta name="description" content="{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" />
 	<link rel="canonical" href="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
