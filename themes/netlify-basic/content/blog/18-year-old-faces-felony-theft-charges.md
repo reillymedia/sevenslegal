@@ -8,7 +8,7 @@ categories: [
   "Theft"
 ]
 pfd_file: ""
-description = "A man charged with 68 felony counts of theft is due in court."
+description: "A man charged with 68 felony counts of theft is due in court."
 summary: "A man charged with 68 felony counts of theft is due in court. Felony Theft Charges Facing 18-Year Old According to the City of Manhattan Beach Police, 18-year-old Kevin Lucas, was arrested and booked into the Vista Detention Center in San Diego County this past June. Lucas was accused of targeting the vehicles of people,"
 tags: [
   "felony theft",
@@ -23,7 +23,7 @@ tags: [
 ]
 url: "/blog/18year-faces-felony-theft-charges/639/"
 date: 2022-11-08T18:30:00.000Z
-featured_image : "/uploads/theft.jpg"
+featured_image: "/uploads/theft.jpg"
 ---
 A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court.
 
