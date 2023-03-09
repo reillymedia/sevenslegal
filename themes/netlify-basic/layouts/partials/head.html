@@ -5,7 +5,7 @@
 	{{ if .IsHome}}
     <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>{{ else }}
     <title>{{ if .Params.yoast_title}}{{ .Params.yoast_title }}{{ else }} {{ .Params.Title }}{{ end }}</title>{{ end }}
-{{ if .Params.yoast_description}}<meta content="{{ .Params.yoast_description}}" name="description" />{{end}}
+    {{ if .Params.yoast_description}}<meta content="{{ .Params.yoast_description}}" name="description" />{{end}}
 	<link rel="canonical" href="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
 	<meta property="og:locale" content="en_US" />
 	<meta property="og:type" content="article" />
