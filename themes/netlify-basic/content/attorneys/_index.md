@@ -1,7 +1,7 @@
 ---
 title: Attorneys
 yoast_title: Attorneys | Criminal Defense Attorney San Diego
-yoast_description: ''
+yoast_description: Test
 banner: /img/inner-banner.jpg
 img_alt: ''
 url: /sevens-legal-attorneys/
