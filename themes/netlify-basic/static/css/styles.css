@@ -136,7 +136,7 @@ section.text-center.photo-gallery.py-4.py-xl-5 {
         width: 100%;
     height: 100%;
     background: #353535;
-    z-index: 9999999999 !important;
+    z-index: 2 !important;
     position: relative;
 }
 .practice-areas span {
