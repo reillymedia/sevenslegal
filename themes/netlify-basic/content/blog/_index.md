@@ -1,7 +1,7 @@
 ---
 title: Blog
 yoast_title: Blog Archives | Criminal Defense Attorney San Diego
-yoast_description: test
+yoast_description:
 banner: /img/inner-banner.jpg
 img_alt: ''
 url: /blog/
