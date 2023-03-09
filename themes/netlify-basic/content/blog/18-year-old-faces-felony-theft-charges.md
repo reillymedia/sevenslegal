@@ -23,7 +23,7 @@ tags: [
   "petty theft, San Diego"
 ]
 url: "/blog/18year-faces-felony-theft-charges/639/"
-date: {{ .Date.Format "2022-11-09T18:30:00Z" }}
+date: {{ .Date }}
 featured_image: "/uploads/theft.jpg"
 ---
 A man charged with 68 felony counts of [theft](http://sevenslegal.com/) is due in court.
