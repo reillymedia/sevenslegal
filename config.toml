@@ -15,7 +15,7 @@ title = true
     tag = "tags"
 [permalinks]
   posts = '/:slug/'
-  categories =  '/:slug//'
+  categories =  '/:title/'
 [menu]
 [[menu.main]]
     name = "Home"
