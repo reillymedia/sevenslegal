@@ -4,9 +4,13 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 	{{ if .IsHome}}
     <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>{{ else }}
-    <title>{{ if .Params.Title}}{{ .Params.Title }}{{ end }}</title>{{ end }}
+    <title>{{ if .Params.yoast_title}}{{ .Params.yoast_title }}{{ else }} {{ .Params.Title }}{{ end }}</title>{{ end }}
 	<meta content="{{ if .Params.description}}{{ .Params.description}}{{else}}Learn more about {{ if .Title }}{{ .Title}}. San Diego Criminal Defense Lawyer{{end}}{{end}}" name="description" />
 	<link rel="canonical" href="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
+	<meta property="og:locale" content="en_US" />
+	<meta property="og:type" content="article" />
+	<meta property="og:title" content="{{ if .Params.yoast_title}}{{ .Params.yoast_title }}{{ else }} {{ .Params.Title }}{{ end }}" />
+	<meta property="og:url" content="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
 	<meta content="{{ .PublishDate.Format "2017-08-10T15:00:07+00:00" | safeHTML }}" property="article:published_time" />
 	<meta content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" property="article:modified_time" />
 	<meta content="sevenslegal" name="author" />
