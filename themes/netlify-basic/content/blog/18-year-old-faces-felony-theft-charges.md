@@ -1,6 +1,6 @@
 ---
 title: "18-Year Old Faces Felony Theft Charges"
-yoast_title: "18-Year Old Faces Felony Theft Charges"
+yoast_title: 18-Year Old Faces Felony Theft Charges
 yoast_description: "A man charged with 68 felony counts of theft is due in court."
 categories: [
   "Blog",
