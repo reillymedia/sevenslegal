@@ -75,9 +75,9 @@ collections_config:
     disable_add: false
     icon: post_add
     description: All blogs.
-    path: content/posts
+    path: content/blog
     secrets:
-     path: content/posts
+     path: content/blog
     add_options:
       - name: Add Post
         editor: content
