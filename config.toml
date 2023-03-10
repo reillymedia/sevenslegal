@@ -13,8 +13,7 @@ title = true
 [taxonomies]
     category = "categories"
     tag = "tags"
-[permalinks]
-  categories =  '/:slug/'
+
 [menu]
 [[menu.main]]
     name = "Home"
