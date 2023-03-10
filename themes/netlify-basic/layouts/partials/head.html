@@ -4,7 +4,7 @@
 <meta name="googlebot" content="index,follow,snippet,archive">
 	{{ if .IsHome}}
     <title>{{ if not .IsHome }}{{ .Title | title }} | {{ end }}{{ .Site.Title }}</title>{{ else }}
-    <title>{{if .Site.Taxonomies }}{{ .Title | title }} Archives | Criminal Defense Attorney San Diego {{ else }}{{ if .Params.yoast_title}}{{ .Params.yoast_title }}{{ else }} {{ .Params.Title }}{{ end }}{{ end }}</title>{{ end }}
+    <title>{{if site.Taxonomies }}{{ .Title | title }} Archives | Criminal Defense Attorney San Diego {{ else }}{{ if .Params.yoast_title}}{{ .Params.yoast_title }}{{ else }} {{ .Params.Title }}{{ end }}{{ end }}</title>{{ end }}
     {{ if .Params.yoast_description}}<meta content="{{ .Params.yoast_description}}" name="description" />{{end}}
 	<link rel="canonical" href="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
 	<meta property="og:locale" content="en_US" />
