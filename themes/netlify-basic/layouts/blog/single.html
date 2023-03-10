@@ -31,7 +31,7 @@
             {{ $current := . }}
             {{ range $name, $items := .Site.Taxonomies.categories }}
             <li{{ if eq $current.RelPermalink ($name | urlize | lower | printf "/categories/%s/") }} class="active"{{ end }}>
-                <a href="{{ $.Site.BaseURL }}{{ $name | urlize | lower }}">{{ $name | upper }}</a>
+                <a href="{{ $.Site.BaseURL }}{{ $name | urlize | lower }}/">{{ $name | upper }}</a>
             </li>
             {{ end }}
         </ul> 
