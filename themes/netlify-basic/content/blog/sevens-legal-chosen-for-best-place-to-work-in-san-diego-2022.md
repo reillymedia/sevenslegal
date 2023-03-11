@@ -1,13 +1,18 @@
-+++
-categories = "Awards"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "We are proud to announce that Sevens Legal has been chosen to receive the Best Places To Work in 2022 award by the San Diego Business Journal. The Journal offers weekly insights into business news and information about the San Diego area’s people, industries, and businesses. Their annual Lists program recognizes companies whose policies, practices "
-tags = ["Blog"]
-title = "Sevens Legal Chosen for Best Place To Work In San Diego 2022"
-url = "/awards/sevens-legal-chosen-for-best-place-to-work-in-san-diego-2022/"
-
-+++
+---
+title: "Sevens Legal Chosen for Best Place To Work In San Diego 2022"
+yoast_title: Sevens Legal Chosen for Best Place To Work In San Diego 2022 | Criminal Defense Attorney San Diego
+yoast_description: "We are proud to announce that Sevens Legal has been chosen to receive the Best Places To Work in 2022 award by the San Diego Business Journal. The Journal offers weekly insights into business news and information about the San Diego area’s people, industries, and businesses. Their annual Lists program recognizes companies whose policies, practices […]"
+categories: [
+  "Awards",
+  "Blog"
+]
+pfd_file: ""
+summary: "We are proud to announce that Sevens Legal has been chosen to receive the Best Places To Work in 2022 award by the San Diego Business Journal. The Journal offers weekly insights into business news and information about the San Diego area’s people, industries, and businesses. Their annual Lists program recognizes companies whose policies, practices"
+tags: []
+url: "/blog/sevens-legal-chosen-for-best-place-to-work-in-san-diego-2022/1054/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/img/Sevens-Legal-Criminal-Defense-lawyers.jpg"
+---
 We are proud to announce that Sevens Legal has been chosen to receive the [Best Places To Work in 2022](https://www.sdbj.com/awards-honors/best-places-to-work-in-san-diego-awards-winner-rankings-2022/) award by the _San Diego Business Journal_. The _Journal_ offers weekly insights into business news and information about the San Diego area’s people, industries, and businesses. Their annual _Lists_ program recognizes companies whose policies, practices and benefits are tops in the region. Our staff and award winning attorneys understand the difficulties that being charged with a crime can bring. We strive for excellence and to get our clients the best possible outcome.
 
 ## Sevens Legal Chosen for Best Place To Work In San Diego 2022
