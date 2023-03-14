@@ -1,21 +1,33 @@
 ---
-title: "Sevens Legal Chosen for Best Place To Work In San Diego 2022"
-yoast_title: Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto Ponzi Scheme | Criminal Defense Attorney San Diego
-yoast_description: "joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the “head"
-categories: [
-  "Federal Crime",
-  "Blog"
-]
-pfd_file: ""
-summary: "joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the “head"
+title: Sevens Legal Chosen for Best Place To Work In San Diego 2022
+yoast_title: >-
+  Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto
+  Ponzi Scheme | Criminal Defense Attorney San Diego
+yoast_description: >-
+  joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators,
+  were each charged with one count of conspiracy to commit wire fraud and one
+  count of conspiracy to commit securities fraud by a South Florida federal
+  grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud.
+  Nicholas and his cohorts promoted him as the “head
+categories:
+  - Federal Crime
+  - Blog
+pfd_file: ''
+summary: >-
+  joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators,
+  were each charged with one count of conspiracy to commit wire fraud and one
+  count of conspiracy to commit securities fraud by a South Florida federal
+  grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud.
+  Nicholas and his cohorts promoted him as the “head
 tags: []
-url: "/blog/former-broker-joshua-david-nicholas-pleads-guilty-to-fraud-charges-in-crypto-ponzi-scheme/1051/"
+url: >-
+  /blog/former-broker-joshua-david-nicholas-pleads-guilty-to-fraud-charges-in-crypto-ponzi-scheme/1051/
 date: 2022-11-09T18:30:00Z
-featured_image: "/img/Former-Broker-Joshua-David-Nicholas-Pleads-Guilty-to-Fraud-Charges-in-Crypto-Ponzi-Scheme.jpg"
+featured_image: >-
+  /img/Former-Broker-Joshua-David-Nicholas-Pleads-Guilty-to-Fraud-Charges-in-Crypto-Ponzi-Scheme.jpg
 img_alt: Former Broker Pleads Guilty to Fraud Charges
 ---
-
-Joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the _“head trader”_ for his company. Called EmpiresX, it was also known as Empires Consulting Corp. The company was allegedly a cryptocurrency platform. Court documents indicate that Nicholas and his co-conspirators made misleading claims about the platform and his company. Their selling point was a fictitious trading bot called EXBOT that used a combination of artificial and human intelligence to maximize investor profitability. The bot allegedly offered “guaranteed” returns for investors and prospective investors, claiming daily returns of 1%.
+Joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the *“head trader”* for his company. Called EmpiresX, it was also known as Empires Consulting Corp. The company was allegedly a cryptocurrency platform. Court documents indicate that Nicholas and his co-conspirators made misleading claims about the platform and his company. Their selling point was a fictitious trading bot called EXBOT that used a combination of artificial and human intelligence to maximize investor profitability. The bot allegedly offered “guaranteed” returns for investors and prospective investors, claiming daily returns of 1%.
 
 ## Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto Ponzi Scheme
 
@@ -34,11 +46,11 @@ The trio bilked over $100 million from the investors and laundered funds through
 
 ## Nicholas’ Prior Misconduct
 
-Nicholas began his career in 2016 as a registered broker and investment advisor with Merrill Lynch. He was terminated in 2020 for multiple violations. They include forging a client’s signature on a document and offering untrue information about his outside business activities while at the firm, where two customers lost $1 million. He was also cited for giving unsuitable investment recommendations, omissions of material facts, and engaging in “selling away,” or selling investments not vetted or authorized by the firm. The Financial Industry Regulatory Authority, or FINRA, permanently barred Nicholas from acting as a broker on 1/24/2022. [Nicholas’ broker record](https://brokercheck.finra.org/individual/summary/6529944) is publicly available on FINRA’s BrokerCheck website and includes the most recent SEC case involving the Ponzi scheme. The National Futures Association, a regulatory agency for the derivatives industry, also suspended Nicholas’ membership. This included soliciting a $300,000 loan for his company, JDN Capital, using _“misleading information,”_ and then misappropriating the funds for personal use. He solicited the loan from a client for additional investing and fabricated statements from a fictitious brokerage account. FINRA also conducted its own investigation into the JDN Capital dealings.
+Nicholas began his career in 2016 as a registered broker and investment advisor with Merrill Lynch. He was terminated in 2020 for multiple violations. They include forging a client’s signature on a document and offering untrue information about his outside business activities while at the firm, where two customers lost $1 million. He was also cited for giving unsuitable investment recommendations, omissions of material facts, and engaging in “selling away,” or selling investments not vetted or authorized by the firm. The Financial Industry Regulatory Authority, or FINRA, permanently barred Nicholas from acting as a broker on 1/24/2022. [Nicholas’ broker record](https://brokercheck.finra.org/individual/summary/6529944) is publicly available on FINRA’s BrokerCheck website and includes the most recent SEC case involving the Ponzi scheme. The National Futures Association, a regulatory agency for the derivatives industry, also suspended Nicholas’ membership. This included soliciting a $300,000 loan for his company, JDN Capital, using *“misleading information,”* and then misappropriating the funds for personal use. He solicited the loan from a client for additional investing and fabricated statements from a fictitious brokerage account. FINRA also conducted its own investigation into the JDN Capital dealings.
 
 ## California Corporations Code
 
-Fraud encompasses a range of offenses and is a white-collar crime. Securities fraud in The Golden State is covered by the [California Corporations Code](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&sectionNum=25401.). This law was modeled on Section 12(a)(2) of the Securities Act of 1933, also called the _“truth in securities law.”_ In Section 25401 of the California Corporations Code states that it’s unlawful to buy or sell a security with either incorrect information or omitting important information to intentionally mislead a person into making a purchase. Section 25540(b) states that a person who violates California’s securities law can face prison for as long as five years under Section 1170 of the Penal Code. Additionally, they can be subjected to fines of no more than $10 million, in addition to a prison sentence. Under _People v. Koenig_, 58 Cal. App. 5th 771 (2020), the Court established that securities fraud is a general intent crime if someone:
+Fraud encompasses a range of offenses and is a white-collar crime. Securities fraud in The Golden State is covered by the [California Corporations Code](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=CORP&amp;sectionNum=25401.). This law was modeled on Section 12(a)(2) of the Securities Act of 1933, also called the *“truth in securities law.”* In Section 25401 of the California Corporations Code states that it’s unlawful to buy or sell a security with either incorrect information or omitting important information to intentionally mislead a person into making a purchase. Section 25540(b) states that a person who violates California’s securities law can face prison for as long as five years under Section 1170 of the Penal Code. Additionally, they can be subjected to fines of no more than $10 million, in addition to a prison sentence. Under *People v. Koenig*, 58 Cal. App. 5th 771 (2020), the Court established that securities fraud is a general intent crime if someone:
 
 * Has knowledge of the false or misleading nature of representation or of the corporality of the omission, or
 * Has criminal negligence in failing to acquire the knowledge
@@ -49,7 +61,7 @@ Should someone intentionally commit fraud like Nicholas, it’s a crime. But uni
 * An investor who unintentionally discloses “insider information”
 * Sellers who omit disclosures of risk in a particular investment or security
 
-This means that someone can be accused of (and charged with) fraud in California even if they never intended to commit fraud. Only misrepresentation or omission of material facts are required to show fraud. [California’s Penal Code 532 PC](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&sectionNum=532) also addresses _“theft by false pretenses”—_that is, defrauding someone out of money or property with false promises or representations. The fraud can be prosecuted as either a misdemeanor or a felony, depending on the circumstances.
+This means that someone can be accused of (and charged with) fraud in California even if they never intended to commit fraud. Only misrepresentation or omission of material facts are required to show fraud. [California’s Penal Code 532 PC](https://leginfo.legislature.ca.gov/faces/codes_displaySection.xhtml?lawCode=PEN&amp;sectionNum=532) also addresses \_“theft by false pretenses”—\_that is, defrauding someone out of money or property with false promises or representations. The fraud can be prosecuted as either a misdemeanor or a felony, depending on the circumstances.
 
 ## Are You Facing A Fraud Investigation?
 
