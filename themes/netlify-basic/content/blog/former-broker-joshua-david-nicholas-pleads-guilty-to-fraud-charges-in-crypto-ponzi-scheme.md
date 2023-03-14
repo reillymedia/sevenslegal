@@ -1,13 +1,20 @@
-+++
-categories = " Federal Crime"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the “head"
-tags = ["Blog"]
-title = "Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto Ponzi Scheme"
-url = "/blog/former-broker-joshua-david-nicholas-pleads-guilty-to-fraud-charges-in-crypto-ponzi-scheme/"
+---
+title: "Sevens Legal Chosen for Best Place To Work In San Diego 2022"
+yoast_title: Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto Ponzi Scheme | Criminal Defense Attorney San Diego
+yoast_description: "joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the “head"
+categories: [
+  "Federal Crime",
+  "Blog"
+]
+pfd_file: ""
+summary: "joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the “head"
+tags: []
+url: "/blog/former-broker-joshua-david-nicholas-pleads-guilty-to-fraud-charges-in-crypto-ponzi-scheme/1051/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/img/Former-Broker-Joshua-David-Nicholas-Pleads-Guilty-to-Fraud-Charges-in-Crypto-Ponzi-Scheme.jpg"
+img_alt: Former Broker Pleads Guilty to Fraud Charges
+---
 
-+++
 Joshua David Nicholas, 28, of Stuart, Florida, along with two co-conspirators, were each charged with one count of conspiracy to commit wire fraud and one count of conspiracy to commit securities fraud by a South Florida federal grand jury. Nicholas pleaded guilty to conspiracy to commit securities fraud. Nicholas and his cohorts promoted him as the _“head trader”_ for his company. Called EmpiresX, it was also known as Empires Consulting Corp. The company was allegedly a cryptocurrency platform. Court documents indicate that Nicholas and his co-conspirators made misleading claims about the platform and his company. Their selling point was a fictitious trading bot called EXBOT that used a combination of artificial and human intelligence to maximize investor profitability. The bot allegedly offered “guaranteed” returns for investors and prospective investors, claiming daily returns of 1%.
 
 ## Former Broker Joshua David Nicholas Pleads Guilty to Fraud Charges in Crypto Ponzi Scheme
