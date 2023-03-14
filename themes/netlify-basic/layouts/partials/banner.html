@@ -6,7 +6,7 @@
         <img src="/img/Sevens-Legal-Criminal-Defense-lawyers.jpg.webp">
 		{{ end }}
         <div class="container bannner-title">
-            <h2>{{ .Title }}</h2>
+            <h1><a href="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" alt="{{ .Title }}">{{ .Title }}</a></h1>
         </div>
     </div>
 </section>
