@@ -450,9 +450,10 @@ section.copy {
     z-index: 9999999;
     display: block;
     top: -125px;
-    background: #e2b164;
+    background: #d19e4e;
     text-transform: uppercase;
     padding: 7px 20px;
+	font-size:30px;
 }
 .container.bannner-title h1 a {
     text-decoration:none;
