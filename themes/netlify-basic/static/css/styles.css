@@ -445,7 +445,7 @@ section.copy {
     position: relative;
 }
 
-.container.bannner-title h2 {
+.container.bannner-title h1 {
     position: absolute;
     z-index: 9999999;
     display: block;
@@ -453,6 +453,9 @@ section.copy {
     background: #e2b164;
     text-transform: uppercase;
     padding: 7px 20px;
+}
+.container.bannner-title h1 a {
+    text-decoration:none;
 }
 .wp-caption{
     text-align: center;
