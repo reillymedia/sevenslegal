@@ -1,13 +1,20 @@
-+++
-categories = ["Blog", "Criminal Law"]
-title = "When Cyberbullying Becomes a Crime"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "Cyberbullying is among the most stress-causing issues that is snowballing. We know bullying is not old and has always been a part of schools and colleges. However, students now have access to the internet, social media apps, and mobile phone, making it easy for them to reach out to more people online.  The victim may"
-tags = []
-url = "/criminal-attorney/when-cyberbullying-becomes-a-crime"
+---
+title: "When Cyberbullying Becomes a Crime"
+yoast_title: "When Cyberbullying Becomes a Crime | Criminal Defense Attorney San Diego"
+yoast_description: "As a parent, it’s crucial to know when cyberbullying becomes a crime so that you can safeguard your children from its effects and lifelong repercussions ."
+categories: [
+  "Blog",
+  "Criminal Law"
+  ]
+pfd_file: ""
+summary: "Cyberbullying is among the most stress-causing issues that is snowballing. We know bullying is not old and has always been a part of schools and colleges. However, students now have access to the internet, social media apps, and mobile phone, making it easy for them to reach out to more people online.  The victim may"
+tags: []
+url: "blog/when-cyberbullying-becomes-a-crime/1008/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Assault.jpg"
+img_alt:
+---
 
-+++
 Cyberbullying is among the most stress-causing issues that is snowballing. We know bullying is not old and has always been a part of schools and colleges. However, students now have access to the internet, social media apps, and mobile phone, making it easy for them to reach out to more people online.
 
 The victim may be traumatized for life, and the bully may have to face the court, pay a hefty fine, or even go to jail. In the case of cyberbullying and related cybercrimes, both the victim and the bully may suffer.
