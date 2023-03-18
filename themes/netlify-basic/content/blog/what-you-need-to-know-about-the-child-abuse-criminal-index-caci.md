@@ -1,13 +1,19 @@
-+++
-categories = ["Blog", "Criminal Law"]
-title = "WHAT YOU NEED TO KNOW ABOUT THE CHILD ABUSE CRIMINAL INDEX (CACI)"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "Investigation’s relating to child abuse can lead to severe repercussions for you if you are the target of an inquiry. Therefore, it is important to reach out to a lawyer as soon as possible if you find yourself at the center of an investigation or subject to a grievance hearing. Having excellent representation from a "
-tags = []
-url = "/criminal-attorney/what-you-need-to-know-about-the-child-abuse-criminal-index-caci"
+---
+title: "WHAT YOU NEED TO KNOW ABOUT THE CHILD ABUSE CRIMINAL INDEX (CACI)"
+yoast_title: "WHAT YOU NEED TO KNOW ABOUT THE CHILD ABUSE CRIMINAL INDEX (CACI) | Criminal Defense Attorney San Diego"
+yoast_description: "Investigations relating to child abuse can lead to severe repercussions for you if you are the target of an inquiry. Free Consultation."
+categories: [
+  "Blog",
+  "Criminal Law",
+ ]
+pfd_file: ""
+summary: "Investigation’s relating to child abuse can lead to severe repercussions for you if you are the target of an inquiry. Therefore, it is important to reach out to a lawyer as soon as possible if you find yourself at the center of an investigation or subject to a grievance hearing. Having excellent representation from a"
+tags: []
+url: "/criminal-attorney/what-you-need-to-know-about-the-child-abuse-criminal-index-caci/1015/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/img/ComputerHacker.jpg"
+---
 
-+++
 Investigation’s relating to child abuse can lead to severe repercussions for you if you are the target of an inquiry. Therefore, it is important to reach out to a lawyer as soon as possible if you find yourself at the center of an investigation or subject to a grievance hearing. Having excellent representation from a law firm like Stevens Legal, APC, which is well-versed in these types of cases, can mean the difference between having your name put on the state register for years or being cleared of charges. They have helped clients throughout San Diego and Southern California with child abuse criminal defense cases.
 
 ## YOU NEED TO KNOW ABOUT THE CHILD ABUSE CRIMINAL INDEX (CACI)
