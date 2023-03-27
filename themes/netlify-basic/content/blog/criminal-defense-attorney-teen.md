@@ -1,17 +1,26 @@
-+++
-title = "Criminal Defense Attorney For Your Teenager"
-categories = [
+---
+title: "Criminal Defense Attorney For Your Teenager"
+yoast_title: "Criminal Defense Attorney For Your Teen"
+yoast_description: "Although you might not think about it, if you have a teenager you should seriously consider having a good criminal defense attorney."
+categories: [
   "Blog",
   "Criminal Law",
   "Juvenile Crime",
-  "White Collar Crime"
+  "White Collar Crime"  
 ]
-date = 2022-11-14T18:30:00.000Z
-pfd_file = ""
-summary = "A man charged with 68 felony counts of theft is due in court. Felony Theft Charges Facing 18-Year Old According to the City of Manhattan Beach Police, 18-year-old Kevin Lucas, was arrested and booked into the Vista Detention Center in San Diego County this past June. Lucas was accused of targeting the vehicles of people,"
-tags = [ "college crime", "teenage crime", "DUI", "school crime" ]
-url = "https/criminal-attorney/criminal-defense-attorney-teen/"
-+++
+pfd_file: ""
+summary: "A man charged with 68 felony counts of theft is due in court. Felony Theft Charges Facing 18-Year Old According to the City of Manhattan Beach Police, 18-year-old Kevin Lucas, was arrested and booked into the Vista Detention Center in San Diego County this past June. Lucas was accused of targeting the vehicles of people,"
+tags: [
+  "college crime",
+  "DUI",
+  "school crime",
+  "teenage crime"
+]
+url: "/criminal-attorney/criminal-defense-attorney-teen/390/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/TeenagerArrested.jpg"
+img_alt: "criminal defense attorney"
+---
 Although you might not think about it, if you have a&nbsp;[teenager](https://www.sevenslegal.com/)&nbsp;you should seriously consider having a good&nbsp;[criminal defense attorney](https://www.sevenslegal.com/). If you think this is a crazy idea, here are some reasons why it’s not!
 
 The farthest thing from your mind is that your little baby might commit some type of crime. You’ve worked hard to instill in them right from wrong, and know you’ve raised them well, but the fact remains they can always get involved in trouble. Usually these troubles are small, so you don’t have to worry about them, such as problems with school subjects or being sent to the principal’s office for talking in class. But sometimes the trouble results in bigger problems. When problems are big, it’s always good to follow the Scout motto and “be prepared.”
