@@ -1,13 +1,31 @@
-+++
-categories = "Assault"
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "Actor Kevin Spacey faced a judge last month to address accusations of sexual assault. Kevin Spacey Addresses Charges of Sexual Assaul in Court Spacey, 59, appeared in court to enter a not guilty plea for a felony charge of indecent assault and battery. A few years ago Kevin Spacey disappeared from the public eye following "
-tags = ["Blog", "Criminal Law ", "Sexual Assault"]
-title = "Kevin Spacey in Court to Address Sexual Assault Charges"
-url = "/assault/kevin-spacey-in-court-to-address-sexual-assault-charges/"
-
-+++
+---
+title: "Kevin Spacey in Court to Address Sexual Assault Charges"
+yoast_title: "Kevin Spacey in Court to Address Sexual Assault Charges | Criminal Defense Attorney San Diego Kevin Spacey in Court to Address Sexual Assault Charges"
+yoast_description: "Actor Kevin Spacey faced a judge last month to address accusations of sexual assault."
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Actor Kevin Spacey faced a judge last month to address accusations of sexual assault. Kevin Spacey Addresses Charges of Sexual Assaul in Court Spacey, 59, appeared in court to enter a not guilty plea for a felony charge of indecent assault and battery. A few years ago Kevin Spacey disappeared from the public eye following"
+tags: [
+  "date rape",
+  "Kevin Spacey",
+  "Penal Code Section 261 PC",
+  "rape",
+  "San Diego County",
+  "sex crime",
+  "Sexual Assault",
+  "spousal rape",
+  "statutory rape"
+]
+url: "/assault/kevin-spacey-in-court-to-address-sexual-assault-charges/883/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/upload/RapeAllegatons.jpg" 
+img_alt: ""
+---
 Actor Kevin Spacey faced a judge last month to address accusations of sexual assault.
 
 ## Kevin Spacey in Court to Address Sexual Assault Charges
