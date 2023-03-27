@@ -1,18 +1,26 @@
-+++
-title = "Hit and Run"
-categories = [ "Blog", "Criminal Law", "DMV Law" ]
-date = 2022-11-14T18:30:00.000Z
-pfd_file = ""
-summary = "A man charged with 68 felony counts of theft is due in court. Felony Theft Charges Facing 18-Year Old According to the City of Manhattan Beach Police, 18-year-old Kevin Lucas, was arrested and booked into the Vista Detention Center in San Diego County this past June. Lucas was accused of targeting the vehicles of people,"
-tags = [
-  "California Vehicle Code 20001",
-  "Penal Code 1377",
-  "Miranda Rights",
-  "hit and run",
-  "California Vehicle Code 20002"
+---
+title: "Hit and Run"
+yoast_title: "Hit and Run | Criminal Defense Attorney San Diego"
+yoast_description: "Being involved in a hit and run accident is a very serious situation."
+categories: [
+  "Criminal Law",
+  "Blog",
+  "DMV Law"
 ]
-url = "/blog/hit-and-run/"
-+++
+pfd_file: ""
+summary: "A man charged with 68 felony counts of theft is due in court. Felony Theft Charges Facing 18-Year Old According to the City of Manhattan Beach Police, 18-year-old Kevin Lucas, was arrested and booked into the Vista Detention Center in San Diego County this past June. Lucas was accused of targeting the vehicles of people,"
+tags: [
+  "California Vehicle Code 20001",
+  "California Vehicle Code 20002",
+  "hit and run",
+  "Miranda Rights",
+  "Penal Code 1377"
+]
+url: "/blog/p506/506/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/wreck2.jpg"
+img_alt: "hit and run"
+---
 **Being involved in a&nbsp;[hit and run](https://www.sevenslegal.com/criminal-attorney/hit-run-misdemeanor-felony/)&nbsp;accident is a very serious situation. You need to recognize that if you are involved in an accident that causes either injury to a person or property damage (including car damage, or other physical property), and you leave the scene of the accident you run the risk of being charged with a hit and run offense.**
 
 ## Types of Hit and Run in California
