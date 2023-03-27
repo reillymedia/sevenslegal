@@ -6,7 +6,7 @@ yoast_title: >-
 yoast_description: 'alt : Another Great Review for the Sevens Legal Team'
 categories:
   - Awards
-pfd_file: ''
+pfd_file: '/uploads/Sevens-Legal-Positive-Review-Letter.pdf'
 summary: 'alt : Another Great Review for the Sevens Legal Team'
 tags:
   -
