@@ -1,13 +1,27 @@
-+++
-title = "In Pursuit of a Passed Out Driver"
-categories = ["Blog", "Criminal Law", "DMV Law", "DUI"]
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "A passed out driver woke up and led police on a brief pursuit before finally being arrested. Police Pursuit of Driver That Was Passed Around 3 a.m. last Tuesday, San Diego police received a call that a driver was asleep at the wheel as his car rolled down an off-ramp. When they got there, the "
-tags = ["California Vehicle Code 2800.1", "evading police", "peace officer", "police officer", "police pursuit"]
-url = "/criminal-attorney/in-pursuit-of-a-passed-out-driver/"
-
-+++
+---
+title: "In Pursuit of a Passed Out Driver"
+yoast_title: "In Pursuit of a Passed Out Driver | Criminal Defense Attorney San Diego In Pursuit of a Passed Out Driver"
+yoast_description: "A passed out driver woke up and led police on a brief pursuit before finally being arrested."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "DMV Law",
+  "DUI"  
+]
+pfd_file: ""
+summary: "A passed out driver woke up and led police on a brief pursuit before finally being arrested. Police Pursuit of Driver That Was Passed Around 3 a.m. last Tuesday, San Diego police received a call that a driver was asleep at the wheel as his car rolled down an off-ramp. When they got there, the"
+tags: [
+  "California Vehicle Code 2800.1",
+  "evading police",
+  "peace officer",
+  "police officer",
+  "police pursuit"
+]
+url: "/blog/in-pursuit-of-a-passed-out-driver/842/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/PoliceBodyCameras.jpg"
+img_alt: "pursuit"
+---
 A passed out driver woke up and led police on a brief pursuit before finally being arrested.
 
 ## In Pursuit of a Passed Out Driver
