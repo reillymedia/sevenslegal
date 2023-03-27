@@ -1,13 +1,27 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "For a parent, having your child arrested and charged with an alleged crime is one of the most traumatic experiences you could have. Having an experienced Juvenile Defense Attorney can help turn a possible negative outcome into a positive one.   Juvenile Defense and Criminal Defense Attorneys A Criminal Defense Attorney who also specializes in"
-tags = ["Juvenile Crime", "Blog"]
-title = "Juvenile Defense, School Expulsion, and Your Child"
-url = "/blog/criminal-attorney/juvenile-defense-school-expulsion-child/"
-
-+++
+---
+title: "Juvenile Defense, School Expulsion, and Your Child"
+yoast_title: "Juvenile Defense, School Expulsion, and Your Child"
+yoast_description: "Having a child arrested and charged with a crime is a traumatic experience. A Juvenile Defense Attorney can turn a negative outcome into a positive one."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Juvenile Crime"
+]
+pfd_file: ""
+summary: "For a parent, having your child arrested and charged with an alleged crime is one of the most traumatic experiences you could have. Having an experienced Juvenile Defense Attorney can help turn a possible negative outcome into a positive one.   Juvenile Defense and Criminal Defense Attorneys A Criminal Defense Attorney who also specializes in"
+tags: [
+  "juvenile crime",
+  "juvenile defense",
+  "juvenile delinquency",
+  "juvenile dependency",
+  "Miranda Rights",
+  "school expulsion"
+]
+url: "/criminal-attorney/juvenile-defense-school-expulsion-child/374/"
+date: 2022-11-09T18:30:00Z
+featured_image: ""
+img_alt: ""
+---
 For a parent, having your child arrested and charged with an alleged crime is one of the most traumatic experiences you could have. Having an experienced [Juvenile Defense Attorney](https://www.sevenslegal.com/) can help turn a possible negative outcome into a positive one.
 
 ## Juvenile Defense, School Expulsion, and Your Child
