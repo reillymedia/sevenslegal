@@ -1,13 +1,24 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "If you live in Los Angeles, you’ve probably gotten used to reports of high speed, or low speed police chases. They seemingly happen every single day. Evading arrest is a highly punishable crime that carries various sentences. If you are committed of evading arrest, you’ll want to know what punishment you face. And after reading "
-tags = []
-title = "Why You Should Not Evade Police"
-url = "/blog/evade-police/"
-
-+++
+---
+title: "Why You Should Not Evade Police"
+yoast_title: "Why You Should Not Evade Police"
+yoast_description: "Evading arrest by police is a punishable crime that carries various sentences. If you try to evade arrest, you'll want to know what punishment you face."
+categories: [
+  "Blog",
+  "Criminal Law",
+]
+pfd_file: ""
+summary: "If you live in Los Angeles, you’ve probably gotten used to reports of high speed, or low speed police chases. They seemingly happen every single day. Evading arrest is a highly punishable crime that carries various sentences. If you are committed of evading arrest, you’ll want to know what punishment you face. And after reading"
+tags: [
+  "California Vehicle Code 2800.1",
+  "evading police",
+  "peace officer",
+  "police officer"
+]
+url: "/blog/evade-police/559/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/PoliceBodyCameras.jpg"
+img_alt: "police"
+---
 If you live in Los Angeles, you’ve probably gotten used to reports of high speed, or low speed [police chases](https://www.sevenslegal.com/). They seemingly happen every single day. Evading arrest is a highly punishable crime that carries various sentences. If you are committed of evading arrest, you’ll want to know what punishment you face. And after reading the below, you might just want to consider if it’s really worth it to try and flee.
 
 ## Why You Should Not Evade Police
