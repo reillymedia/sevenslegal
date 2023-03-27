@@ -1,13 +1,30 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post bail. It’s a fact that lawmakers in California are trying to change. Bail and Serving Time in Jail Before Being Conviction According to the Prison Policy Institutes, "
-tags = []
-title = "Serving Time Before Conviction and Bail"
-url = "/blog/serving-time-conviction-bail/"
-
-+++
+---
+title: "Serving Time Before Conviction and Bail"
+yoast_title: "Serving Time Before Conviction and Bail"
+yoast_description: "Many people serve time behind bars before they are even convicted of a crime just because they can't afford to post bail."
+categories: [
+  "Criminal Law",
+  "Blog"  
+]
+pfd_file: ""
+summary: "While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post bail. It’s a fact that lawmakers in California are trying to change. Bail and Serving Time in Jail Before Being Conviction According to the Prison Policy Institutes,"
+tags: [
+  "bail",
+  "bounty hunter",
+  "cite out",
+  "immigration bond",
+  "Post Bail",
+  "Prison Policy Institutes",
+  "property bond",
+  "Release on Own Recognizance",
+  "serving time",
+  "surety bond"
+]
+url: "/blog/serving-time-conviction-bail/571/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/BailBond.jpg"
+img_alt: "conviction"
+---
 While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post [bail](https://www.sevenslegal.com/). It’s a fact that lawmakers in California are trying to change.
 
 ## Serving Time Before Conviction and Bail
