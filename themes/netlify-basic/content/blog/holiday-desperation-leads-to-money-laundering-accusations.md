@@ -1,13 +1,27 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "During the holidays money can get tight. If you’ve been accused of money laundering to pay for your holiday presents you’ll want to contact a criminal defense attorney. Money Laundering Accusations for the Holiday Season Money laundering, often referred to as a “white collar crime” is the act by which criminals disguise the original ownership "
-tags = ["Blog"]
-title = "Holiday Desperation Leads to Money Laundering Accusations"
-url = "/blog/holiday-desperation-leads-to-money-laundering-accusations/"
-
-+++
+---
+title: "Holiday Desperation Leads to Money Laundering Accusations"
+yoast_title: "Holiday Desperation Leads to Money Laundering Accusations | Criminal Defense Attorney San Diego"
+yoast_description: "During the holidays money can get tight. If you’ve been accused of money laundering to pay for your holiday presents you’ll want to contact a criminal defense attorney. Money Laundering Accusations for the Holiday Season Money laundering, often referred to as a “white collar crime” is the act by which criminals disguise the original ownership […]"
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Domestic Violence"
+]
+pfd_file: ""
+summary: "During the holidays money can get tight. If you’ve been accused of money laundering to pay for your holiday presents you’ll want to contact a criminal defense attorney. Money Laundering Accusations for the Holiday Season Money laundering, often referred to as a “white collar crime” is the act by which criminals disguise the original ownership"
+tags: [
+  "identity theft",
+  "money launderer",
+  "money laundering",
+  "real estate",
+  "US Treasury",
+  "White Collar Crime"
+]
+url: "/criminal-attorney/holiday-desperation-leads-to-money-laundering-accusations/865/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/WhiteCollarCrime.jpg"
+img_alt: "holiday"
+---
 During the holidays money can get tight. If you’ve been accused of money laundering to pay for your holiday presents you’ll want to contact a criminal defense attorney.
 
 ## Holiday Desperation Leads to Money Laundering Accusations
