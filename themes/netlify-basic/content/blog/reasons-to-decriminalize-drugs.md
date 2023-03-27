@@ -1,13 +1,27 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "The United States is coming to terms with the realization that criminalizing illicit drugs and treating offenders in a purely judicial way has little if any effectiveness in dealing with the drug problem. The U.S. drug problem causes our government to spend millions of dollars, with the result being the largest prison population in the"
-tags = ["Drug Crimes", "Federal Crime", "Blog", "State Crime"]
-title = "Reasons to Decriminalize Drugs"
-url = "/blog/criminal-attorney/reasons-decriminalize-drugs"
-
-+++
+---
+title: "Reasons to Decriminalize Drugs"
+yoast_title: "Reasons to Decriminalize Drugs"
+yoast_description: "The United States is coming to terms with realizing criminalizing drugs and treating offenders judicially has little effect dealing with the drug problem."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Drug Crimes",
+  "Federal Crime",
+  "State Crime"  
+]
+pfd_file: ""
+summary: "The United States is coming to terms with the realization that criminalizing illicit drugs and treating offenders in a purely judicial way has little if any effectiveness in dealing with the drug problem. The U.S. drug problem causes our government to spend millions of dollars, with the result being the largest prison population in the"
+tags: [
+  "decriminalizing drugs",
+  "drug treatment",
+  "drugs",
+  "illicit drugs"
+]
+url: "/criminal-attorney/reasons-decriminalize-drugs/372/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/MarijuanaLeaf-1024x950.jpg"
+img_alt: "drugs"
+---
 The United States is coming to terms with the realization that [criminalizing illicit drugs](https://www.sevenslegal.com/) and treating offenders in a purely judicial way has little if any effectiveness in dealing with the drug problem. The U.S. drug problem causes our government to spend millions of dollars, with the result being the largest prison population in the world instead of reducing the illicit drug problem.
 
 ## Reasons to Decriminalize Drugs
