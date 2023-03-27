@@ -1,13 +1,29 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Typically over big holidays like Fourth of July holiday, the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you are planning on celebrating the fourth with a few drinks, you’ll want to know your rights if you get pulled"
-tags = ["DUI", "Blog"]
-title = "If You Get Pulled Over for DUI on Fourth of July"
-url = "blog/blogpulled-dui-fourth-july"
-
-+++
+---
+title: "If You Get Pulled Over for DUI on Fourth of July"
+yoast_title: "If You Get Pulled Over for DUI on Fourth of July"
+yoast_description: "If you are planning on celebrating the fourth with a few drinks, you'll want to know your rights if you get pulled over for DUI."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "DUI"
+]
+pfd_file: ""
+summary: "Typically over big holidays like Fourth of July holiday, the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you are planning on celebrating the fourth with a few drinks, you’ll want to know your rights if you get pulled"
+tags: [
+  "BAC",
+  "Blood Alcohol Content",
+  "DUI",
+  "Implied Consent Law",
+  "July 4th",
+  "National Highway Traffic Safety Administration",
+  "PAS",
+  "Preliminary Alcohol Screening"
+]
+url: "/blog/blogpulled-dui-fourth-july628/628/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/DUI.jpg"
+img_alt: "July"
+---
 Typically over big holidays like [Fourth of July](http://sevenslegal.com/) holiday, the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you are planning on celebrating the fourth with a few drinks, you’ll want to know your rights if you get pulled over for [DUI](http://sevenslegal.com/).
 
 ## If You Get Pulled Over for DUI on Fourth of July
