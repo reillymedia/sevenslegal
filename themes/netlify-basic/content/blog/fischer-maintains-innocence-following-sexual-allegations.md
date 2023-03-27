@@ -1,13 +1,32 @@
-+++
-categories = "Assault"
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "Richard Fischer still maintains that he is innocent despite the fact that at least 16 women have stepped forward to accuse him of sexually assaulting them. His trial date has been set for February 25 of next year. Following Allegations of Sexual Assault Fischer Maintains Innocence “I’m definitely eager to get started. I feel like,"
-tags = ["Blog", "criminal Law", " Sexual Assault"]
-title = "Fischer Maintains Innocence Following Sexual Allegations"
-url = "/assault/fischer-maintains-innocence-following-sexual-allegations/"
-
-+++
+---
+title: "Fischer Maintains Innocence Following Sexual Allegations"
+yoast_title: "Fischer Maintains Innocence Following Sexual Allegations | Criminal Defense Attorney San Diego Fischer Maintains Innocence Following Sexual Allegations"
+yoast_description: "Richard Fischer still maintains that he is innocent despite the fact that at least 16 women have stepped forward to accuse him of sexually assaulting them."
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Richard Fischer still maintains that he is innocent despite the fact that at least 16 women have stepped forward to accuse him of sexually assaulting them. His trial date has been set for February 25 of next year. Following Allegations of Sexual Assault Fischer Maintains Innocence “I’m definitely eager to get started. I feel like,"
+tags: [
+  "date rape",
+  "Manny Medrano",
+  "Penal Code Section 261 PC",
+  "rape",
+  "Richard Fischer",
+  "San Diego County",
+  "sex crime",
+  "Sexual Assault",
+  "spousal rape",
+  "statutory rape"
+]
+url: "/assault/fischer-maintains-innocence-following-sexual-allegations/854/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Assault.jpg"
+img_alt: "Fischer"
+---
 Richard Fischer still maintains that he is innocent despite the fact that at least 16 women have stepped forward to accuse him of sexually assaulting them. His trial date has been set for February 25 of next year.
 
 ## Fischer Maintains Innocence Following Sexual Allegations
