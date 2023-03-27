@@ -20,7 +20,8 @@ tags: [
   "Penal Code Section 484",
   "Penal Code Section 487",
   "Penal Code Section 488",
-  "petty theft, San Diego"
+  "petty theft",
+  "San Diego"
 ]
 url: "/blog/18year-faces-felony-theft-charges/639/"
 date: 2022-11-09T18:30:00Z
