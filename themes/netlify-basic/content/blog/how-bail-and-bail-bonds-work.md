@@ -1,13 +1,26 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Chances are you will have to get a bail bond to get out of jail if you or your loved one has been arrested for any type of serious crime. While you might imagine standing before a judge who is banging their gavel and announcing “Bail is set at 1 million,” bail bonds don’t quite "
-tags = []
-title = "How Bail and Bail Bonds Work"
-url = "/blog/bail-bail-bonds-work/"
-
-+++
+---
+title: "How Bail and Bail Bonds Work"
+yoast_title: "How Bail and Bail Bonds Work"
+yoast_description: "While you might imagine standing before a judge who is banging their gavel and announcing 'Bail is set at 1 million,' bail bonds don't quite work this way."
+categories: [
+  "Criminal Law",
+  "Blog"
+]
+pfd_file: ""
+summary: "Chances are you will have to get a bail bond to get out of jail if you or your loved one has been arrested for any type of serious crime. While you might imagine standing before a judge who is banging their gavel and announcing “Bail is set at 1 million,” bail bonds don’t quite"
+tags: [
+  "bail bonds",
+  "bounty hunter",
+  "cite out",
+  "immigration bond",
+  "property bond",
+  "surety bond"
+]
+url: "/criminal-attorney/bail-bail-bonds-work/418/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/BailBonds.jpg"
+img_alt: "bail bonds"
+---
 Chances are you will have to get a [bail bond](https://www.sevenslegal.com/) to get out of jail if you or your loved one has been arrested for any type of serious crime. While you might imagine standing before a judge who is banging their gavel and announcing “Bail is set at 1 million,” [bail bonds](https://www.sevenslegal.com/) don’t quite work this way. You may have also seen television commercials about bail bonds, but unless you’ve directly dealt with the issue of posting bail, you may find that you need a brush up on your knowledge about bail bonds.
 
 ## How Bail and Bail Bonds Work
