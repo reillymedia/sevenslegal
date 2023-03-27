@@ -1,13 +1,24 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "According to a report from the Brennan Center for Justice, San Diego’s violent crime rate fell by 0.7 percent in 2018 while the overall crime rate rose. Crime Rate in San Diego Fell by 0.7% in 2018 If you committed a crime in 2018 and are still awaiting a trial, you’ll want to know the "
-tags = []
-title = "San Diego Crime Rate Fell in 2018"
-url = "/blog/san-diego-crime-rate-fell-in-2018/"
-
-+++
+---
+title: "San Diego Crime Rate Fell in 2018"
+yoast_title: "San Diego Crime Rate Fell in 2018 | Criminal Defense Attorney San Diego San Diego Crime Rate Fell in 2018"
+yoast_description: "According to a report from the Brennan Center for Justice, San Diego's violent crime rate fell by 0.7 percent in 2018 while the overall crime rate rose."
+categories: [
+  "Blog",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "According to a report from the Brennan Center for Justice, San Diego’s violent crime rate fell by 0.7 percent in 2018 while the overall crime rate rose. Crime Rate in San Diego Fell by 0.7% in 2018 If you committed a crime in 2018 and are still awaiting a trial, you’ll want to know the"
+tags: [
+  "choosing a jury",
+  "criminal investigation",
+  "criminal trial, jury instruction",
+  "witness testimony"
+]
+url: "/blog/san-diego-crime-rate-fell-in-2018/876/"
+date: 2022-11-09T18:30:00Z
+featured_image: "" 
+img_alt: ""
+---
 According to a report from the Brennan Center for Justice, San Diego’s violent crime rate fell by 0.7 percent in 2018 while the overall crime rate rose.
 
 ## San Diego Crime Rate Fell in 2018
