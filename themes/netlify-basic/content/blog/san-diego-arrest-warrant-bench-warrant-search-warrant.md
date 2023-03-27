@@ -1,13 +1,24 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "We Only Handle Warrant Cases in San Diego, CA There are three types of warrants that can be issued against you in California: an arrest warrant, bench warrant, and search warrant. While they have some similarities, they are used for different reasons. Differences of Arrest Warrant, Bench Warrant, and Search Warrant   In California, both "
-tags = []
-title = "San Diego Arrest Warrant, Bench Warrant & Search Warrant"
-url = "/blog/arrest-warrant-bench-warrant-search-warrant/"
-
-+++
+---
+title: "San Diego Arrest Warrant, Bench Warrant & Search Warrant"
+yoast_title: "San Diego Arrest Warrant, Bench Warrant & Search Warrant"
+yoast_description: "The three types of warrants that can be issued against you in California: an arrest warrant, bench warrant, and search warrant."
+categories: [
+  "Criminal Law",
+  "Blog"
+]
+pfd_file: ""
+summary: "We Only Handle Warrant Cases in San Diego, CA There are three types of warrants that can be issued against you in California: an arrest warrant, bench warrant, and search warrant. While they have some similarities, they are used for different reasons. Differences of Arrest Warrant, Bench Warrant, and Search Warrant   In California, both"
+tags: [
+  "arrest warrant",
+  "bench warrant",
+  "Criminal Defense",
+  "search warrant"
+]
+url: "/criminal-attorney/arrest-warrant-bench-warrant-search-warrant/346/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/CourtInjunction.jpg"
+img_alt: "arrest warrant"
+---
 We Only Handle Warrant Cases in San Diego, CA
 
 There are three types of warrants that can be issued against you in California:[an arrest warrant](https://www.sevenslegal.com/), bench warrant, and search warrant. While they have some similarities, they are used for different reasons.
