@@ -1,13 +1,33 @@
-+++
-categories = "Assault"
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "A Former Bravo reality TV star and his girlfriend have been charged with multiple counts of a sex crime. The women who have stepped forward so far allege the attractive couple got them drunk and lured them back to the surgeon’s apartment before making sexual advances. Reality Star Robicheaux and Surgeon Riley Accused of Sex Crime […]"
-tags = ["blog", " Criminal Law", "Sexual Assault"]
-title = "Reality TV Star and Surgeon Accused of Sex Crime"
-url = "/assault/reality-tv-star-and-surgeon-accused-of-sex-crime/"
-
-+++
+---
+title: "Reality TV Star and Surgeon Accused of Sex Crime"
+yoast_title: "Reality TV Star and Surgeon Accused of Sex Crime | Criminal Defense Attorney San Diego Reality TV Star and Surgeon Accused of Sex Crime"
+yoast_description: "1A Former Bravo reality TV star and his girlfriend have been charged with multiple counts of a sex crime"
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "A Former Bravo reality TV star and his girlfriend have been charged with multiple counts of a sex crime. The women who have stepped forward so far allege the attractive couple got them drunk and lured them back to the surgeon’s apartment before making sexual advances. Reality Star Robicheaux and Surgeon Riley Accused of Sex Crime"
+tags: [
+  "Cerissa Laura Riley",
+  "date rape",
+  "Grant William Robicheaux",
+  "Penal Code Section 261 PC",
+  "rape",
+  "San Diego County",
+  "sex crime",
+  "Sexual Assault",
+  "spousal rape",
+  "statutory rape",
+  "Supreme Court"
+]
+url: "/assault/reality-tv-star-and-surgeon-accused-of-sex-crime/849/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/RapeAllegatons.jpg"
+img_alt: "sex crime"
+---
 A Former Bravo reality TV star and his girlfriend have been charged with multiple counts of a sex crime. The women who have stepped forward so far allege the attractive couple got them drunk and lured them back to the surgeon’s apartment before making sexual advances.
 
 ## Reality TV Star and Surgeon Accused of Sex Crime
