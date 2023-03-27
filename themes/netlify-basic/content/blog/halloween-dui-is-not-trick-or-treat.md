@@ -1,13 +1,24 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "With Halloween right around the corner, its the perfect time to remember that driving under the influence (i.e., “DUI“) or driving recklessly can end up with you in jail. CHP Press Release About Halloween and DUI Recently the California Highway Patrol released a press release to remind us of the following: Halloween is often recognized \n\n"
-tags = ["Blog", "DUI"]
-title = "Halloween DUI is Not Trick or Trea"
-url = "/blog/criminal-attorney/halloween-dui-trick-treat/"
-
-+++
+---
+title: "Halloween DUI is Not Trick or Treat"
+yoast_title: "Halloween DUI is Not Trick or Treat"
+yoast_description: "With Halloween right around the corner, its the perfect time to remember that a DUI or driving recklessly can end up with you in jail."
+categories: [
+  "Criminal Law",
+  "Blog"
+]
+pfd_file: ""
+summary: "With Halloween right around the corner, its the perfect time to remember that driving under the influence (i.e., “DUI“) or driving recklessly can end up with you in jail. CHP Press Release About Halloween and DUI Recently the California Highway Patrol released a press release to remind us of the following: Halloween is often recognized"
+tags: [
+  "arrest warrant",
+  "bench warrant",
+  "Criminal Defense",
+  "search warrant"
+]
+url: "/criminal-attorney/halloween-dui-trick-treat/415/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/San-Diego-Blood-Alcohol-Level.jpg"
+img_alt: "dui"
+---
 With Halloween right around the corner, its the perfect time to remember that driving under the influence (i.e., “[DUI](https://www.sevenslegal.com/)“) or driving recklessly can end up with you in jail.
 
 ## Halloween DUI is Not Trick or Trea
