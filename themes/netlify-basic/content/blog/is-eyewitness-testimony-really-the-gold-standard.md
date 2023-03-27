@@ -1,13 +1,22 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Most people think eyewitness testimony is the “Gold Standard” when it comes to putting together the event details when it comes to documenting facts about a case. This idea becomes questionable when the various eyewitnesses to a crime report substantially different details as to what they saw about the same event. Obvious details such as "
-tags = []
-title = "Is Eyewitness Testimony Really the Gold Standard?"
-url = "/blog/eyewitness-testimony-gold-standard/"
-
-+++
+---
+title: "Is Eyewitness Testimony Really the Gold Standard?"
+yoast_title: "Is Eyewitness Testimony Really the Gold Standard?"
+yoast_description: "Most people think eyewitness testimony is the 'Gold Standard' when it comes to event details and documenting facts about a case."
+categories: [
+  "Criminal Law",
+  "Blog"
+]
+pfd_file: ""
+summary: "Most people think eyewitness testimony is the “Gold Standard” when it comes to putting together the event details when it comes to documenting facts about a case. This idea becomes questionable when the various eyewitnesses to a crime report substantially different details as to what they saw about the same event. Obvious details such as"
+tags: [
+  "Criminal Defense",
+  "Eyewitness Testimony"
+]
+url: "/criminal-attorney/eyewitness-testimony-gold-standard/311/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/EyeWitness.jpg"
+img_alt: "eyewitness"
+---
 Most people think [eyewitness testimony](https://www.sevenslegal.com/ "Sevens Legal, APC") is the “Gold Standard” when it comes to putting together the event details when it comes to documenting facts about a case. This idea becomes questionable when the various eyewitnesses to a crime report substantially different details as to what they saw about the same event. Obvious details such as height, weight, hair and eye color, gender, and what the person was wearing can vary substantially. It is especially astounding when these same eyewitnesses then change the details of their testimony to another questioner.
 
 ## Is Eyewitness Testimony Really the Gold Standard?
