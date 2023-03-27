@@ -1,10 +1,19 @@
-+++
-title = "American Institute of Criminal Law Attorneys Award"
-categories = ["Awards"]
-date = 2022-11-09T18:30:00Z
-summary = "PRESS RELEASE The Sevens Legal, APC Has Been Nominated and Accepted as a Three Years AIOCLA’S 10 Best Law Firm in California For Client Satisfaction The American Institute of Criminal Law Attorneys has recognized the exceptional performance of California’s Criminal Law Firm, Sevens Legal, APC as Three Years 10 Best Criminal Law Firm for Client"
-url = "/awards/american-institute-of-criminal-law-attorneys-award/"
-+++
+---
+title: "American Institute of Criminal Law Attorneys Award"
+yoast_title: "American Institute of Criminal Law Attorneys Award"
+yoast_description: "The Sevens Legal, APC Has Been Nominated and Accepted as a Three Years AIOCLA’S10 Best Law Firm in California For Client Satisfaction."
+categories: [
+  "Awards"
+]
+pfd_file: ""
+summary: "PRESS RELEASE The Sevens Legal, APC Has Been Nominated and Accepted as a Three Years AIOCLA’S 10 Best Law Firm in California For Client Satisfaction The American Institute of Criminal Law Attorneys has recognized the exceptional performance of California’s Criminal Law Firm, Sevens Legal, APC as Three Years 10 Best Criminal Law Firm for Client"
+tags: []
+url: "/awards/american-institute-of-criminal-law-attorneys-award/896/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/upload/AIOCLA.jpg" 
+img_alt: "American Institute of Criminal Law Attorneys Award"
+---
+
 ![](/uploads/aiocla-300x300-jpg.webp)
 
 **PRESS RELEASE**
