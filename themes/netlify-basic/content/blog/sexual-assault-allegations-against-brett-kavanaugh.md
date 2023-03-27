@@ -1,13 +1,33 @@
-+++
-categories = "Assault, "
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "Dr. Christine Blasey Ford has come forward with sexual assault allegations against Supreme Court nominee Brett Kavanaugh. Kavanaugh has since denied the allegations, which allegedly occurred when the two were teenagers. Brett Kavanaugh Accused of Sexual Assault Professor of clinical psychology in Palo Alto, California, Dr. Ford, described the alleged sexual assault in a recent"
-tags = ["blog", ", Criminal Law", " Sexual Assault"]
-title = "Sexual Assault Allegations Against Brett Kavanaugh"
-url = "/assault/sexual-assault-allegations-against-brett-kavanaugh/"
-
-+++
+---
+title: "Sexual Assault Allegations Against Brett Kavanaugh"
+yoast_title: "Sexual Assault Allegations Against Brett Kavanaugh | Criminal Defense Attorney San Diego Sexual Assault Allegations Against Brett Kavanaugh"
+yoast_description: "Dr. Christine Blasey Ford has come forward with sexual assault allegations against Supreme Court nominee Brett Kavanaugh."
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Dr. Christine Blasey Ford has come forward with sexual assault allegations against Supreme Court nominee Brett Kavanaugh. Kavanaugh has since denied the allegations, which allegedly occurred when the two were teenagers. Brett Kavanaugh Accused of Sexual Assault Professor of clinical psychology in Palo Alto, California, Dr. Ford, described the alleged sexual assault in a recent"
+tags: [
+  "Brett Kavanaugh",
+  "date rape",
+  "Dr. Christine Blasey Ford",
+  "Penal Code Section 261 PC",
+  "rape",
+  "San Diego County",
+  "sex crime",
+  "Sexual Assault",
+  "spousal rape",
+  "statutory rape",
+  "Supreme Court"
+]
+url: "/assault/sexual-assault-allegations-against-brett-kavanaugh/847/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Assault.jpg"
+img_alt: "sexual assault"
+---
 Dr. Christine Blasey Ford has come forward with sexual assault allegations against Supreme Court nominee Brett Kavanaugh. Kavanaugh has since denied the allegations, which allegedly occurred when the two were teenagers.
 
 ## Sexual Assault Allegations Against Brett Kavanaugh
