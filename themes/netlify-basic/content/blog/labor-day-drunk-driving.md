@@ -1,13 +1,29 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "As Labor Day approaches you’ll want to prepare for any celebrations – as well as the consequences of celebrating too much. Drunk Driving on Labor Day If you get pulled over for impaired driving, you’ll want to know what you are facing. Below we outline the steps of a DUI investigation in addition to what"
-tags = ["Blog", "DUI"]
-title = "Labor Day Drunk Driving"
-url = "/blog/criminal-attorney/labor-day-drunk-driving/"
-
-+++
+---
+title: "Labor Day Drunk Driving"
+yoast_title: "Labor Day Drunk Driving | Criminal Defense Attorney San Diego Labor Day Drunk Driving"
+yoast_description: "As Labor Day approaches you'll want to prepare for any celebrations - as well as the consequences of celebrating too much."
+categories: [
+  "Criminal Law",
+  "Blog",
+  "DUI"
+]
+pfd_file: ""
+summary: "As Labor Day approaches you’ll want to prepare for any celebrations – as well as the consequences of celebrating too much. Drunk Driving on Labor Day If you get pulled over for impaired driving, you’ll want to know what you are facing. Below we outline the steps of a DUI investigation in addition to what"
+tags: [
+  "BAC",
+  "Blood Alcohol Content",
+  "DUI",
+  "Implied Consent Law",
+  "Labor Day",
+  "National Highway Traffic Safety Administration",
+  "PAS",
+  "Preliminary Alcohol Screening"
+]
+url: "/criminal-attorney/labor-day-drunk-driving/844/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/DUI.jpg"
+img_alt: "labor day"
+---
 As Labor Day approaches you’ll want to prepare for any celebrations – as well as the consequences of celebrating too much.
 
 ## Labor Day Drunk Driving
