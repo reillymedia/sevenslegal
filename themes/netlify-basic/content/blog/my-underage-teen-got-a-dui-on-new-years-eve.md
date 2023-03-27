@@ -1,13 +1,29 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-09T18:30:00Z
-pfd_file = ""
-summary = "Being a parent can be hard. And that only gets harder as your sweet baby boy or girl grows up and becomes an adult. Without a doubt, your children will stumble. But if that stumble found them in jail with a DUI arrest on New Year’s Eve, you’ll want to know what you should do "
-tags = ["DUI", "Blog"]
-title = "My Underage Teen Got a DUI on New Year’s Eve"
-url = "/blog/my-underage-teen-got-a-dui-on-new-years-eve/"
-
-+++
+---
+title: "My Underage Teen Got a DUI on New Year’s Eve"
+yoast_title: "My Underage Teen Got a DUI on New Year's Eve | Criminal Defense Attorney San Diego My Underage Teen Got a DUI on New Year's Eve"
+yoast_description: "Without a doubt, your children will stumble, but if that stumble found them in jail with a DUI arrest on New Year's Eve, you'll want to know what you should do next."
+categories: [
+  "Criminal Law",
+  "Blog",
+  "DUI"
+]
+pfd_file: ""
+summary: "Being a parent can be hard. And that only gets harder as your sweet baby boy or girl grows up and becomes an adult. Without a doubt, your children will stumble. But if that stumble found them in jail with a DUI arrest on New Year’s Eve, you’ll want to know what you should do"
+tags: [
+  "BAC",
+  "Blood Alcohol Content",
+  "DUI",
+  "Implied Consent Law",
+  "National Highway Traffic Safety Administration",
+  "PAS",
+  "Preliminary Alcohol Screening",
+  "underage"
+]
+url: "/criminal-attorney/my-underage-teen-got-a-dui-on-new-years-eve/869/"
+date: 2022-11-09T18:30:00Z
+featured_image: ""
+img_alt: ""
+---
 Being a parent can be hard. And that only gets harder as your sweet baby boy or girl grows up and becomes an adult. Without a doubt, your children will stumble. But if that stumble found them in jail with a DUI arrest on New Year’s Eve, you’ll want to know what you should do next.
 
 ## My Underage Teen Got a DUI on New Year’s Eve
