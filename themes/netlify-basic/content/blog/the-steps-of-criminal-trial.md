@@ -22,7 +22,7 @@ date: 2022-11-09T18:30:00Z
 featured_image: /uploads/CourtInjunction.jpg
 img_alt: trial
 ---
-During a criminal trial a jury examines the evidence presented by the defense and prosecution to decide whether, “beyond a reasonable doubt,” a defendant committed a crime. A fair trial allows for the government and the defendant to argue their sides of the case. And a fair trial starts with the selection of a fair jury.
+**During a criminal trial a jury examines the evidence presented by the defense and prosecution to decide whether, “beyond a reasonable doubt,” a defendant committed a crime. A fair trial allows for the government and the defendant to argue their sides of the case. And a fair trial starts with the selection of a fair jury.**
 
 ## Criminal Trial Phases
 
