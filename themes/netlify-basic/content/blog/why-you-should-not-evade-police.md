@@ -4,7 +4,7 @@ yoast_title: "Why You Should Not Evade Police"
 yoast_description: "Evading arrest by police is a punishable crime that carries various sentences. If you try to evade arrest, you'll want to know what punishment you face."
 categories: [
   "Blog",
-  "Criminal Law",
+  "Criminal Law"
 ]
 pfd_file: ""
 summary: "If you live in Los Angeles, you’ve probably gotten used to reports of high speed, or low speed police chases. They seemingly happen every single day. Evading arrest is a highly punishable crime that carries various sentences. If you are committed of evading arrest, you’ll want to know what punishment you face. And after reading"
