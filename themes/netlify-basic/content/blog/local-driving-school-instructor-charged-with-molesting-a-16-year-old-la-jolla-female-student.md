@@ -1,12 +1,18 @@
-+++
-title = "Local Driving School Instructor Charged with Molesting a 16-year-old La Jolla Female Student"
-categories = ["Sexual Assault"]
-date = 2022-11-14T18:30:00Z
-pfd_file = ""
-summary = "A San Diego-based driving school instructor has been arrested and charged with several sex crimes. The instructor, Mohammad Mashal, 44, picked up the 16-year-old female victim at her school on September 30, 2021. He was to give the victim a behind-the-wheel lesson in the La Jolla area and then take her home. Academic Driving School,"
-tags = []
-url = "/sexual-assault/local-driving-school-instructor-charged-with-molesting-a-16-year-old-la-jolla-female-student/"
-+++
+---
+title: "Local Driving School Instructor Charged with Molesting a 16-year-old La Jolla Female Student"
+yoast_title: "Local Driving School Instructor Charged with Molesting a 16-year-old La Jolla Female Student | Criminal Defense Attorney San Diego"
+yoast_description: "San Diego-based driving school instructor has been arrested and charged with several sex crimes."
+categories: [
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "A San Diego-based driving school instructor has been arrested and charged with several sex crimes. The instructor, Mohammad Mashal, 44, picked up the 16-year-old female victim at her school on September 30, 2021. He was to give the victim a behind-the-wheel lesson in the La Jolla area and then take her home. Academic Driving School,"
+tags: []
+url: "/sexual-assault/local-driving-school-instructor-charged-with-molesting-a-16-year-old-la-jolla-female-student/1006/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Ari-Lieberman-IMG_2921-scaled.jpg"
+img_alt:
+---
 A San Diego-based driving school instructor has been arrested and charged with several sex crimes.
 
 The instructor, Mohammad Mashal, 44, picked up the 16-year-old female victim at her school on September 30, 2021. He was to give the victim a behind-the-wheel lesson in the La Jolla area and then take her home.
