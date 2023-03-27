@@ -1,13 +1,31 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Richard Fischer, a San Diego County sheriff’s deputy will continue with his plea of not guilty to the barrage of sexual misconduct charges he is facing. The deputy, who is already facing charges that he groped 13 women while on duty was just hit with five new charges, including forcible oral copulation. Fischer Charged with"
-tags = ["Blog", "Sexual Assault"]
-title = "New Sexual Misconduct Charges for Sheriff’s Deputy Fischer"
-url = "/blog/new-sexual-misconduct-charges-for-sheriffs-deputy-fischer/"
-
-+++
+---
+title: "New Sexual Misconduct Charges for Sheriff’s Deputy Fischer"
+yoast_title: "New Sexual Misconduct Charges for Sheriff's Deputy Fischer | Criminal Defense Attorney San Diego New Sexual Misconduct Charges for Sheriff's Deputy Fischer"
+yoast_description: "Richard Fischer, a San Diego County sheriff's deputy will continue with his plea of not guilty to the barrage of sexual misconduct charges he is facing."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Richard Fischer, a San Diego County sheriff’s deputy will continue with his plea of not guilty to the barrage of sexual misconduct charges he is facing. The deputy, who is already facing charges that he groped 13 women while on duty was just hit with five new charges, including forcible oral copulation. Fischer Charged with"
+tags: [
+  "date rape",
+  "Manny Medrano",
+  "Penal Code Section 261 PC",
+  "rape",
+  "Richard Fischer",
+  "San Diego County",
+  "sex crime",
+  "Sexual Assault",
+  "spousal rape",
+  "statutory rape"
+]
+url: "/blog/new-sexual-misconduct-charges-for-sheriffs-deputy-fischer/846/"
+date: 2022-11-09T18:30:00Z
+featured_image: ""
+img_alt: ""
+---
 Richard Fischer, a San Diego County sheriff’s deputy will continue with his plea of not guilty to the barrage of sexual misconduct charges he is facing. The deputy, who is already facing charges that he groped 13 women while on duty was just hit with five new charges, including forcible oral copulation.
 
 ## New Sexual Misconduct Charges for Sheriff’s Deputy Fischer
