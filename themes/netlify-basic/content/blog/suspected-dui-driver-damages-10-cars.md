@@ -1,13 +1,26 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-13T18:30:00Z
-pfd_file = ""
-summary = "A driver suspected of being under the influence of alcohol drove into a Poway car dealership and damaged at least 10 cars. Damages to 10 Cars by Suspected DUI Driver Just after 2 a.m. a DUI driver hit two traffic-light poles, continued through a parking lot, and then went airborne, landing on parked vehicles at"
-tags = ["Blog"]
-title = "Suspected DUI Driver Damages 10 Cars"
-url = "/criminal-attorney/suspected-dui-driver-damages-10-cars"
-
-+++
+---
+title: "Suspected DUI Driver Damages 10 Cars"
+yoast_title: "Suspected DUI Driver Damages 10 Cars | Criminal Defense Attorney San Diego Suspected DUI Driver Damages 10 Cars"
+yoast_description: "A driver suspected of being under the influence of alcohol drove into a Poway car dealership and damaged at least 10 cars."
+categories: [
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "A driver suspected of being under the influence of alcohol drove into a Poway car dealership and damaged at least 10 cars. Damages to 10 Cars by Suspected DUI Driver Just after 2 a.m. a DUI driver hit two traffic-light poles, continued through a parking lot, and then went airborne, landing on parked vehicles at"
+tags: [
+  "BAC",
+  "Blood Alcohol Content",
+  "DUI",
+  "Implied Consent Law",
+  "National Highway Traffic Safety Administration",
+  "PAS",
+  "Preliminary Alcohol Screening"
+]
+url: "/criminal-attorney/suspected-dui-driver-damages-10-cars/885/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/upload/DUI.jpg" 
+img_alt: ""
+---
 A driver suspected of being under the influence of alcohol drove into a Poway car dealership and damaged at least 10 cars.
 
 ## Suspected DUI Driver Damages 10 Cars
