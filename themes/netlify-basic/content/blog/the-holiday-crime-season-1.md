@@ -1,13 +1,22 @@
-+++
-categories = " Burglary"
-date = 2022-11-13T18:30:00Z
-pfd_file = ""
-summary = "The holiday season is often the crime season. If you’ve been accused of committing a crime this holiday season, you’ll want to know just what you’ll need to avoid jail time next year. The Holidays Can Be a Season of Crime The most common crimes that occur during the holiday season are the following: Identity "
-tags = ["Blog", "Criminal Law"]
-title = "The Holiday Crime Season"
-url = "/burglary/holiday-crime-season/"
-
-+++
+---
+title: "The Holiday Crime Season"
+yoast_title: "The Holiday Crime Season"
+yoast_description: "If you've been accused of committing a crime this holiday season, you'll want to know just what you'll need to avoid jail time next year."
+categories: [
+  "Blog",
+  "Burglary",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "The holiday season is often the crime season. If you’ve been accused of committing a crime this holiday season, you’ll want to know just what you’ll need to avoid jail time next year. The Holidays Can Be a Season of Crime The most common crimes that occur during the holiday season are the following: Identity"
+tags: [
+  "Holiday crime"
+]
+url: "/blog/holiday-crime-season/563/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/holdup.jpg"
+img_alt: "crime"
+---
 The holiday season is often the [crime season](https://www.sevenslegal.com/). If you’ve been accused of committing a crime this holiday season, you’ll want to know just what you’ll need to avoid jail time next year.
 
 ## The Holiday Crime Season
