@@ -1,13 +1,26 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Democratic Sen. Al Franken of Minnesota has announced he will be resigning following allegations of sexual misconduct. Franken took to the Senate floor to make his announcement, saying, “I am announcing that in the coming weeks I will be resigning as a member of the United States Senate.” Al Franken Resigns After Sexual Assault Allegations "
-tags = ["Sexual Assault", "Blog"]
-title = "Franken Resigns After Sexual Misconduct Allegations"
-url = "/blog/franken-resigns-sexual-misconduct-allegations"
-
-+++
+---
+title: "Franken Resigns After Sexual Misconduct Allegations"
+yoast_title: "Franken Resigns After Sexual Misconduct Allegations"
+yoast_description: "Democratic Sen. Al Franken of Minnesota has announced he will be resigning following allegations of sexual misconduct."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Democratic Sen. Al Franken of Minnesota has announced he will be resigning following allegations of sexual misconduct. Franken took to the Senate floor to make his announcement, saying, “I am announcing that in the coming weeks I will be resigning as a member of the United States Senate.” Al Franken Resigns After Sexual Assault Allegations"
+tags: [
+  "Al Franken",
+  "Leeann Tweeden",
+  "Sexual Assault",
+  "sexual misconduct",
+  "Statute of Limitations"
+]
+url: "/blog/franken-resigns-sexual-misconduct-allegations/702/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Assault.jpg"
+img_alt: "Franken"
+---
 Democratic Sen. Al Franken of Minnesota has announced he will be resigning following allegations of sexual misconduct. Franken took to the Senate floor to make his announcement, saying, “I am announcing that in the coming weeks I will be resigning as a member of the United States Senate.”
 
 ## Franken Resigns After Sexual Misconduct Allegations
