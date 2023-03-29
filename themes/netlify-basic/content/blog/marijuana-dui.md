@@ -1,7 +1,8 @@
 ---
 title: "Marijuana DUI"
 yoast_title: "Marijuana DUI"
-yoast_description: "If you get pulled over for a "Marijuana DUI" you should know there's no established way to tell when a driver is impaired by marijuana."
+yoast_description: >-
+  If you get pulled over for a "Marijuana DUI" you should know there's no established way to tell when a driver is impaired by marijuana."
 categories: [
   "Blog",
   "Criminal Law",
@@ -10,7 +11,8 @@ categories: [
   "Federal Crime"
 ]
 pfd_file: ""
-summary: "If you get pulled over for a “Marijuana DUI” you should know there’s no established way to tell when a driver is impaired by marijuana. No “Breathalyzer” for Marijuana Impairment When a person is pulled over for suspected alcohol impairment, an officer will do a field sobriety test which usually includes a Breathalyzer. Blow over"
+summary: >-
+  If you get pulled over for a “Marijuana DUI” you should know there’s no established way to tell when a driver is impaired by marijuana. No “Breathalyzer” for Marijuana Impairment When a person is pulled over for suspected alcohol impairment, an officer will do a field sobriety test which usually includes a Breathalyzer. Blow over"
 tags: [
   "alcohol impairment",
   "Breathalyzer",
