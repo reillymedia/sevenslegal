@@ -16,17 +16,6 @@ date: 2022-11-09T18:30:00Z
 featured_image: ""
 img_alt: ""
 ---
-
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Summertime crime” is a real thing. As more and more people leave town for vacation, burglary rates increase. If you’ve been accused of committing a crime, you’ll want to know just what you’ll need to avoid jail time next year. The Summertime Can Be a Season of Crime The most common crimes that occur during"
-tags = []
-title = "Summertime Crime is a Real Thing"
-url = "/blog/summertime-crime-is-a-real-thing/"
-
-+++
 “Summertime crime” is a real thing. As more and more people leave town for vacation, burglary rates increase. If you’ve been accused of committing a crime, you’ll want to know just what you’ll need to avoid jail time next year.
 
 ## Summertime Crime is a Real Thing
