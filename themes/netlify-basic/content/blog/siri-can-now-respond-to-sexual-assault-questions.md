@@ -1,13 +1,33 @@
-+++
-categories = "Assault"
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "Apple recently updated its iOS operating service aid Siri to sexual assault and domestic violence questions she receives from users. Siri and Her Responses for Sexual Assault Questions In March, JAMA Internal Medicine published a study performed by researchers at Stanford that showed Siri, in addition to other smartphone assistants including Google Now, Samsung’s S "
-tags = ["Blog", "Criminal Law", "Domestic Violence", "Sexual Assault"]
-title = "Siri Can Now Respond to Sexual Assault Questions"
-url = "/assault/siri-respond-sexual-assault-questions/"
-
-+++
+---
+title: "Siri Can Now Respond to Sexual Assault Questions"
+yoast_title: "Siri Can Now Respond to Sexual Assault Questions | Criminal Defense Attorney San Diego"
+yoast_description: "Apple recently updated its iOS operating service aid Siri to sexual assault and domestic violence questions she receives from users. Siri and Her Responses for Sexual Assault Questions In March, JAMA Internal Medicine published a study performed by researchers at Stanford that showed Siri, in addition to other smartphone assistants including Google Now, Samsung’s S […]"
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Domestic Violence",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Apple recently updated its iOS operating service aid Siri to sexual assault and domestic violence questions she receives from users. Siri and Her Responses for Sexual Assault Questions In March, JAMA Internal Medicine published a study performed by researchers at Stanford that showed Siri, in addition to other smartphone assistants including Google Now, Samsung’s S"
+tags: [
+  "Apple IOs",
+  "Apple Update Service",
+  "Domestic Violence Restraining Orders",
+  "DVRO Violation",
+  "Google Now",
+  "Microsoft’s Cortana",
+  "National Sexual Assault Hotline",
+  "Penal Code 136.1 and 136.2",
+  "Samsung’s S Voice",
+  "Sexual Assault, Siri, Stanford"
+]
+url: "/assault/siri-respond-sexual-assault-questions/491/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/SexualAssault.jpg"
+img_alt: "sexual assault"
+---
 Apple recently updated its iOS operating service aid Siri to [sexual assault](https://www.sevenslegal.com/) and [domestic violence](https://www.sevenslegal.com/) questions she receives from users.
 
 ## Siri Can Now Respond to Sexual Assault Questions
