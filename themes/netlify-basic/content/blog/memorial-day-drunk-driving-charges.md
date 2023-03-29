@@ -1,13 +1,29 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Typically over big weekends like Memorial Day weekend the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you received a DUI this past holiday weekend, you’ll want to know what your next steps are – namely how to contact "
-tags = ["DUI", "Blog"]
-title = "Memorial Day Drunk Driving Charges"
-url = "/blog/memorial-day-drunk-driving-charges/"
-
-+++
+---
+title: "Memorial Day Drunk Driving Charges"
+yoast_title: "Memorial Day Drunk Driving Charges"
+yoast_description: "Big weekends like Memorial Day the San Diego County Sheriff's Department and National Highway Traffic Safety Administration team to keep San Diego's roads."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "DUI"
+]
+pfd_file: ""
+summary: "Typically over big weekends like Memorial Day weekend the San Diego County Sheriff’s Department will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you received a DUI this past holiday weekend, you’ll want to know what your next steps are – namely how to contact"
+tags: [
+  "BAC",
+  "Blood Alcohol Content",
+  "DUI",
+  "Implied Consent Law",
+  "Memorial Day",
+  "National Highway Traffic Safety Administration",
+  "PAS",
+  "Preliminary Alcohol Screening"
+]
+url: "/blog/memorial-day-drunk-driving-charges/616/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/DUI.jpg"
+img_alt: "Memorial Day"
+---
 Typically over big weekends like [Memorial Day weekend](http://sevenslegal.com/) the [San Diego County Sheriff’s Department](http://sevenslegal.com/) will team up with the National Highway Traffic Safety Administration to keep impaired drivers off San Diego’s roads. If you received a DUI this past holiday weekend, you’ll want to know what your next steps are – namely how to contact a [DUI defense attorney](http://sevenslegal.com/).
 
 ## Memorial Day Drunk Driving Charges
