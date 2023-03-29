@@ -1,13 +1,30 @@
-+++
-title = "The Biggest Money Laundering Investigation in San Diego"
-categories = ["Blog", "Criminal Law", "Federal Crime", "White Collar Crime"]
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "San Diego federal prosecutors have announced they have indicted 75 people nationwide, including 40 in San Diego, in what is being called the biggest money-laundering investigation ever in San Diego. Biggest San Diego Investigation Into Money Laundering According to interim U.S. Attorney Adam Braverman, defendants in the case have laundered drug proceeds from the Sinaloa "
-tags = ["Federal Crime", "Blog", "White Collar Crime"]
-url = "/criminal-attorney/biggest-money-laundering-investigation-san-diego/"
-
-+++
+---
+title: "The Biggest Money Laundering Investigation in San Diego"
+yoast_title: "The Biggest Money Laundering Investigation in San Diego"
+yoast_description: "San Diego federal prosecutors have announced they have indicted 75 people nationwide, including 40 in San Diego, in what is being called the biggest money-laundering investigation ever in San Diego."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Federal Crime",
+  "White Collar Crime"
+]
+pfd_file: ""
+summary: "San Diego federal prosecutors have announced they have indicted 75 people nationwide, including 40 in San Diego, in what is being called the biggest money-laundering investigation ever in San Diego. Biggest San Diego Investigation Into Money Laundering According to interim U.S. Attorney Adam Braverman, defendants in the case have laundered drug proceeds from the Sinaloa"
+tags: [
+  "Cross Border Violence Task Force",
+  "Jose Roberto Lopez-Albarran",
+  "Manuel Reynoso Garcia, money launderer",
+  "money laundering",
+  "real estate",
+  "San Diego",
+  "U.S. Attorney Adam Braverman",
+  "US Treasury, White Collar Crime"
+]
+url: "/blog/biggest-money-laundering-investigation-san-diego/791/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/WhiteCollarCrime.jpg"
+img_alt: "money laundering"
+---
 San Diego federal prosecutors have announced they have indicted 75 people nationwide, including 40 in San Diego, in what is being called the biggest money-laundering investigation ever in San Diego
 
 ## The Biggest Money Laundering Investigation in San Diego
