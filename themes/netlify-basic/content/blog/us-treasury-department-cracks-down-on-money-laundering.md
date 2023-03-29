@@ -1,14 +1,27 @@
-+++
-title = "US Treasury Department Cracks Down on Money Laundering"
-categories = ["Blog", "Criminal Law", "Federal Crime", "White Collar Crime"]
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "The US Treasury Department will begin a new initiative of tracking sales of high-end real estate transactions in an attempt to crack down on money laundering. US Treasury Department Cracks Down on Money Laundering Starting in March, the Treasure Department will be tracking sales of high-end real estate in Miami and Manhattan. According to the "
-tags = ["money launderer", "money laundering", "real estate", "US Treasury", "White Collar Crime"]
-
-url = "/blog/criminal-attorney/treasury-department-cracks-money-laundering"
-
-+++
+---
+title: "US Treasury Department Cracks Down on Money Laundering"
+yoast_title: "US Treasury Department Cracks Down on Money Laundering | Criminal Defense Attorney San Diego"
+yoast_description: "The US Treasury Department will begin a new initiative of tracking sales of high-end real estate transactions in an attempt to crack down on money laundering. US Treasury Department Cracks Down on Money Laundering Starting in March, the Treasure Department will be tracking sales of high-end real estate in Miami and Manhattan. According to the […]"
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Federal Crime",
+  "White Collar Crime"
+]
+pfd_file: ""
+summary: "The holiday season is often the crime season. If you’ve been accused of committing a crime this holiday season, you’ll want to know just what you’ll need to avoid jail time next year. The Holidays Can Be a Season of Crime The most common crimes that occur during the holiday season are the following: Identity"
+tags: [
+  "money launderer",
+  "money laundering",
+  "real estate",
+  "US Treasury",
+  "White Collar Crime"
+]
+url: "/criminal-attorney/treasury-department-cracks-money-laundering/446/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/MoneyLaundering.jpg"
+img_alt: "money laundering"
+---
 The US Treasury Department will begin a new initiative of tracking sales of high-end [real estate transactions](https://www.sevenslegal.com/) in an attempt to crack down on [money laundering](https://www.sevenslegal.com/).
 
 ## US Treasury Department Cracks Down on Money Laundering
