@@ -1,13 +1,27 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "The woman charged with murder and driving under the influence (“DUI”) has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers. DUI Crash Killed Three – Duarte Pleading Not Guilty Bani Duarte, 27, was charged with three counts of murder and one count of driving under the influence causing "
-tags = ["Blog", "DUI"]
-title = "Pleading Not Guilty for DUI Crash that Killed Three"
-url = "/blog/pleading-not-guilty-for-dui-crash-that-killed-three/"
-
-+++
+---
+title: "Pleading Not Guilty for DUI Crash that Killed Three"
+yoast_title: "Pleading Not Guilty for DUI Crash that Killed Three"
+yoast_description: "The woman charged with murder and driving under the influence ("DUI") has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "DUI"
+]
+pfd_file: ""
+summary: "The woman charged with murder and driving under the influence (“DUI”) has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers. DUI Crash Killed Three – Duarte Pleading Not Guilty Bani Duarte, 27, was charged with three counts of murder and one count of driving under the influence causing"
+tags: [
+  "Bani Duarte",
+  "California Highway Patrol",
+  "CHP",
+  "DUI",
+  "Hyundai Sonata",
+  "Toyota"
+]
+url: "/blog/pleading-not-guilty-for-dui-crash-that-killed-three/810/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/wreck2.jpg"
+img_alt: "dui"
+---
 The woman charged with murder and driving under the influence (“DUI”) has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers.
 
 ## Pleading Not Guilty for DUI Crash that Killed Three
