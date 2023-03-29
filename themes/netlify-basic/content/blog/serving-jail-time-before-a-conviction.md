@@ -1,13 +1,25 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post bail. It’s a fact that lawmakers in California are trying to change. New proposed language would set bond amounts according to the defendant’s income. Bail and Serving"
-tags = []
-title = "Serving Jail Time Before a Conviction"
-url = "/blog/serving-jail-time-conviction/"
-
-+++
+---
+title: "Serving Jail Time Before a Conviction"
+yoast_title: "Serving Jail Time Before a Conviction"
+yoast_description: "Many people serve time behind bars before they are even convicted of a crime just because they can't afford to post bail."
+categories: [
+  "Blog",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post bail. It’s a fact that lawmakers in California are trying to change. New proposed language would set bond amounts according to the defendant’s income. Bail and Serving"
+tags: [
+  "bail",
+  "bail bond",
+  "bounty hunter",
+  "Prison Policy Institutes",
+  "serving jail time"
+]
+url: "/blog/serving-jail-time-conviction/597/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/CourtInjunction.jpg"
+img_alt: "jail"
+---
 While it might sound hard to believe, many people serve time behind bars before they are even convicted of a crime just because they can’t afford to post bail. It’s a fact that lawmakers in California are trying to change. New proposed language would set bond amounts according to the defendant’s income.
 
 ## Serving Jail Time Before a Conviction
