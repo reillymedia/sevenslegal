@@ -1,13 +1,26 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "DNA gathering and testing is an important tool to ensure the innocent remain free and the guilty are punished. With the increased use of DNA testing, which began in 1986, it has helped to determine the guilt or innocence of perpetrators in capital cases. As of September 2011 in the US, 273 people have been "
-tags = ["Federal Crime", "Blog", " Sexual Assault"]
-title = "DNA Testing and Exoneration"
-url = "/blog/dna-testing-exoneration/"
-
-+++
+---
+title: "DNA Testing and Exoneration"
+yoast_title: "DNA Testing and Exoneration"
+yoast_description: "DNA testing is an important tool to ensure the innocent remain free and the guilty punished. In the US, 273 people have been exonerated due to DNA testing."
+categories: [
+  "Blog",
+  "Criminal Law",
+  " Federal Crime",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "DNA gathering and testing is an important tool to ensure the innocent remain free and the guilty are punished. With the increased use of DNA testing, which began in 1986, it has helped to determine the guilt or innocence of perpetrators in capital cases. As of September 2011 in the US, 273 people have been"
+tags: [
+  "capital crimes",
+  "death penalty",
+  "dna testing",
+  "exoneration"
+]
+url: "/criminal-attorney/dna-testing-exoneration/304/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/DNAtesting.jpg"
+img_alt: "dna"
+---
 DNA gathering and testing is an important tool to ensure the innocent remain free and the guilty are punished. With the increased use of DNA testing, which began in 1986, it has helped to determine the guilt or innocence of perpetrators in capital cases. As of September 2011 in the US, 273 people have been exonerated due to [DNA testing](https://www.sevenslegal.com/ "Sevens Legal, APC"), including 17 people on death row.
 
 ## DNA Testing and Exoneration
