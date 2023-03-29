@@ -1,13 +1,27 @@
-+++
-categories = "Assault"
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "The retrial of comedian Bill Cosby on sexual assault charges begins Monday. The first trial ended up being declared a mistrial last June after jurors were deadlocked. Cosby Being Tried Again Cosby’s first faced trial on charges of drugging and sexually assaulting Andrea Constand, a former Temple University women’s basketball official. After 52 hours of "
-tags = ["Blog", "Criminal Law", " Sexual Assault"]
-title = "Retrial of Bill Cosby Begins"
-url = "/assault/retrial-bill-cosby-begins/"
-
-+++
+---
+title: "Retrial of Bill Cosby Begins"
+yoast_title: "Retrial of Bill Cosby Begins"
+yoast_description: "The retrial of comedian Bill Cosby on sexual assault charges begins Monday. The first trial ended up being declared a mistrial last June after jurors were deadlocked."
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "The retrial of comedian Bill Cosby on sexual assault charges begins Monday. The first trial ended up being declared a mistrial last June after jurors were deadlocked. Cosby Being Tried Again Cosby’s first faced trial on charges of drugging and sexually assaulting Andrea Constand, a former Temple University women’s basketball official. After 52 hours of"
+tags: [
+  "Bill Cosby",
+  "Cosby mistrial",
+  "Cosby retrial",
+  "Montgomery County Pennsylvania",
+  "Sexual Assault"
+]
+url: "/assault/retrial-bill-cosby-begins/798/"
+date: 2022-11-09T18:30:00Z
+featured_image: ""
+img_alt: ""
+---
 The retrial of comedian Bill Cosby on sexual assault charges begins Monday. The first trial ended up being declared a mistrial last June after jurors were deadlocked.
 
 ## Retrial of Bill Cosby Begins
