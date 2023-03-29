@@ -1,13 +1,27 @@
-+++
-categories = "Criminal law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "According to the California Highway Patrol, arrests for DUI during the holiday season were markedly higher in 2017 than in 2016. Higher Incidents of DUI in 2017 The CHP reported DUIs spiked dramatically during the 2017 holiday season. Across California, the CHP arrested 936 people for driving under the influence between the evening of Dec"
-tags = ["Blog", "DUI"]
-title = "Higher DUI Incidents in 2017"
-url = "/blog/higher-dui-incidents-2017/"
-
-+++
+---
+title: "Higher DUI Incidents in 2017"
+yoast_title: "Higher DUI Incidents in 2017"
+yoast_description: "According to the California Highway Patrol, arrests for DUI during the holiday season were markedly higher in 2017 than in 2016."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "DUI"
+]
+pfd_file: ""
+summary: "According to the California Highway Patrol, arrests for DUI during the holiday season were markedly higher in 2017 than in 2016. Higher Incidents of DUI in 2017 The CHP reported DUIs spiked dramatically during the 2017 holiday season. Across California, the CHP arrested 936 people for driving under the influence between the evening of Dec"
+tags: [
+  "California Highway Patrol",
+  "CHP",
+  "CHP Officer John Fransen",
+  "DUI",
+  "holiday",
+  "Thanksgiving"
+]
+url: "/blog/higher-dui-incidents-2017/708/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/wreck2.jpg"
+img_alt: "dui"
+---
 According to the California Highway Patrol, arrests for DUI during the holiday season were markedly higher in 2017 than in 2016.
 
 ## Higher DUI Incidents in 2017
