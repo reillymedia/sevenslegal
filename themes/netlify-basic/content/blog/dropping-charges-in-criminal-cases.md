@@ -1,13 +1,15 @@
 ---
 title: "Dropping Charges in Criminal Cases"
 yoast_title: "Dropping Charges in Criminal Cases"
-yoast_description: "What exactly does the term "the charges were dropped" mean? And what does that mean for you if you have been accused of committing a crime?"
+yoast_description: >-
+  What exactly does the term "the charges were dropped" mean? And what does that mean for you if you have been accused of committing a crime?
 categories: [
   "Blog",
   "Criminal Law"
 ]
 pfd_file: ""
-summary: "It’s a phrase that gets thrown around a lot on TV and in movies: “the charges were dropped.” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime? Criminal Cases and Dropping Charges The most important thing that needs to be defined when"
+summary: >-
+  It’s a phrase that gets thrown around a lot on TV and in movies: “the charges were dropped.” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime? Criminal Cases and Dropping Charges The most important thing that needs to be defined when"
 tags: [
   "credible witnesses",
   "DNA",
