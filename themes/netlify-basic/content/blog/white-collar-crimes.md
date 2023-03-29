@@ -1,13 +1,29 @@
-+++
-title = "White Collar Crimes"
-categories = ["Blog", "Criminal Law", "Federal Crime", "State Crime", "White Collar Crime"]
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "in the 1930’s the term “White Collar Crime” was first used to refer to non-violent crimes that were being prosecuted. Frequently crimes were charged as a white collar crime if a more serious, violent crime, wasn’t able to be proved. Over the years several crimes have fallen into this category.   What Are White Collar"
-tags = ["State Crime", "Federal Crime", "Blog", " White Collar Crime"]
-url = "/criminal-attorney/white-collar-crimes/"
-
-+++
+---
+title: "White Collar Crimes"
+yoast_title: "White Collar Crimes"
+yoast_description: "White Collar Crimes are used to refer to non-violent crimes involving money or property, such as bribery, perjury, insurance fraud, and computer crime."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Federal Crime",
+  "State Crime",
+  "White Collar Crime"
+]
+pfd_file: ""
+summary: "in the 1930’s the term “White Collar Crime” was first used to refer to non-violent crimes that were being prosecuted. Frequently crimes were charged as a white collar crime if a more serious, violent crime, wasn’t able to be proved. Over the years several crimes have fallen into this category.   What Are White Collar"
+tags: [
+  "bribery",
+  "computer crimes",
+  "insurance fraud",
+  "larceny",
+  "perjury",
+  "White Collar Crime"
+]
+url: "/criminal-attorney/white-collar-crimes/353/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/WhiteCollarCrime.jpg"
+img_alt: "white collar"
+---
 In the 1930’s the term “[White Collar Crime](https://www.sevenslegal.com/)” was first used to refer to non-violent crimes that were being prosecuted. Frequently crimes were charged as a white collar crime if a more serious, violent crime, wasn’t able to be proved. Over the years several crimes have fallen into this category.
 
 ## White Collar Crimes
