@@ -1,13 +1,23 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Actress Heather Locklear has been arrested and booked on allegations of felony domestic battery and three counts of battery. Alleged Domestic Violence by Actress Heather Locklear The actress, best known for ’90’s primetime soap opera “Melrose Place,” was arrested following an alleged domestic incident in her home. According to Sargent Eric Buschow of the Ventura "
-tags = ["Blog"]
-title = "Heather Locklear Arrested for Alleged Domestic Violence Incident"
-url = "/blog/heather-locklear-arrested-alleged-domestic-violence-incident/"
-
-+++
+---
+title: "Heather Locklear Arrested for Alleged Domestic Violence Incident"
+yoast_title: "Heather Locklear,Domestic Violence,Domestic Violence Awareness Month,October"
+yoast_description: "Actress Heather Locklear has been arrested and booked on allegations of felony domestic battery and three counts of battery."
+categories: [
+  "Blog",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "Actress Heather Locklear has been arrested and booked on allegations of felony domestic battery and three counts of battery. Alleged Domestic Violence by Actress Heather Locklear The actress, best known for ’90’s primetime soap opera “Melrose Place,” was arrested following an alleged domestic incident in her home. According to Sargent Eric Buschow of the Ventura"
+tags: [
+  "Domestic Violence",
+  "Domestic Violence Awareness Month",
+  "Heather Locklear, October"
+]
+url: "/blog/heather-locklear-arrested-alleged-domestic-violence-incident/787/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Assault.jpg"
+img_alt: "Locklear"
+---
 Actress Heather Locklear has been arrested and booked on allegations of felony domestic battery and three counts of battery.
 
 ## Heather Locklear Arrested for Alleged Domestic Violence Incident
