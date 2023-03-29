@@ -1,14 +1,16 @@
 ---
 title: "Pleading Not Guilty for DUI Crash that Killed Three"
 yoast_title: "Pleading Not Guilty for DUI Crash that Killed Three"
-yoast_description: "The woman charged with murder and driving under the influence ("DUI") has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers."
+yoast_description: >-
+  The woman charged with murder and driving under the influence ("DUI") has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers."
 categories: [
   "Blog",
   "Criminal Law",
   "DUI"
 ]
 pfd_file: ""
-summary: "The woman charged with murder and driving under the influence (“DUI”) has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers. DUI Crash Killed Three – Duarte Pleading Not Guilty Bani Duarte, 27, was charged with three counts of murder and one count of driving under the influence causing"
+summary: >-
+  The woman charged with murder and driving under the influence (“DUI”) has pleaded not guilty. The March 29 crash for which she is accused killed three teenagers. DUI Crash Killed Three – Duarte Pleading Not Guilty Bani Duarte, 27, was charged with three counts of murder and one count of driving under the influence causing"
 tags: [
   "Bani Duarte",
   "California Highway Patrol",
