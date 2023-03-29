@@ -1,13 +1,24 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "It appears there’s new momentum for reforming how California’s bail system works. If the system is overhauled, as proposed, bail will no longer be based on a cash amount. Will California Have Bail Reform? This past week, the movement to reform how bail is set in California gained momentum. A proposal to eliminate cash bail"
-tags = ["Blog"]
-title = "Is Bail Reform Coming to California?"
-url = "/blog/bail-reform-coming-california/"
-
-+++
+---
+title: "Is Bail Reform Coming to California?"
+yoast_title: "Is Bail Reform Coming to California?"
+yoast_description: "There's momentum for reforming how California's bail system works. If the system is overhauled, as proposed, bail will no longer be based on a cash amount."
+categories: [
+  "Blog",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "It appears there’s new momentum for reforming how California’s bail system works. If the system is overhauled, as proposed, bail will no longer be based on a cash amount. Will California Have Bail Reform? This past week, the movement to reform how bail is set in California gained momentum. A proposal to eliminate cash bail"
+tags: [
+  "bail",
+  "bail reform",
+  "Gov. Jerry Brown",
+  "Supreme Court Chief Justice Tani Cantil-Sakauye"
+]
+url: "/blog/bail-reform-coming-california/691/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/BailBond.jpg"
+img_alt: "California"
+---
 It appears there’s new momentum for reforming how California’s bail system works. If the system is overhauled, as proposed, bail will no longer be based on a cash amount.
 
 ## Is Bail Reform Coming to California?
