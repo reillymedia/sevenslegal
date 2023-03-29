@@ -18,7 +18,7 @@ tags: [
   "physical evidence",
   "U.S. Supreme Court"
 ]
-url: "/criminal-attorney/marijuana-dui/828/"
+url: "/blog/dropping-charges-criminal-cases/522/"
 date: 2022-11-09T18:30:00Z
 featured_image: "/uploads/CourtInjunction.jpg"
 img_alt: "charges"
