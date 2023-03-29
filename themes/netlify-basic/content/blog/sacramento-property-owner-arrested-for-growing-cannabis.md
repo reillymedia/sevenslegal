@@ -1,13 +1,30 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "A Sacramento property owner is now facing criminal charges and $2 million in civil penalties for illegally growing cannabis. Property Owner Growing Cannabis Arrested in Sacramento According to city officials Lisa Ung, 63, allegedly maintained eight homes across Sacramento for the purpose of growing more than 4,000 marijuana plants. Ung was arraigned on five counts "
-tags = ["Blog", "Drug Crime"]
-title = "Sacramento Property Owner Arrested for Growing Cannabis"
-url = "/blog/sacramento-property-owner-arrested-growing-cannabis/"
-
-+++
+---
+title: "Sacramento Property Owner Arrested for Growing Cannabis"
+yoast_title: "Sacramento Property Owner Arrested for Growing Cannabis"
+yoast_description: "A Sacramento property owner is now facing criminal charges and $2 million in civil penalties for illegally growing cannabis."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Drug Crimes"
+]
+pfd_file: ""
+summary: "A Sacramento property owner is now facing criminal charges and $2 million in civil penalties for illegally growing cannabis. Property Owner Growing Cannabis Arrested in Sacramento According to city officials Lisa Ung, 63, allegedly maintained eight homes across Sacramento for the purpose of growing more than 4,000 marijuana plants. Ung was arraigned on five counts"
+tags: [
+  "California’s Marijuana Laws",
+  "cannabis",
+  "controlled substance",
+  "Health & Safety Code 11357",
+  "Health & Safety Code 11358",
+  "Health & Safety Code 11359",
+  "Health & Safety Code 11361",
+  "Health and Safety Code 11360",
+  "Lisa Ung, Sacramento"
+]
+url: "/blog/sacramento-property-owner-arrested-growing-cannabis/792/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/San-Diego-Proposition-64-Lawyer.jpg"
+img_alt: "cannabis"
+---
 A Sacramento property owner is now facing criminal charges and $2 million in civil penalties for illegally growing cannabis.
 
 ## Sacramento Property Owner Arrested for Growing Cannabis
