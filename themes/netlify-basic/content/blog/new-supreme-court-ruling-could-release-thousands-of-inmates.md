@@ -1,13 +1,25 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "The Supreme Court ruling announced they will allow those inmates who were sentenced as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison. New Supreme Court Ruling Could Release Thousands of Inmates The new ruling will expand a 2012 Supreme Court decision. That decision struck down mandatory "
-tags = ["Blog"]
-title = "New Supreme Court Ruling Could Release Thousands of Inmates"
-url = "/blog/supreme-court-ruling-release-thousands-inmates/"
-
-+++
+---
+title: "New Supreme Court Ruling Could Release Thousands of Inmates"
+yoast_title: "New Supreme Court Ruling Could Release Thousands of Inmates | Criminal Defense Attorney San Diego"
+yoast_description: "The Supreme Court ruling announced they will allow those inmates who were sentenced as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison. New Supreme Court Ruling Could Release Thousands of Inmates The new ruling will expand a 2012 Supreme Court decision. That decision struck down mandatory"
+categories: [
+  "Blog",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "The Supreme Court ruling announced they will allow those inmates who were sentenced as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison. New Supreme Court Ruling Could Release Thousands of Inmates The new ruling will expand a 2012 Supreme Court decision. That decision struck down mandatory"
+tags: [
+  "inmate release",
+  "juvenile crime",
+  "juvenile defense",
+  "Montgomery v. Louisiana",
+  "Supreme Court"
+]
+url: "/criminal-attorney/supreme-court-ruling-release-thousands-inmates/451/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Inmates.jpg"
+img_alt: "inmates"
+---
 The Supreme Court ruling announced they will allow those [inmates](https://www.sevenslegal.com/) who were sentenced  as individuals that are currently serving life-without-parole sentences will have a chance to argue their release from prison.
 
 ## New Supreme Court Ruling Could Release Thousands of Inmates
