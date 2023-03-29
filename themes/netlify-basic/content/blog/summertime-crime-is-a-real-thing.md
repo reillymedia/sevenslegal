@@ -1,13 +1,15 @@
 ---
 title: "Summertime Crime is a Real Thing"
 yoast_title: "Summertime Crime is a Real Thing"
-yoast_description: ""Summertime crime" is a real thing. As more and more people leave town for vacation, burglary rates increase. If you've been accused of committing a crime, you'll want to know just what you'll need to avoid jail time next year."
+yoast_description: >-
+  "Summertime crime" is a real thing. As more and more people leave town for vacation, burglary rates increase. If you've been accused of committing a crime, you'll want to know just what you'll need to avoid jail time next year."
 categories: [
   "Blog",
   "Criminal Law"
 ]
 pfd_file: ""
-summary: "Summertime crime” is a real thing. As more and more people leave town for vacation, burglary rates increase. If you’ve been accused of committing a crime, you’ll want to know just what you’ll need to avoid jail time next year. The Summertime Can Be a Season of Crime The most common crimes that occur during"
+summary: >-
+  Summertime crime” is a real thing. As more and more people leave town for vacation, burglary rates increase. If you’ve been accused of committing a crime, you’ll want to know just what you’ll need to avoid jail time next year. The Summertime Can Be a Season of Crime The most common crimes that occur during"
 tags: [
   "summertime crime"
 ]
