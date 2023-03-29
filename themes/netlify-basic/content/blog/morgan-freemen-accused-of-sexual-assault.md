@@ -1,13 +1,30 @@
-+++
-categories = "Assault"
-date = 2022-11-08T18:30:00Z
-pfd_file = ""
-summary = "Morgan Freeman is the latest actor to be accused of of sexual harassment or inappropriate behavior. Morgan Freeman Latest Actor of Sexual Assault Accusation Freeman, 80, is the latest in a long string of actors to be accused of sexual harassment in Hollywood. A report released detailed a pattern of inappropriate behavior by Freeman. Reports "
-tags = ["Blog", "Criminal Law", " Sexual Assault"]
-title = "Morgan Freemen Accused of Sexual Assault"
-url = "/assault/morgan-freemen-accused-of-sexual-assault/"
-
-+++
+---
+title: "Morgan Freemen Accused of Sexual Assault"
+yoast_title: "Morgan Freemen Accused of Sexual Assault"
+yoast_description: "Morgan Freeman is the latest actor to be accused of of sexual harassment or inappropriate behavior."
+categories: [
+  "Blog",
+  "Assault",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Morgan Freeman is the latest actor to be accused of of sexual harassment or inappropriate behavior. Morgan Freeman Latest Actor of Sexual Assault Accusation Freeman, 80, is the latest in a long string of actors to be accused of sexual harassment in Hollywood. A report released detailed a pattern of inappropriate behavior by Freeman. Reports"
+tags: [
+  "date rape",
+  "Morgan Freeman",
+  "Penal Code Section 261 PC",
+  "rape",
+  "sex crime",
+  "Sexual Assault",
+  "spousal rape",
+  "statutory rape"
+]
+url: "/blog/morgan-freemen-accused-of-sexual-assault/815/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/RapeAllegatons.jpg"
+img_alt: "Freeman"
+---
 Morgan Freeman is the latest actor to be accused of of sexual harassment or inappropriate behavior.
 
 ## Morgan Freemen Accused of Sexual Assault
