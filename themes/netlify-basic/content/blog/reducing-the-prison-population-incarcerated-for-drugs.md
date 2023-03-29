@@ -1,13 +1,27 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-13T18:30:00Z
-pfd_file = ""
-summary = "Drugs have been a part of all areas of American culture for years, including social and political. A large segment of the population seems to spend their time on the desire to get high! From looking at history, this isn’t a recent occurrence. As long as people have existed, drugs have also existed as a "
-tags = ["Drug Crimes", "Federal Crime", "Blog", " State Crime"]
-title = "Reducing the Prison Population Incarcerated for Drugs"
-url = "/blog/reducing-prison-population-incarcerated-drugs/"
-
-+++
+---
+title: "Reducing the Prison Population Incarcerated for Drugs"
+yoast_title: "Reducing the Prison Population Incarcerated for Drugs"
+yoast_description: "Drugs have been a part of all areas of American culture for years. A large segment of the population seems to spend their time on the desire to get high!"
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Drug Crimes",
+  "Federal Crime",
+  "State Crime"
+]
+pfd_file: ""
+summary: "Drugs have been a part of all areas of American culture for years, including social and political. A large segment of the population seems to spend their time on the desire to get high! From looking at history, this isn’t a recent occurrence. As long as people have existed, drugs have also existed as a"
+tags: [
+  "drug eradication",
+  "drug use",
+  "incarceration for drugs",
+  "prisons"
+]
+url: "/criminal-attorney/reducing-prison-population-incarcerated-drugs/357/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/PrescriptionDrugs.jpg"
+img_alt: "drugs"
+---
 [Drugs ](https://www.sevenslegal.com/)have been a part of all areas of American culture for years, including social and political. A large segment of the population seems to spend their time on the desire to get high! From looking at history, this isn’t a recent occurrence.
 
 As long as people have existed, drugs have also existed as a part of their lives. Drugs which are now illegal, such as opium, coca, marijuana, and psychedelics, were used for thousands of years for medical as well as spiritual reasons. Since these drugs have been a part of human culture for centuries, why is it now looked upon as criminal behavior which takes up huge amounts of society’s economic, political, and social resources in an effort to remove access to them?
