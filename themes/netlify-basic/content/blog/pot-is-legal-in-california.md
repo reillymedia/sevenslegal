@@ -1,13 +1,36 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Come January 1, 2018, pot will be legal for adult-use in California. As a result of the passing of Proposition 64, the state will be opening its dispensaries to the general public. California Legalizes Pot The fact that marijuana will be legal in California is something that even state regulators are excited for. “I know "
-tags = ["Blog", "Drug Crimes"]
-title = "Pot is Legal in California"
-url = "/blog/pot-legal-california/"
-
-+++
+---
+title: "Pot is Legal in California"
+yoast_title: "Pot is Legal in California"
+yoast_description: "January 1, 2018, pot will be legal for adult-use in California. Due to Proposition 64, the state will be opening its dispensaries to the general public."
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Drug Crimes"
+]
+pfd_file: ""
+summary: "Come January 1, 2018, pot will be legal for adult-use in California. As a result of the passing of Proposition 64, the state will be opening its dispensaries to the general public. California Legalizes Pot The fact that marijuana will be legal in California is something that even state regulators are excited for. “I know"
+tags: [
+  "BCC",
+  "Bureau of Cannabis Control",
+  "California Pot Laws",
+  "CBD",
+  "cocaine",
+  "crack cocaine",
+  "Desert Hot Springs",
+  "Jason Elsasser",
+  "Lori Ajax",
+  "LSD",
+  "marijuana",
+  "methamphetamine",
+  "peyote",
+  "Prop 64",
+  "THC"
+]
+url: "/blog/pot-legal-california/705/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/San-Diego-Proposition-64-Lawyer.jpg"
+img_alt: "pot"
+---
 Come January 1, 2018, pot will be legal for adult-use in California. As a result of the passing of Proposition 64, the state will be opening its dispensaries to the general public.
 
 ## Pot is Legal in California
