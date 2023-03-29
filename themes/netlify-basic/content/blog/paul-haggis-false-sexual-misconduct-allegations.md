@@ -1,13 +1,26 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "Could the sexual misconduct allegations facing Paul Haggis just be a means of getting back at him for leaving the Church of Scientology? And what do you do if you’re facing false allegations of sexual misconduct? Are the Allegations Against Paul Haggis False? Last week, writer Paul Haggis joined the list of men in Hollywood "
-tags = ["Blog", "Sexual Assault"]
-title = "Paul Haggis False Sexual Misconduct Allegations?"
-url = "/blog/paul-haggis-false-sexual-misconduct-allegations/"
-
-+++
+---
+title: "Paul Haggis False Sexual Misconduct Allegations?"
+yoast_title: "Paul Haggis False Sexual Misconduct Allegations?"
+yoast_description: "Could the sexual misconduct allegations facing Paul Haggis just be a means of getting back at him for leaving the Church of Scientology?"
+categories: [
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Could the sexual misconduct allegations facing Paul Haggis just be a means of getting back at him for leaving the Church of Scientology? And what do you do if you’re facing false allegations of sexual misconduct? Are the Allegations Against Paul Haggis False? Last week, writer Paul Haggis joined the list of men in Hollywood"
+tags: [
+  "Christine Lepera",
+  "Paul Haggis",
+  "Sexual Assault",
+  "sexual misconduct",
+  "Statute of Limitations"
+]
+url: "/blog/paul-haggis-false-sexual-misconduct-allegations/712/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/SexualAssault.jpg"
+img_alt: "sexual"
+---
 Could the sexual misconduct allegations facing Paul Haggis just be a means of getting back at him for leaving the Church of Scientology? And what do you do if you’re facing false allegations of sexual misconduct?
 
 ## Paul Haggis False Sexual Misconduct Allegations?
