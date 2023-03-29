@@ -1,13 +1,28 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-10T18:30:00Z
-pfd_file = ""
-summary = "It’s a phrase that gets thrown around a lot on TV and in movies: “the charges were dropped.” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime? Criminal Cases and Dropping Charges The most important thing that needs to be defined when"
-tags = []
-title = "Dropping Charges in Criminal Cases"
-url = "/blog/dropping-charges-criminal-cases"
-
-+++
+---
+title: "Dropping Charges in Criminal Cases"
+yoast_title: "Dropping Charges in Criminal Cases"
+yoast_description: "What exactly does the term "the charges were dropped" mean? And what does that mean for you if you have been accused of committing a crime?"
+categories: [
+  "Blog",
+  "Criminal Law"
+]
+pfd_file: ""
+summary: "It’s a phrase that gets thrown around a lot on TV and in movies: “the charges were dropped.” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime? Criminal Cases and Dropping Charges The most important thing that needs to be defined when"
+tags: [
+  "credible witnesses",
+  "DNA",
+  "dropping charges",
+  "exoneration",
+  "Innocence Project",
+  "Miranda Rights",
+  "physical evidence",
+  "U.S. Supreme Court"
+]
+url: "/criminal-attorney/marijuana-dui/828/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/CourtInjunction.jpg"
+img_alt: "charges"
+---
 It’s a phrase that gets thrown around a lot on TV and in movies: “[the charges were dropped](https://www.sevenslegal.com/).” But what exactly does that mean? And what does that mean for you if you have been accused of committing a crime?
 
 ## Dropping Charges in Criminal Cases
