@@ -1,11 +1,18 @@
-+++
-categories = "Awards"
-date = 2022-11-09T18:30:00Z
-summary = "For Immediate Release June 13, 2018 ATTORNEY SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN  CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY SAN DIEGO, CA – SAMANTHA A. GREENE -The National Board of Trial Advocacy (NBTA) is pleased to announce that Samantha A. Greene of the law firm, Samantha A. Greene has successfully achieved "
-title = "SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY"
-url = "/awards/samantha-a-greene-achieves-board-certification-in-criminal-trial-law-by-the-national-board-of-trial-advocacy/"
-
-+++
+---
+title: "SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY"
+yoast_title: "SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY | Criminal Defense Attorney San Diego"
+yoast_description: "For Immediate Release June 13, 2018 ATTORNEY SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN  CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY SAN DIEGO, CA – SAMANTHA A. GREENE -The National Board of Trial Advocacy (NBTA) is pleased to announce that Samantha A. Greene of the law firm, Samantha A. Greene has successfully achieved"
+categories: [
+  "Awards"
+]
+pfd_file: ""
+summary: "For Immediate Release June 13, 2018 ATTORNEY SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN  CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY SAN DIEGO, CA – SAMANTHA A. GREENE -The National Board of Trial Advocacy (NBTA) is pleased to announce that Samantha A. Greene of the law firm, Samantha A. Greene has successfully achieved"
+tags: []
+url: "/awards/samantha-a-greene-achieves-board-certification-in-criminal-trial-law-by-the-national-board-of-trial-advocacy/823/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/Samantha-Greene-2.jpg"
+img_alt: "samantha greene"
+---
 **ATTORNEY SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY**
 
 ## SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY
