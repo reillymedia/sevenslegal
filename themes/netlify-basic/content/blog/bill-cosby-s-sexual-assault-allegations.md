@@ -1,13 +1,27 @@
-+++
-categories = "Criminal Law"
-date = 2022-11-14T18:30:00Z
-pfd_file = ""
-summary = "Due to all the recent sexual assault allegations surrounding actor Bill Cosby, the Los Angeles Police Department has decided to examine previous allegations against him of sexual assault. Allegations of Sexual Assault Against Cosby While previous sexual assault allegations against Bill Cosby were considered too old to pursue, in light of more current allegations LAPD"
-tags = [" Sexual Assault", " Domestic Violence", "Blog"]
-title = "Bill Cosby’s Sexual Assault Allegations"
-url = "criminal-attorney/bill-cosbys-sexual-assault-allegations"
-
-+++
+---
+title: "Bill Cosby’s Sexual Assault Allegations"
+yoast_title: "Bill Cosby Found Guilty of Sexual Assault"
+yoast_description: "A jury has found Bill Cosby guilty of three counts of aggravated indecent assault for drugging and sexually assaulting Andrea Constand at his home in a Philadelphia suburb in 2004."
+categories: [
+  "Assault",
+  "Blog",
+  "Criminal Law",
+  "Sexual Assault"
+]
+pfd_file: ""
+summary: "Due to all the recent sexual assault allegations surrounding actor Bill Cosby, the Los Angeles Police Department has decided to examine previous allegations against him of sexual assault. Allegations of Sexual Assault Against Cosby While previous sexual assault allegations against Bill Cosby were considered too old to pursue, in light of more current allegations LAPD"
+tags: [
+  "Bill Cosby",
+  "Cosby found guilty",
+  "Cosby retrial",
+  "Montgomery County Pennsylvania",
+  "Sexual Assault"
+]
+url: "/assault/bill-cosby-found-guilty-of-sexual-assault/807/"
+date: 2022-11-09T18:30:00Z
+featured_image: "/uploads/SexualAssault.jpg"
+img_alt: "Cosby"
+---
 Due to all the recent [sexual assault allegations](https://www.sevenslegal.com/ "Sevens Legal, APC") surrounding actor Bill Cosby, the Los Angeles Police Department has decided to examine previous allegations against him of sexual assault.
 
 ## Bill Cosby’s Sexual Assault Allegations
