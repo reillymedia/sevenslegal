@@ -16,8 +16,11 @@
 	<meta property="article:published_time" content="{{ .PublishDate.Format "2017-08-10T15:00:07+00:00" | safeHTML }}" />
 	<meta property="article:modified_time" content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" />
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
-    {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }}
-	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 2 }}{{ $image := .Resources.GetMatch $image_name }}<meta property="og:image:width" content="{{< img src='.Params.featured_image' alt='My Image' > | attr 'Width' }}" />
+    {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }} {{ $img := .Params.featured_image }}
+	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 2 }}{{ $image := .Resources.GetMatch $image_name }}{{< img src="/images/my-image.jpg" alt="My Image" >}}
+Width: {{< img src="$img"> | attr "Width" }}
+Height: {{< img src="$img"> | attr "Height" }}
+<meta property="og:image:width" content="{{ $image }}" />
 	<meta property="og:image:height" content="{{ $image }}" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
 	<meta property="og:image:type" content="image/{{ $image_ext }}" />{{ end }}
 	<meta name="author" content="sevenslegal" />
