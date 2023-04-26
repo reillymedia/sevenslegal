@@ -17,7 +17,7 @@
 	<meta property="article:modified_time" content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" />
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }}
-	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }} {{ $image1 := resources.Get .Params.featured_image }}
+	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }} {{ $image1 := resources.GetRemote .Site.Params.hostName .Params.featured_image }}
 {{ $image_name := index $image_names 2 }}{{ $image := .Resources.GetMatch $image_name }}<meta property="og:image:width" content="{{ $image1 }}" />
 	<meta property="og:image:height" content="{{ $image }}" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
 	<meta property="og:image:type" content="image/{{ $image_ext }}" />{{ end }}
