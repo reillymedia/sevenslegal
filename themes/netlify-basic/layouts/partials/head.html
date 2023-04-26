@@ -17,6 +17,9 @@
 	<meta property="article:modified_time" content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" />
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }}
+	{{ if .Params.featured_image }}<meta property="og:image:width" content="1713" />
+	<meta property="og:image:height" content="2560" />
+	<meta property="og:image:type" content="image/jpeg" />{{ end }}
 	<meta name="author" content="sevenslegal" />
 	<meta name="twitter:label1" content="Written by" />
 	<meta name="twitter:data1" content="{{ .Site.Params.author }}" />
