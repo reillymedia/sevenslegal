@@ -18,7 +18,7 @@
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }} {{ $img := .Params.featured_image }}
 	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 2 }}{{ $var1 := .Site.Params.hostName }}{{ $var2 := .Params.featured_image }}{{ $var3 := default $var1 $var2 }}{{ $image := resources.GetRemote $var3 }}
-<meta property="og:image:width" content="{{ $image_name_p }}" />
+<meta property="og:image:width" content="{{ $image }}" />
 	<meta property="og:image:height" content="{{ $image }}" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
 	<meta property="og:image:type" content="image/{{ $image_ext }}" />{{ end }}
 	<meta name="author" content="sevenslegal" />
