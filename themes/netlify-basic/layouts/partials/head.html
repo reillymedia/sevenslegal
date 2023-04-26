@@ -12,13 +12,14 @@
 	<meta property="og:title" content="{{ if .Params.yoast_title}}{{ .Params.yoast_title }}{{ else }} {{ .Params.Title }}{{ end }}" />
 	<meta property="og:description" content="{{ .Params.yoast_description}}" />
 	<meta property="og:url" content="{{ .Site.Params.hostName }}{{ .Permalink | absURL }}" />
+	<meta property="og:site_name" content="{{ .Site.Params.name }}" />
 	<meta property="article:published_time" content="{{ .PublishDate.Format "2017-08-10T15:00:07+00:00" | safeHTML }}" />
 	<meta property="article:modified_time" content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" />
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }}
 	<meta name="author" content="sevenslegal" />
 	<meta name="twitter:label1" content="Written by" />
-	<meta name="twitter:data1" content="sevenslegal" />
+	<meta name="twitter:data1" content="{{ .Site.Params.author }}" />
 	<meta name="twitter:label2" content="Est. reading time" />
 	<meta name="twitter:data2" content="{{ $readTime := mul (div (countwords .Content) 220.0) 60 }}{{ math.Floor (div $readTime 60) }} minutes" />
 	

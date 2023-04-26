@@ -7,6 +7,7 @@ theme = 'netlify-basic'
   hostName = 'https://fair-puddle.cloudvent.net'
   name = 'Criminal Defense Attorney San Diego'
   site_description = "Sevens Legal, APC"
+  author = 'sevenslegal'
 [markup.goldmark.parser.attribute]
 block = true
 title = true
