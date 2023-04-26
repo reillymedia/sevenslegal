@@ -18,7 +18,7 @@
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }}
 	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}
-{{ $image_name := index $image_names 1 }}{{ $image := resources.Get $image_name }}<meta property="og:image:width" content="{{ $image }}" />
+{{ $image_name := index $image_names 1 }}{{ $image := resources.Get $image_name }}<meta property="og:image:width" content="{{ $image_name }}" />
 	<meta property="og:image:height" content="{{ $image }}" />
 	<meta property="og:image:type" content="image/jpeg" />{{ end }}
 	<meta name="author" content="sevenslegal" />
