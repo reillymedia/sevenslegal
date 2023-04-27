@@ -17,8 +17,8 @@
 	<meta property="article:modified_time" content="{{ .Lastmod.Format "2017-08-13T22:27:39+00:00" | safeHTML }}" />
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }} {{ $img := .Params.featured_image }}
-	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 2 }}{{ $param1 := .Site.Params.hostName }}{{ $param2 := .Params.featured_image }}{{ $combined := printf "%s%s" $param1 $param2 }}{{ $image := resources.GetRemote $combined }}{{ $image := resources.GetRemote $combined }}{{ $imageWidth := "1200" }}{{ if $image }}{{ $imageWidth = $image.Width }}{{ end }}<meta property="og:image:width" content="{{ $imageWidth }}" />
-	<meta property="og:image:height" content="480" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
+	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 2 }}{{ $param1 := .Site.Params.hostName }}{{ $param2 := .Params.featured_image }}{{ $combined := printf "%s%s" $param1 $param2 }}{{ $image := resources.GetRemote $combined }}{{ $image := resources.GetRemote $combined }}{{ $imageWidth := "1200" }}$imageHeight := "1200" }}{{ if $image }}{{ $imageWidth = $image.Width }}{{ $imageHeight = $image.Height }}{{ end }}<meta property="og:image:width" content="{{ $imageWidth }}" />
+	<meta property="og:image:height" content="{{ $imageHeight }}" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
 	<meta property="og:image:type" content="image/{{ $image_ext }}" />{{ end }}
 	<meta name="author" content="sevenslegal" />
 	<meta name="twitter:label1" content="Written by" />
