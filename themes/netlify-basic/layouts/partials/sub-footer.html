@@ -20,6 +20,7 @@ var $metawidth = $('meta[property="og:image:width"]');
 var $metaheight = $('meta[property="og:image:height"]');
 var img = new Image();
 img.onload = function() {
+alert();
   $metawidth.attr('content', this.width);
   $metaheight.attr('content', this.height);
 };
