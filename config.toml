@@ -8,6 +8,11 @@ theme = 'netlify-basic'
   name = 'Criminal Defense Attorney San Diego'
   site_description = "Sevens Legal, APC"
   author = 'sevenslegal'
+[frontmatter]
+  date = ['date', 'publishDate', 'lastmod']
+  expiryDate = ['expiryDate']
+  lastmod = [':git', 'lastmod', 'date', 'publishDate']
+  publishDate = ['publishDate', 'date']
 [markup.goldmark.parser.attribute]
 block = true
 title = true
