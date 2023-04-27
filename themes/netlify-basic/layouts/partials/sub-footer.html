@@ -21,8 +21,8 @@ var $metaheight = $('meta[property="og:image:height"]');
 var img = new Image();
 img.onload = function() {
 
-  alert($('meta[property="og:image:width"]').attr('content'));
   $('meta[property="og:image:width"]').attr('content' , this.width);
+  $('meta[property="og:image:height"]').attr('content' , this.height);
 };
 img.src = $metaImage.attr('content');
 </script>
