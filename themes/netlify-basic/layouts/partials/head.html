@@ -21,7 +21,7 @@
 {{ $param2 := .Params.featured_image }}
 {{ $combined := printf "%s %s" $param1 $param2 }}
 {{ $combined }}
-    <meta property="og:image:width" content="{{ $var3 }}" />
+    <meta property="og:image:width" content="{{ $combined }}" />
 	<meta property="og:image:height" content="480" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
 	<meta property="og:image:type" content="image/{{ $image_ext }}" />{{ end }}
 	<meta name="author" content="sevenslegal" />
