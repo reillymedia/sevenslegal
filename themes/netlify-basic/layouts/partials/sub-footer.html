@@ -16,10 +16,12 @@
     <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
 <script>
 var $metaImage = $('meta[property="og:image"]');
+var $metawidth = $('meta[property="og:image:width"]');
+var $metaheight = $('meta[property="og:image:height"]');
 var img = new Image();
 img.onload = function() {
-  console.log("Width: " + this.width);
-  console.log("Height: " + this.height);
+  $metawidth.attr('content', this.width);
+  $metaheight.attr('content', this.height);
 };
 img.src = $metaImage.attr('content');
 </script>
