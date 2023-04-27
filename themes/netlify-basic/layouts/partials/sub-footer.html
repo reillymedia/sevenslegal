@@ -22,6 +22,7 @@ var img = new Image();
 img.onload = function() {
 
   alert($('meta[property="og:image:width"]').attr('content'));
+  $('meta[property="og:image:width"]').attr('content' , this.width);
 };
 img.src = $metaImage.attr('content');
 </script>
