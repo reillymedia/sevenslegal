@@ -23,7 +23,7 @@
   {{ end }}
 	{{ if .Params.featured_image }}<meta property="og:image" content="{{ .Site.Params.hostName }}{{ .Params.featured_image }}" />{{ end }}
     {{ if .Params.img_alt }}<meta property="og:image:alt" content="{{ .Params.img_alt }}" />{{ end }} {{ $img := .Params.featured_image }}
-	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 4 }}{{ $param1 := .Site.Params.hostName }}{{ $param2 := .Params.featured_image }}{{ $combined := printf "%s%s" $param1 $param2 }}{{ $image := resources.GetRemote $combined }}{{ $image := resources.GetRemote $combined }}{{ $imageWidth := "1200" }}{{ if $image }}{{ $imageWidth = $image.Width }}{{ end }}{{ $imageHeight := "1200" }}{{ if $image }}{{ $imageHeight = $image.Height }}{{ end }}<meta property="og:image:width" content="{{ $imageWidth }}" />
+	{{ if .Params.featured_image }}{{ $image_names := split .Params.featured_image "/" }}{{ $image_name := index $image_names 3 }}{{ $param1 := .Site.Params.hostName }}{{ $param2 := .Params.featured_image }}{{ $combined := printf "%s%s" $param1 $param2 }}{{ $image := resources.GetRemote $combined }}{{ $image := resources.GetRemote $combined }}{{ $imageWidth := "1200" }}{{ if $image }}{{ $imageWidth = $image.Width }}{{ end }}{{ $imageHeight := "1200" }}{{ if $image }}{{ $imageHeight = $image.Height }}{{ end }}<meta property="og:image:width" content="{{ $imageWidth }}" />
 	<meta property="og:image:height" content="{{ $imageHeight }}" />{{ $image_exts := split $image_name "." }}{{ $image_ext := index $image_exts 1 }}
 	<meta property="og:image:type" content="image/{{ $image_ext }}" />{{ end }}
 	<meta name="author" content="sevenslegal" />
