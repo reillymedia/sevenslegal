@@ -3,7 +3,7 @@
 {{ range where .Site.Pages "Params.hidefromsitemap" "!=" "true" }}
   <url>
     <loc>{{ .Site.Params.hostName }}{{ .Permalink | absURL }}</loc>
-    <lastmod>{{ .Lastmod.Format "2006-01-02T23:54:31-07:00" }}</lastmod>
+    <lastmod>{{ .Format "2006-01-02T23:54:31-07:00" }}</lastmod>
   </url>
 {{ end }}
 </urlset>
