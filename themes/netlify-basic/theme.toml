@@ -4,7 +4,7 @@
 name = "Netlify Basic"
 license = "MIT"
 description = "A very basic theme for a quickstart template"
-homepage = "https://composed-sand.cloudvent.net/"
+homepage = "https://fair-puddle.cloudvent.net/"
 tags = []
 features = []
 min_version = "0.41.0"
