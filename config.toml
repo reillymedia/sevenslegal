@@ -19,7 +19,6 @@ title = true
 [taxonomies]
     category = "categories"
     tag = "tags"
-disableKinds = ["sitemap", "RSS", "robotsTXT"]
 [permalinks]
   categories =  '/:slug/'
 [menu]
