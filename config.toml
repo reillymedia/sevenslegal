@@ -1,10 +1,10 @@
-baseURL = 'https://fair-puddle.cloudvent.net/'
+baseURL = '/'
 languageCode = 'en-us'
 DefaultContentLanguage = "en"
 title = 'Free Consultation | San Diego Criminal Defense Lawyer'
 theme = 'netlify-basic'
 [params]
-  hostName = 'https://fair-puddle.cloudvent.net'
+  hostName = 'hhttps://cool-waves.cloudvent.net/'
   name = 'Criminal Defense Attorney San Diego'
   site_description = "Sevens Legal, APC"
   author = 'sevenslegal'
