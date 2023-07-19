@@ -1,0 +1,40 @@
+---
+title: 'San Diego Restraining Order Lawyer'
+url: '/san-diego-restraining-order-lawyer/'
+date: Tue, 28 Sep 2010 16:37:24 +0000
+draft: false
+---
+
+[![San Diego Restraining Order Lawyer](https://www.sevenslegal.com/wp-content/uploads/2014/12/Samantha-Greene-2-200x300.jpg)](https://www.sevenslegal.com/wp-content/uploads/2014/12/Samantha-Greene-2.jpg)San Diego Restraining Order Lawyer
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+### What is a Restraining Order?
+
+A restraining order (also called a "protective order" or injunction) is a court order that can protect someone from being physically or sexually abused, threatened, stalked, or harassed. They can be a Temporary Restraining Order (TRO) or a permanent order. The person getting the restraining order is called the "protected person." The person the restraining order is against is the "restrained person." Sometimes, restraining orders include other "protected persons" like family or household members of the protected person.
+
+There are various types of restraining orders that can be placed by the Court. Among them are restraining orders for Domestic Violence, Elder or Dependent Adult Abuse, Civil Harassment, and Workplace Violence. If you believe that a restraining order is invalid, based on false information, or improperly served, you should contact an attorney who can advise you on how to proceed without being in violation of the restraining order.
+
+Domestic Violence Restraining Order ("DVRO")
+--------------------------------------------
+
+Often used in instances of spousal abuse, the domestic violence restraining order is sometimes called a DVRO.  These orders are obtained by filing a petition with the local Court alleging that someone close to them has used threats of violence, is stalking, or has inflicted injury upon the requesting party. It is particularly important that the person to be restrained is represented by competent legal counsel due to the fact that once the DVRO is issued it will remain in effect for a minimum of three years and can last as long as ten years.
+
+DVRO's are frequently inappropriately used by divorce attorneys that employ them as leverage in upcoming divorce proceedings, child custody hearings, and for revenge in instances of infidelity and other reasons. Violation of a DVRO can be prosecuted under Penal Code 136.1 and 136.2. The charges could be brought either as a felony or a misdemeanor and can carry jail time or imprisonment if convicted.
+
+Temporary Restraining Order ("TRO")
+-----------------------------------
+
+Under California law, victims of physical abuse, threats, stalking, or harassment can file for Civil Harassment Restraining Orders when harassed by someone not close to them, such as abuse by roommates, neighbors or co-workers. The rules for civil harassment restraining orders are found in the Code of Civil Procedure section 527.6. To obtain a Temporary Restraining Order (TRO), one must show that there is reasonable proof of harassment by the defendant (respondent), and great or irreparable harm would result to plaintiff (petitioner). In a permanent restraining order hearing, the standard of proof is clear and convincing evidence rather than reasonable proof of harassment, which can be difficult to show.
+
+Appealing a Restraining Order
+-----------------------------
+
+The California judicial system allows those who have been found guilty of harassment or abuse to appeal the court's decision to place a restraining order on them, prohibiting their contact with the protected person. To appeal the court's decision to place a restraining order on you, you must file the appropriate appeal form with the Appellate Court. You may file this petition yourself, but it is highly advisable to have a lawyer file your appeal, although it isn't required by law. You will be asked to state your reasons for appealing the restraining order.
+
+To successfully dismiss a restraining order, you and your attorney must prove that either a law was not upheld during your trial, evidence was not sufficiently examined, or that the investigators in the case did not come to logical conclusions. A panel of three judges will examine the transcripts and evidence in your case to determine if a miscarriage of justice transpired and so dismiss the restraining order.
+
+When making the decision to appeal, bear in mind that an appeal doesn't grant you a new trial. No further evidence or testimony is considered. A higher court thoroughly reviews your case to look for mistakes or inconsistencies on the part of legal counsel and the previous judge.
+
+### [Contact a San Diego Restraining Order Lawyer](#contact)
+
+Unjust restraining orders can greatly restrict a person's public, private, and personal activities. If you feel victimized by an unwarranted restraining order, contact Sevens Legal, APC, today for a free consultation.

@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    {{ partial "head" . }}
+
+
+    <style>
+
+        .ti {
+            font-size: 22px;
+            padding: 10px;
+            background-color: #dcaa5c;
+            color: black;
+        }
+
+        .ti:hover {
+            color: white;
+            cursor: pointer;
+        }
+
+    </style>
+
+</head>
+
+<body class="{{ .Type }} {{ with .File }}{{ .TranslationBaseName }}{{ end }}">
+    {{ partial "header" . }}
+    {{ partial "banner" . }}
+       {{ partial "awards" . }}
+         {{ partial "breadcrums" . }}
+    <main class="site-main">
+        <section class="text-center blogs_sec">
+        <div class="container text-start">
+            <div class="row">
+                <div class="col-7" style="margin: 30px;">
+                    
+                    {{ range .Paginator.Pages }}
+                    <div>
+                        <section>
+                            <div class="row" style="margin-bottom: 30px;">
+                                <div class="col">
+                                    <a href="{{ .Permalink }}" style="text-decoration: none;">
+                                        <h3 class="ti">{{ .Title }}</h3>
+                                    </a>
+                                    <p style="border-color: rgb(0,0,0);color: rgb(68,68,68);margin-top: 10px;">{{ .Content }}</p>
+                                </div>
+                            </div>
+                        </section>
+                    </div>
+                    {{ end }}
+                    {{ template "_internal/pagination.html" . }}
+                </div>
+                <div class="col">
+                   <div class="sidebox" id="categories-2"><h2>Categories</h2>
+							
+   </div>              
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    </main>
+    {{ partial "practice-areas" . }}
+    {{ partial "getin-touch" . }}
+    {{ partial "footer" . }}
+    {{ partial "scripts" . }}
+</body>
+
+</html>

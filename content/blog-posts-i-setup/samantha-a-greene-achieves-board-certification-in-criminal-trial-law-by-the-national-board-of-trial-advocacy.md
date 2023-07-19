@@ -1,0 +1,32 @@
+---
+title: 'SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN CRIMINAL TRIAL LAW BY THE NATIONAL BOARD OF TRIAL ADVOCACY'
+url: '/awards/samantha-a-greene-achieves-board-certification-in-criminal-trial-law-by-the-national-board-of-trial-advocacy/823/'
+date: Wed, 13 Jun 2018 18:02:39 +0000
+draft: false
+categories: ['Awards']
+---
+
+For Immediate Release June 13, 2018
+
+![Samantha A. Greene - Criminal Defense Attorney in San Diego](https://www.sevenslegal.com/wp-content/uploads/2014/12/Samantha-Greene-2-200x300.jpg) **ATTORNEY SAMANTHA A. GREENE ACHIEVES BOARD CERTIFICATION IN ** **CRIMINAL TRIAL LAW BY THE NATIONAL ****BOARD OF TRIAL ADVOCACY**
+
+**SAN DIEGO, CA - SAMANTHA A. GREENE** -The National Board of Trial Advocacy (NBTA) is pleased to announce that Samantha A. Greene of the law firm, Samantha A. Greene has successfully achieved Board Certification as a criminal trial advocate. The NBTA was formed out of a strong conviction that both the law profession and its clients would benefit from an organization designed specifically to create an objective set of standards illustrating an attorney's experience and expertise in the practice of trial law.
+
+Samantha A. Greene, joins a growing number of trial attorneys that have illustrated their commitment to bettering the legal profession by successfully completing a rigorous application processand providing the consumer of legal services with an objective measure by which to choose qualified and experienced legal counsel.
+
+The elaborate screening of credentials that all NBTA board certified attorneys must successfully complete includes: demonstration of substantial trial experience, submission of judicial and peer references to attest to their competency, attendance of continuing legal education courses, submission of legal writing documents, proof of good standing and passing of an examination.
+
+Board Certification is the highest, most stringent, and most reliable honor an attorney can achieve. Board certifications are the only distinctions awarded by non-profit organizations. The NBTA as well as all board certifying organizations are committed to safeguarding the public’s ability to choose a good attorney.
+
+Samantha A. Greene earned his/her undergraduate degree in criminal justice. She is a graduate of Univ of California Santa Barbara; CA. Samantha A. Greene is licensed to practice in California. She is a criminal law specialist in california.
+
+Approximately three percent of American lawyers are board certified, and Samantha A. Greene is a member of a very select group who has taken the time to prove competence in their specialty area and earn board certification. For more information on Attorney Samantha A. Greene, please visit: [www.sevenslegal.com](https://www.sevenslegal.com/samantha-greene/) and [www.nbtalawyers.org](http://www.nbtalawyers.org)
+
+National Board of Trial Advocacy (NBTA)  
+Certifications in: Civil, Criminal, Family Law,  
+Social Security Disability & Civil Pretrial  
+850 Franklin Street, Suite 8  
+Wrentham, MA 02093  
+Phone 508.384.6565  
+Fax 508.384.8223  
+www.nbtalawyers.org

@@ -48,3 +48,24 @@ weight = -120
 weight = -100
     name = "Contact"
     url = "/contact/"
+
+    [outputFormats]
+  [outputFormats.WebAppManifest]
+      mediaType = "application/manifest+json"
+        rel = "manifest"
+    [outputFormats.RSS]
+        baseName = "rss"
+    [outputFormats.IMAGESSITEMAP]
+  MediaType              = "application/xml"
+  BaseName               = "imagessitemap"
+  isPlainText            = false
+  isHTML                 = false
+  noUgly                 = true
+  permalinkable          = false
+
+[outputs]
+    home = ["HTML", "RSS", "JSON", "WebAppManifest", "IMAGESSITEMAP"]
+    page = ["HTML"]
+    section = ["HTML","RSS"]
+    taxonomyTerm = ["HTML"]
+    taxonomy = ["HTML"]

@@ -1,0 +1,47 @@
+---
+title: 'San Diego Property Crime Lawyer'
+url: '/san-diego-property-crime-lawyer/'
+date: Sat, 28 Aug 2010 16:21:38 +0000
+draft: false
+---
+
+[![San Diego Property Crime Lawyer](https://www.sevenslegal.com/wp-content/uploads/2014/12/Samantha-Greene-2-200x300.jpg)](https://www.sevenslegal.com/wp-content/uploads/2014/12/Samantha-Greene-2.jpg)San Diego Property Crime Lawyer
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Crime against property means a crime that destroys or deprives an owner of property against the owner's will. These crimes are considered less serious than violent crimes, or crimes against persons, because they do not involve force or threat of force against a victim. Property crime is a category of crime that includes burglary, larceny, motor vehicle theft, shoplifting, and vandalism. Theft of small, valuable items like cash, electronics, power tools, cell phones, and jewelry are probably the most common type of property crime. Additionally, crimes that destroy or deface property like arson and vandalism are also considered crimes against property.
+
+Types of Property Theft Crimes
+------------------------------
+
+California theft crimes are defined by the amount of loss and the manner in which the item of value is taken. Though some theft crimes are misdemeanors, the majority are considered serious enough to be charged as felonies.
+
+Grand Therft - Penal Code Section 487(a)
+----------------------------------------
+
+Grand theft under California Penal Code Section 487(a) is defined as the illegal or unlawful taking of another person's property which is valued in excess of $950. This crime can be charged as either a felony or a misdemeanor. Typically, the prosecutor will use certain factors to determine whether to file as a misdemeanor or a felony. These factors include criminal history, the value of the item taken, whether a weapon was used, and the degree of criminality necessary to commit the offense. Accordingly, the more serious the crime, the more likely the crime will be charged as a felony.
+
+As food production is a major part of California’s economy and is given special protection, the threshold for felony grand theft of farm crops and seafood is much lower than nonfood items. Whereas most stolen nonfood items must be valued at more than $950 to trigger felony grand theft charges, the threshold for certain stolen foodstuffs is just $250. Convictions in San Diego County have resulted in jail sentences of up to three years.
+
+Petty Theft - Penal Code Section 484
+------------------------------------
+
+If an item taken is valued at $950 or less, then the crime is considered a California Petty Theft in violation of Penal Code Section 484. This crime is a misdemeanor. Shoplifting often falls into this category.
+
+Car Theft - Penal Code 487(d)(1)
+--------------------------------
+
+Stealing a car that you intend to keep and thus deprive the owner of their vehicle, may result in a charge under Penal Code 487(d)(1), Grand Theft Auto. As this crime can only be committed through force, deception or false pretenses, there is no such thing as petty theft auto. Theft of a car it is automatically considered grand theft auto, no matter the value of the car.
+
+Burglary - Penal Code 459
+-------------------------
+
+Burglary is a much more serious offense than theft because it is committed on property where the burglar has no legal right to be, making it a particularly personal crime. Burglary requires only unlawful entry with a victim present at the time and the intention to commit a crime. It does not require the offender to make off with stolen property or even to harm a victim. Under California Penal Code 459, you can be found guilty of burglary in California for entering a residence, vehicle, vessel, or any structure with the intention of either stealing property or committing a felony.
+
+Arson - Penal Code 459
+----------------------
+
+Arson is defined under California Penal Code section 451. Under this statue, it is illegal not only to commit arson but also to help, assist or aid another in an act of arson. Arson is the act of intentionally and maliciously setting fire to property, land, business or a residential dwelling. Setting fire to your own property is also illegal. "Reckless burning" of personal property under California Penal Code 452 is usually a misdemeanor, but may be charged as a felony if you burn a structure or forest land, cause great bodily injury, or when there is the intent to commit insurance fraud.
+
+### [Contact a San Diego Property Crime Lawyer](#contact)
+
+Engaging with an experienced and effective criminal defense attorney can have a significant impact on the outcome of your case. If you have been charged with a property crime and need aggressive criminal defense representation, contact Sevens Legal, APC, today for a free consultation.

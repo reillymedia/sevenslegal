@@ -1,0 +1,36 @@
+---
+title: 'Homicide Attorney San Diego'
+url: '/homicide-attorney-san-diego/'
+date: Sun, 07 Jun 2020 15:36:03 +0000
+draft: false
+---
+
+Finding the Best Homicide Attorney in San Diego
+-----------------------------------------------
+
+Any situation where a person dies because of someone else’s actions can result in criminal charges being filed against the alleged criminal offender. California law does not require malice (acting with intent to cause injury or death) or premeditation (deciding to kill before completing the act) for charges to be brought against a defendant who unlawfully takes the life of another person; the unlawful killing of a human being – a homicide – can still be punished even if the victim’s death was an accident. If you are facing homicide charges in San Diego, your freedom and your future are on the line. Your best chance at having the strongest possible defense against these serious criminal charges and preserving your freedom is to retain a skilled criminal defense lawyer to represent you. Contact Sevens Legal, APC today to schedule a free consultation with our award-winning San Diego criminal defense attorneys.
+
+California Homicide Law
+-----------------------
+
+If you have been accused of killing of another person, a crime broadly defined as homicide, you could end up [facing charges for murder or manslaughter under California law](https://www.sevenslegal.com/criminal-attorney/difference-murder-manslaughter/281/). Homicide is the term used to describe the unlawful killing of another person and murder is the most aggravated form of homicide, defined as an unlawful killing with “malice aforethought” (California Penal Code § 187(a) PC). In California, a person accused of committing a homicide can be charged with any of the following offenses, depending on the circumstances of the alleged crime: • First-degree murder is any murder “perpetrated by means of a destructive device or explosive, a weapon of mass destruction, knowing use of ammunition designed primarily to penetrate metal or armor, poison, lying in wait, torture, or by any other kind of willful, deliberate, and premeditated killing,” according to PC § 189(a). • Second-degree murder is any murder that does not qualify as first-degree murder. • Capital murder, also known as “first-degree murder with special circumstance,” is a first-degree murder that is punishable by the death penalty or life in prison without the possibility of parole. Some examples of “special circumstances” include killing for financial gain, killing a witness to prevent him or her from testifying, killing as a hate crime, or killing a police officer, prosecutor, judge or elected official. • Voluntary manslaughter is a homicide that is willful and deliberate, but not premeditated. • Involuntary manslaughter is a homicide committed without malice or an intent to kill, but rather with a conscious disregard for human life. • Vehicular manslaughter is causing the death of another person while driving a vehicle and either committing an unlawful act that is not considered a felony or committing a lawful act that may result in death.
+
+California Felony Murder Rule
+-----------------------------
+
+California’s felony murder rule automatically classifies a homicide as first-degree murder when the killing occurs during the commission of a dangerous felony, such as robbery, rape, kidnapping or arson. Under this rule, felony murder charges can be brought against the person who actually committed the killing, as well as any other person(s) who aided the killing with the intent to kill or acted with reckless disregard to human life during the course of committing the felony offense.
+
+Homicide Criminal Penalties
+---------------------------
+
+Sentencing and punishment for a California homicide is severe. The penalty you could face for a homicide in San Diego is contingent on the specific criminal charges brought against you. For instance, a conviction on charges of first-degree murder carries a penalty of 25 years to life in state prison while a conviction on charges of second-degree murder carries a penalty of 15 years to life. Comparatively, if you are convicted on charges of involuntary manslaughter, you might face a penalty of one year in jail or up to four years in prison, plus fines, victim restitution and other penalties. With the right defense strategy, an experienced criminal defense attorney may be able to get your criminal charges dropped or reduce your level of culpability and punishment, which in homicide cases, can mean the difference between serving a few years in prison or facing the death penalty.
+
+Building a Defense Against Homicide Charges
+-------------------------------------------
+
+In all criminal cases in California, the burden of proof lies with the prosecution. That means the prosecutor is required to prove beyond a reasonable doubt that the defendant is guilty of the crime in question. Each type of homicide in San Diego – from [murder](/murder-lawyer-san-diego/) to vehicular manslaughter – is a very specific crime with specific elements, and in order to get a guilty verdict, the prosecution must be able to prove each element of the crime to the jury. When it comes to building a strong defense against homicide charges in San Diego and fighting the prosecution’s charges, the best strategy for a successful outcome depends on the facts of the case. There are a number of legal defenses a knowledgeable criminal defense attorney can present on your behalf against San Diego homicide charges, including the following: • Self-defense or in defense of others • Illegal search and seizure • Insanity • Mistaken identity • Accidental killing • Killing in the heat of passion Homicide cases can be extremely complicated and traumatic, and a conviction for murder or manslaughter in California can be life-altering, or in some cases, may cost you your life. Whatever criminal charges you are facing, it is important to remember that state laws are constantly changing. For reliable legal advice on fighting your specific homicide charges, your best bet is to contact a criminal defense attorney who specializes in California murder and manslaughter defense.
+
+Free Homicide Consultation in San Diego
+---------------------------------------
+
+Homicide is a serious crime in California and defendants charged with the criminal act of unlawfully taking another person’s life are prosecuted aggressively and punished harshly under the law. If you or someone you love has been charged with murder or manslaughter in San Diego, it is imperative that you consult a reputable criminal defense lawyer as quickly as possible to discuss how best to proceed with your case. You may only get one chance to defend yourself against these criminal charges and having a seasoned criminal defense attorney on your side can significantly improve your chances of obtaining a favorable outcome in your homicide case. Contact Sevens Legal, APC today to speak to a reputable San Diego criminal defense attorney about your legal options.
