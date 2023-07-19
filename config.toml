@@ -4,7 +4,7 @@ DefaultContentLanguage = "en"
 title = 'Free Consultation | San Diego Criminal Defense Lawyer'
 theme = 'netlify-basic'
 [params]
-  hostName = 'hhttps://cool-waves.cloudvent.net/'
+  hostName = 'https://cool-waves.cloudvent.net/'
   name = 'Criminal Defense Attorney San Diego'
   site_description = "Sevens Legal, APC"
   author = 'sevenslegal'
