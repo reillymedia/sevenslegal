@@ -64,7 +64,7 @@ weight = -100
   permalinkable          = false
 
 [outputs]
-    home = ["HTML", "RSS", "JSON", "IMAGESSITEMAP"]
+    home = ["HTML", "RSS", "JSON", "WebAppManifest", "IMAGESSITEMAP"]
     page = ["HTML"]
     section = ["HTML","RSS"]
     taxonomyTerm = ["HTML"]
